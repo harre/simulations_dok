@@ -31,12 +31,20 @@
 \chapter{Documentation}
 
 \begin{itemize}
+\item[13.02.2012]
+Deleted some jobs I started yesterday because they had artificial crosses 
+or were practically unconstrained \\
+Third simulation \texttt{fuenfincr256\_1} ran through - Galacticus 
+restart worked well! \\
+\textbf{Note: IC with same seed but higher resolution do not yield the same 
+simulation!} $rightarrow$ started two more test runs from r128 sims to doublecheck \\
+
 
 \item[12.02.2012]
 Updated Galacticus to revision 707 as suggested by Andrew and added parameter 
 \texttt{hotHaloOutflowAngularMomentumAlwaysGrows} to xml file. \\
 Two of four simulations ran through (copied hdf5 to transfer), 
-two crashed -> try to continue at saved states!
+two crashed $rightarrow$ try to continue at saved states!
 
 
 \item[10.02.2012]
@@ -125,10 +133,13 @@ is being rockstarred
 \newpage
 \subsection{h100} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsubsection{drd5\_r256} 
+\subsubsection{drd5\_r256 (+)} 
 
 \includegraphics[scale=0.12]{drd5_r256/rotate_00185.jpg} 
 \includegraphics[scale=0.12]{drd5_r256/rotate_00136.jpg} 
+\includegraphics[scale=0.6]{drd5_r256/Black_Hole_vs_Bulge_Mass.pdf}
+\includegraphics[scale=0.6]{drd5_r256/Star_Formation_History.pdf}
+\includegraphics[scale=0.6]{drd5_r256/HI_Gas_Mass_Function.pdf}
 
 \textsc{rockstarred} $\surd$ \\ \textsc{consistenttreed} $\surd$  \\ \textsc{galacticus}: 
 \begin{verbatim}
@@ -138,7 +149,8 @@ galacticus.sh: line 67: 25689 Aborted
 \end{verbatim}
 tree copied to markus transfer \\
 $\rightarrow$ re-converted with bugfixed converter \\
-galacticus running on SGE
+galacticus running on SGE \\
+\textsc{galacticussed} $\surd$ 
 
 \newpage
 \subsubsection{drd5\_r256\_2 $\rightarrow$ dump!} 
@@ -170,6 +182,15 @@ $\rightarrow$ DUMP IT ?
 
 
 \newpage
+\subsubsection{drkltest+3c+sl50\_1}
+
+
+\includegraphics[scale=0.2]{drkltest+3c+sl50_1/1.png} 
+\includegraphics[scale=0.2]{drkltest+3c+sl50_1/2.png}
+
+is being rockstarred on astro-x4600-04 
+
+\newpage
 \subsubsection{fuenfincr256\_1}
 
 \includegraphics[scale=0.12]{fuenfincr256_1/1.png} 
@@ -193,12 +214,25 @@ gsl: ../../../../roots/brent.c:57: ERROR: function value is not finite
 Default GSL error handler invoked.
 \end{verbatim}
 $\rightarrow$ E-Mail to Andrew \\
+\textsc{galacticussed} $\surd$
+BUT: 
+\begin{verbatim}
+[3:46:48 PM CEST] Markus Haider: der fuenfincr256_1 hat a problem
+[3:46:52 PM CEST] Markus Haider: der hat keine output gruppe
+[3:46:58 PM CEST] Markus Haider: also keinen output
+[3:47:30 PM CEST] Markus Haider: btw schon einen output
+[3:47:34 PM CEST] Markus Haider: aber es scheint was zu fehlen
+\end{verbatim}
 
 \newpage
 \subsubsection{fuenfincr256\_2 $\rightarrow$ dump!}
 
 \includegraphics[scale=0.12]{fuenfincr256_2/1.png} 
 \includegraphics[scale=0.12]{fuenfincr256_2/2.png}
+\includegraphics[scale=0.6]{fuenfincr256_2/Black_Hole_vs_Bulge_Mass.pdf}
+\includegraphics[scale=0.6]{fuenfincr256_2/Star_Formation_History.pdf}
+\includegraphics[scale=0.6]{fuenfincr256_2/HI_Gas_Mass_Function.pdf}
+
 
 \textsc{rockstarred} $\surd$ (lasted about 9000minutes) \\
 \textsc{consistenttreed} $\surd$ \\ 
@@ -210,8 +244,8 @@ failed to find descendent node
 \end{verbatim}
 $\rightarrow$ re-converted with bugfixed converter (v0.3) \\
 galacticus running on SGE
-$\rightarrow$ gadgetviewer: simulation has "artificial" cross on right upper corner $\rightarrow$ DUMP IT ?
-
+$\rightarrow$ gadgetviewer: simulation has "artificial" cross on right upper corner $\rightarrow$ DUMP IT ? \\
+\textsc{galacticussed} $\surd$
 
 
 

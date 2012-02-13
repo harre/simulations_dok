@@ -31,6 +31,19 @@
 \chapter{Documentation}
 
 \begin{itemize}
+\item[13.02.2012]
+Deleted some jobs I started yesterday because they had artificial crosses 
+or were practically unconstrained \\
+Third simulation \texttt{fuenfincr256\_1} ran through - Galacticus 
+restart worked well! \\
+
+
+\item[12.02.2012]
+Updated Galacticus to revision 707 as suggested by Andrew and added parameter 
+\texttt{hotHaloOutflowAngularMomentumAlwaysGrows} to xml file. \\
+Two of four simulations ran through (copied hdf5 to transfer), 
+two crashed -> try to continue at saved states!
+
 
 \item[10.02.2012]
 wrote E-Mail to Andrew about performance problems and wavelenght computation error 
@@ -45,7 +58,6 @@ started some runs with higher central delta and broader smoothing lenghts, i.e.
 83496 0.54786 d3+3c_sl50 harre   r     02/10/2012 15:37:13 intel.q@astro12  16        
 83497 0.60500 d3+3c_sl50 harre   r     02/10/2012 15:39:16 intel.q@astro30  32  
 83498 0.60500 d15+3c_sl5 harre   r     02/10/2012 15:44:23 intel.q@astro30  16        
-
 \end{verbatim}
 
 \item[09.02.2012]
