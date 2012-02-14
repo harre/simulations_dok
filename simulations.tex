@@ -31,6 +31,9 @@
 \chapter{Documentation}
 
 \begin{itemize}
+\item[14.02.2012]
+Wrote E-Mail to Bertschinger. \\
+
 \item[13.02.2012]
 Deleted some jobs I started yesterday because they had artificial crosses 
 or were practically unconstrained \\
@@ -121,6 +124,14 @@ consistenttree: too few halos at scale factor 0.896 ... $\rightarrow$ wtf?
 \includegraphics[scale=0.12]{drdx_h100_r128_2/2.png} 
 is being rockstarred 
 
+\newpage
+\subsubsection{drkltest+3c+sl50\_1}
+\begin{verbatim}
+Error: too few halos at scale factor 0.890265 to calculate consistency metric.
+Please remove this and all earlier timesteps from the scale file and rerun.
+(DescScales.txt)
+\end{verbatim}
+
 
 
 
@@ -191,8 +202,8 @@ $\rightarrow$ DUMP IT ?
 
 
 This run is a test if r256 and r128 (\texttt{drdx\_3}) 
-are comparable $\rightarrow$ see pictures. 
-
+are comparable $\rightarrow$ see pictures. \\
+is being rockstarred on astro-x4600-03 \\
 
 \newpage
 \subsubsection{drkltest+3c+sl50\_1}
@@ -272,16 +283,18 @@ This run is a test if r256 and r128 (\texttt{gendrkl\_1c\_1}) are comparable $\r
 \begin{verbatim}
 $ diff drkt+3c+sl5_1+r2/constraints_drkt+3c+sl5_1+r2.f 
 r128/h100/gendrkl1_1c_1/constraints_gendrkl1_1c_1.f 
-
+\end{verbatim}
+\begin{verbatim}
 $ diff gendrkl1r2_1c_1/grafic_inc_gendrkl1r2_1c_1.f  
 r128/h100/gendrkl1_1c_1/grafic_inc_gendrkl1_1c_1.f 
 5c5
 < 	parameter (np1=256,np2=256,np3=256,ncon=1)
 ---
 > 	parameter (np1=128,np2=128,np3=128,ncon=1)
+\end{verbatim}
 
-$diff drkt+3c+sl5_1+r2/graficIO_drkt+3c+sl5_1+r2.out
-r128/h100/gendrkl1_1c_1/graficIO_gendrkl1_1c_1.out 
+\begin{verbatim}
+diff gendrkl1r2_1c_1/graficIO_gendrkl1r2_1c_1.out r128/h100/gendrkl1_1c_1/graficIO_gendrkl1_1c_1.out 
 23c23
 <  Particle lattice size: np1,np2,np3=         256         256         256
 ---
@@ -294,59 +307,50 @@ r128/h100/gendrkl1_1c_1/graficIO_gendrkl1_1c_1.out
 >  chosen:  0.25000000       0.0000000      5.00000007E-02
 >  npart, L_x, L_y, L_z=  2097152    32.00    32.00    32.00 Mpc
 >  Particle mass= .1158E+10 solar masses
-29c29
-<  chosen:   661410019
----
->  chosen:   110011410
 37c37
 <           ak,akmax=   16.100662       16.000005475554534     
 ---
 >           ak,akmax=   16.068306       16.000005475554534     
 40,41c40,41
 <       Mean sigma_delta, sigma_psi=   4.8100653       4.7177238      Mpc
-<       Chisq, dof, nu=   16779066.        16777215  0.31968603    
+<       Chisq, dof, nu=   16781832.        16777215  0.79710007    
 ---
 >       Mean sigma_delta, sigma_psi=   4.1531582       4.7162638      Mpc
 >       Chisq, dof, nu=   2095840.0         2097151 -0.64012647    
-43,45c43
-<  Constraint   1:  Sampled, desired=-0.18943709E-02 0.25000000E-01
-<  Constraint   2:  Sampled, desired=-0.25784860E-02 0.25000000E-01
-<  Constraint   3:  Sampled, desired=-0.32668673E-02 0.25000000E-01
+43c43
+<  Constraint   1:  Sampled, desired= 0.28453870E-02 0.25000000E-01
 ---
 >  Constraint   1:  Sampled, desired=-0.64672055E-02 0.25000000E-01
-47,48c45,46
-<  Chi-square for the   3 constraints:
-<       Sampled, desired=   1.8661366       27.346775    
+46c46
+<       Sampled, desired=  0.21657717       16.718990    
 ---
->  Chi-square for the   1 constraints:
 >       Sampled, desired=   1.1184790       16.713776    
-51,53c49
-<  Constraint   1:  Final= 0.26051383E-01
-<  Constraint   2:  Final= 0.26259070E-01
-<  Constraint   3:  Final= 0.26464038E-01
+49c49
+<  Constraint   1:  Final= 0.25000000E-01
 ---
 >  Constraint   1:  Final= 0.25000002E-01
-56,58c52,54
-<       sigma_delta, sigma_psi=   4.9218068       7.0955100      Mpc
-<       Chisq, dof=   16779068.        16777212
-<       Maximum delta, displacement=   29.811523       16.539606      Mpc
+52,54c52,54
+<       sigma_delta, sigma_psi=   4.9692168       7.6522889      Mpc
+<       Chisq, dof=   16781832.        16777214
+<       Maximum delta, displacement=   27.548712       17.026833      Mpc
 ---
 >       sigma_delta, sigma_psi=   4.2376528       6.6093922      Mpc
 >       Chisq, dof=   2095838.9         2097150
 >       Maximum delta, displacement=   22.542503       14.168747      Mpc
-60c56
-<  Scaling density and displacements to a=  2.54245773E-02
+56c56
+<  Scaling density and displacements to a=  2.75129788E-02
 ---
 >  Scaling density and displacements to a=  3.36233079E-02
-62,63c58,59
-<  For a=astart: linear sigma, delmax=  0.16509746       1.0000000    
-<  RMS, max. 3-D displacement=  0.23801233      0.55480576      Mpc
+58,59c58,59
+<  For a=astart: linear sigma, delmax=  0.18037927      0.99999994    
+<  RMS, max. 3-D displacement=  0.27777302      0.61806273      Mpc
 ---
 >  For a=astart: linear sigma, delmax=  0.18798503       1.0000000    
 >  RMS, max. 3-D displacement=  0.29319692      0.62853473      Mpc
+
 \end{verbatim}
 
-\textbf{redo the test!} \\
+E-Mail sent to Bertschinger \\
 
 %
 %dreikluane1 
