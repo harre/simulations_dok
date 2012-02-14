@@ -182,6 +182,19 @@ $\rightarrow$ DUMP IT ?
 
 
 \newpage
+\subsubsection{drdx\_3\_r256}
+
+\includegraphics[scale=0.2]{drdx_3_r256/1.png} 
+\includegraphics[scale=0.2]{drdx_3_r256/2.png} \\
+\includegraphics[scale=0.2]{drdx_3_r256/4.png} 
+\includegraphics[scale=0.2]{drdx_3_r256/3.png} 
+
+
+This run is a test if r256 and r128 (\texttt{drdx\_3}) 
+are comparable $\rightarrow$ see pictures. 
+
+
+\newpage
 \subsubsection{drkltest+3c+sl50\_1}
 
 
@@ -248,8 +261,92 @@ $\rightarrow$ gadgetviewer: simulation has "artificial" cross on right upper cor
 \textsc{galacticussed} $\surd$
 
 
+\newpage
+\subsubsection{gendrkl1r2\_1c\_1}
 
+\includegraphics[scale=0.2]{gendrkl1r2_1c_1/1.png} \\
+\includegraphics[scale=0.2]{gendrkl1r2_1c_1/2.png} 
 
+This run is a test if r256 and r128 (\texttt{gendrkl\_1c\_1}) are comparable $\rightarrow$ see pictures. Sims are not only different in resolution! 
+
+\begin{verbatim}
+$ diff drkt+3c+sl5_1+r2/constraints_drkt+3c+sl5_1+r2.f 
+r128/h100/gendrkl1_1c_1/constraints_gendrkl1_1c_1.f 
+
+$ diff gendrkl1r2_1c_1/grafic_inc_gendrkl1r2_1c_1.f  
+r128/h100/gendrkl1_1c_1/grafic_inc_gendrkl1_1c_1.f 
+5c5
+< 	parameter (np1=256,np2=256,np3=256,ncon=1)
+---
+> 	parameter (np1=128,np2=128,np3=128,ncon=1)
+
+$diff drkt+3c+sl5_1+r2/graficIO_drkt+3c+sl5_1+r2.out
+r128/h100/gendrkl1_1c_1/graficIO_gendrkl1_1c_1.out 
+23c23
+<  Particle lattice size: np1,np2,np3=         256         256         256
+---
+>  Particle lattice size: np1,np2,np3=         128         128         128
+25,27c25,27
+<  chosen:  0.12500000       0.0000000      5.00000007E-02
+<  npart, L_x, L_y, L_z= 16777216    32.00    32.00    32.00 Mpc
+<  Particle mass= .1447E+09 solar masses
+---
+>  chosen:  0.25000000       0.0000000      5.00000007E-02
+>  npart, L_x, L_y, L_z=  2097152    32.00    32.00    32.00 Mpc
+>  Particle mass= .1158E+10 solar masses
+29c29
+<  chosen:   661410019
+---
+>  chosen:   110011410
+37c37
+<           ak,akmax=   16.100662       16.000005475554534     
+---
+>           ak,akmax=   16.068306       16.000005475554534     
+40,41c40,41
+<       Mean sigma_delta, sigma_psi=   4.8100653       4.7177238      Mpc
+<       Chisq, dof, nu=   16779066.        16777215  0.31968603    
+---
+>       Mean sigma_delta, sigma_psi=   4.1531582       4.7162638      Mpc
+>       Chisq, dof, nu=   2095840.0         2097151 -0.64012647    
+43,45c43
+<  Constraint   1:  Sampled, desired=-0.18943709E-02 0.25000000E-01
+<  Constraint   2:  Sampled, desired=-0.25784860E-02 0.25000000E-01
+<  Constraint   3:  Sampled, desired=-0.32668673E-02 0.25000000E-01
+---
+>  Constraint   1:  Sampled, desired=-0.64672055E-02 0.25000000E-01
+47,48c45,46
+<  Chi-square for the   3 constraints:
+<       Sampled, desired=   1.8661366       27.346775    
+---
+>  Chi-square for the   1 constraints:
+>       Sampled, desired=   1.1184790       16.713776    
+51,53c49
+<  Constraint   1:  Final= 0.26051383E-01
+<  Constraint   2:  Final= 0.26259070E-01
+<  Constraint   3:  Final= 0.26464038E-01
+---
+>  Constraint   1:  Final= 0.25000002E-01
+56,58c52,54
+<       sigma_delta, sigma_psi=   4.9218068       7.0955100      Mpc
+<       Chisq, dof=   16779068.        16777212
+<       Maximum delta, displacement=   29.811523       16.539606      Mpc
+---
+>       sigma_delta, sigma_psi=   4.2376528       6.6093922      Mpc
+>       Chisq, dof=   2095838.9         2097150
+>       Maximum delta, displacement=   22.542503       14.168747      Mpc
+60c56
+<  Scaling density and displacements to a=  2.54245773E-02
+---
+>  Scaling density and displacements to a=  3.36233079E-02
+62,63c58,59
+<  For a=astart: linear sigma, delmax=  0.16509746       1.0000000    
+<  RMS, max. 3-D displacement=  0.23801233      0.55480576      Mpc
+---
+>  For a=astart: linear sigma, delmax=  0.18798503       1.0000000    
+>  RMS, max. 3-D displacement=  0.29319692      0.62853473      Mpc
+\end{verbatim}
+
+\textbf{redo the test!} \\
 
 %
 %dreikluane1 

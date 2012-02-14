@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.18)  13 FEB 2012 15:53
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.18)  14 FEB 2012 08:55
 entering extended mode
  %&-line parsing enabled.
 **simulations.tex
@@ -676,11 +676,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--77
 Chapter 2.
 [4
 
-] <drdx_3/rotate_00185.jpg, id=108, 1927.2pt x 1445.4pt>
+] <drdx_3/rotate_00185.jpg, id=118, 1927.2pt x 1445.4pt>
 File: drdx_3/rotate_00185.jpg Graphic file (type jpg)
 
 <use drdx_3/rotate_00185.jpg>
-<drdx_3/rotate_00136.jpg, id=109, 1927.2pt x 1445.4pt>
+<drdx_3/rotate_00136.jpg, id=119, 1927.2pt x 1445.4pt>
 File: drdx_3/rotate_00136.jpg Graphic file (type jpg)
 
 <use drdx_3/rotate_00136.jpg>
@@ -689,11 +689,11 @@ Overfull \hbox (104.94139pt too wide) in paragraph at lines 102--104
  []
 
 [5 <./drdx_3/rotate_00185.jpg> <./drdx_3/rotate_00136.jpg>]
-<drdx_h100_r128_1/1.png, id=115, 1927.2pt x 1084.05pt>
+<drdx_h100_r128_1/1.png, id=125, 1927.2pt x 1084.05pt>
 File: drdx_h100_r128_1/1.png Graphic file (type png)
 
 <use drdx_h100_r128_1/1.png>
-<drdx_h100_r128_1/2.png, id=116, 1927.2pt x 1084.05pt>
+<drdx_h100_r128_1/2.png, id=126, 1927.2pt x 1084.05pt>
 File: drdx_h100_r128_1/2.png Graphic file (type png)
 
 <use drdx_h100_r128_1/2.png>
@@ -702,11 +702,11 @@ Overfull \hbox (104.94139pt too wide) in paragraph at lines 111--113
  []
 
 [6 <./drdx_h100_r128_1/1.png (PNG copy)> <./drdx_h100_r128_1/2.png (PNG copy)>]
-<drdx_h100_r128_2/1.png, id=121, 1927.2pt x 1084.05pt>
+<drdx_h100_r128_2/1.png, id=131, 1927.2pt x 1084.05pt>
 File: drdx_h100_r128_2/1.png Graphic file (type png)
 
 <use drdx_h100_r128_2/1.png>
-<drdx_h100_r128_2/2.png, id=122, 1927.2pt x 1084.05pt>
+<drdx_h100_r128_2/2.png, id=132, 1927.2pt x 1084.05pt>
 File: drdx_h100_r128_2/2.png Graphic file (type png)
 
 <use drdx_h100_r128_2/2.png>
@@ -715,23 +715,23 @@ Overfull \hbox (104.94139pt too wide) in paragraph at lines 120--123
  []
 
 [7 <./drdx_h100_r128_2/1.png (PNG copy)> <./drdx_h100_r128_2/2.png (PNG copy)>]
-[8] [9] <drd5_r256/rotate_00185.jpg, id=136, 1927.2pt x 1445.4pt>
+[8] [9] <drd5_r256/rotate_00185.jpg, id=146, 1927.2pt x 1445.4pt>
 File: drd5_r256/rotate_00185.jpg Graphic file (type jpg)
 
 <use drd5_r256/rotate_00185.jpg>
-<drd5_r256/rotate_00136.jpg, id=137, 1927.2pt x 1445.4pt>
+<drd5_r256/rotate_00136.jpg, id=147, 1927.2pt x 1445.4pt>
 File: drd5_r256/rotate_00136.jpg Graphic file (type jpg)
 
 <use drd5_r256/rotate_00136.jpg>
-<drd5_r256/Black_Hole_vs_Bulge_Mass.pdf, id=138, 324.21124pt x 240.9pt>
+<drd5_r256/Black_Hole_vs_Bulge_Mass.pdf, id=148, 324.21124pt x 240.9pt>
 File: drd5_r256/Black_Hole_vs_Bulge_Mass.pdf Graphic file (type pdf)
 
 <use drd5_r256/Black_Hole_vs_Bulge_Mass.pdf>
-<drd5_r256/Star_Formation_History.pdf, id=139, 328.22626pt x 239.89626pt>
+<drd5_r256/Star_Formation_History.pdf, id=149, 328.22626pt x 239.89626pt>
 File: drd5_r256/Star_Formation_History.pdf Graphic file (type pdf)
 
 <use drd5_r256/Star_Formation_History.pdf>
-<drd5_r256/HI_Gas_Mass_Function.pdf, id=140, 333.245pt x 240.9pt>
+<drd5_r256/HI_Gas_Mass_Function.pdf, id=150, 333.245pt x 240.9pt>
 File: drd5_r256/HI_Gas_Mass_Function.pdf Graphic file (type pdf)
 
 <use drd5_r256/HI_Gas_Mass_Function.pdf>
@@ -759,10 +759,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 156.
 
-<drd5_r256_2/1.png, id=222, 1927.2pt x 1084.05pt>
+<drd5_r256_2/1.png, id=232, 1927.2pt x 1084.05pt>
 File: drd5_r256_2/1.png Graphic file (type png)
  <use drd5_r256_2/1.png>
-<drd5_r256_2/2.png, id=223, 1927.2pt x 1084.05pt>
+<drd5_r256_2/2.png, id=233, 1927.2pt x 1084.05pt>
 File: drd5_r256_2/2.png Graphic file (type png)
  <use drd5_r256_2/2.png>
 Overfull \hbox (104.94139pt too wide) in paragraph at lines 158--160
@@ -799,112 +799,269 @@ icus_task_evolve_tree[]
  []
 
 [12 <./drd5_r256_2/1.png (PNG copy)> <./drd5_r256_2/2.png (PNG copy)>]
-<drkltest+3c+sl50_1/1.png, id=228, 1030.85126pt x 850.17625pt>
+<drdx_3_r256/1.png, id=238, 911.405pt x 849.1725pt>
+File: drdx_3_r256/1.png Graphic file (type png)
+ <use drdx_3_r256/1.png>
+<drdx_3_r256/2.png, id=239, 845.1575pt x 829.0975pt>
+File: drdx_3_r256/2.png Graphic file (type png)
+ <use drdx_3_r256/2.png>
+<drdx_3_r256/4.png, id=240, 886.31125pt x 821.0675pt>
+File: drdx_3_r256/4.png Graphic file (type png)
+ <use drdx_3_r256/4.png>
+<drdx_3_r256/3.png, id=241, 880.28876pt x 813.0375pt>
+File: drdx_3_r256/3.png Graphic file (type png)
+ <use drdx_3_r256/3.png>
+[13 <./drdx_3_r256/1.png (PNG copy)> <./drdx_3_r256/2.png (PNG copy)> <./drdx_3
+_r256/4.png (PNG copy)> <./drdx_3_r256/3.png (PNG copy)>]
+<drkltest+3c+sl50_1/1.png, id=247, 1030.85126pt x 850.17625pt>
 File: drkltest+3c+sl50_1/1.png Graphic file (type png)
 
 <use drkltest+3c+sl50_1/1.png>
-<drkltest+3c+sl50_1/2.png, id=229, 820.06375pt x 774.895pt>
+<drkltest+3c+sl50_1/2.png, id=248, 820.06375pt x 774.895pt>
 File: drkltest+3c+sl50_1/2.png Graphic file (type png)
 
 <use drkltest+3c+sl50_1/2.png>
-Overfull \hbox (12.60977pt too wide) in paragraph at lines 188--190
+Overfull \hbox (12.60977pt too wide) in paragraph at lines 201--203
 [] [] 
  []
 
-[13 <./drkltest+3c+sl50_1/1.png (PNG copy)> <./drkltest+3c+sl50_1/2.png (PNG co
-py)>] <fuenfincr256_1/1.png, id=235, 1927.2pt x 1084.05pt>
+[14 <./drkltest+3c+sl50_1/1.png (PNG copy)> <./drkltest+3c+sl50_1/2.png (PNG co
+py)>] <fuenfincr256_1/1.png, id=253, 1927.2pt x 1084.05pt>
 File: fuenfincr256_1/1.png Graphic file (type png)
 
 <use fuenfincr256_1/1.png>
-<fuenfincr256_1/2.png, id=236, 1927.2pt x 1084.05pt>
+<fuenfincr256_1/2.png, id=254, 1927.2pt x 1084.05pt>
 File: fuenfincr256_1/2.png Graphic file (type png)
 
 <use fuenfincr256_1/2.png>
-Overfull \hbox (104.94139pt too wide) in paragraph at lines 196--198
+Overfull \hbox (104.94139pt too wide) in paragraph at lines 209--211
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
 
-Overfull \hbox (42.40814pt too wide) in paragraph at lines 215--215
+Overfull \hbox (42.40814pt too wide) in paragraph at lines 228--228
 []\OT1/cmtt/m/n/10.95 gsl: ../../../../roots/brent.c:57: ERROR: function value 
 is not finite[] 
  []
 
 
-Overfull \hbox (13.6647pt too wide) in paragraph at lines 225--225
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 238--238
 []\OT1/cmtt/m/n/10.95 [3:46:48 PM CEST] Markus Haider: der fuenfincr256_1 hat a
  problem[] 
  []
 
-[14 <./fuenfincr256_1/1.png (PNG copy)> <./fuenfincr256_1/2.png (PNG copy)>]
+[15 <./fuenfincr256_1/1.png (PNG copy)> <./fuenfincr256_1/2.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 228.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightarrow' on input line 228.
+(hyperref)                removing `math shift' on input line 241.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 228.
+(hyperref)                removing `\rightarrow' on input line 241.
 
-<fuenfincr256_2/1.png, id=241, 1927.2pt x 1084.05pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 241.
+
+<fuenfincr256_2/1.png, id=259, 1927.2pt x 1084.05pt>
 File: fuenfincr256_2/1.png Graphic file (type png)
 
 <use fuenfincr256_2/1.png>
-<fuenfincr256_2/2.png, id=242, 1927.2pt x 1084.05pt>
+<fuenfincr256_2/2.png, id=260, 1927.2pt x 1084.05pt>
 File: fuenfincr256_2/2.png Graphic file (type png)
 
 <use fuenfincr256_2/2.png>
-<fuenfincr256_2/Black_Hole_vs_Bulge_Mass.pdf, id=243, 324.21124pt x 240.9pt>
+<fuenfincr256_2/Black_Hole_vs_Bulge_Mass.pdf, id=261, 324.21124pt x 240.9pt>
 File: fuenfincr256_2/Black_Hole_vs_Bulge_Mass.pdf Graphic file (type pdf)
 
 <use fuenfincr256_2/Black_Hole_vs_Bulge_Mass.pdf>
-<fuenfincr256_2/Star_Formation_History.pdf, id=244, 328.22626pt x 239.89626pt>
+<fuenfincr256_2/Star_Formation_History.pdf, id=262, 328.22626pt x 239.89626pt>
 File: fuenfincr256_2/Star_Formation_History.pdf Graphic file (type pdf)
 
 <use fuenfincr256_2/Star_Formation_History.pdf>
-<fuenfincr256_2/HI_Gas_Mass_Function.pdf, id=245, 333.245pt x 240.9pt>
+<fuenfincr256_2/HI_Gas_Mass_Function.pdf, id=263, 333.245pt x 240.9pt>
 File: fuenfincr256_2/HI_Gas_Mass_Function.pdf Graphic file (type pdf)
 
 <use fuenfincr256_2/HI_Gas_Mass_Function.pdf>
-Overfull \hbox (104.94139pt too wide) in paragraph at lines 230--235
+Overfull \hbox (104.94139pt too wide) in paragraph at lines 243--248
 [] []
  []
 
 
-Overfull \hbox (33.89885pt too wide) in paragraph at lines 230--235
+Overfull \hbox (33.89885pt too wide) in paragraph at lines 243--248
 [] []
  []
 
-[15 <./fuenfincr256_2/1.png (PNG copy)> <./fuenfincr256_2/2.png (PNG copy)> <./
+[16 <./fuenfincr256_2/1.png (PNG copy)> <./fuenfincr256_2/2.png (PNG copy)> <./
 fuenfincr256_2/Black_Hole_vs_Bulge_Mass.pdf> <./fuenfincr256_2/Star_Formation_H
-istory.pdf> <./fuenfincr256_2/HI_Gas_Mass_Function.pdf>] (./simulations.aux) ) 
+istory.pdf> <./fuenfincr256_2/HI_Gas_Mass_Function.pdf>]
+<gendrkl1r2_1c_1/1.png, id=341, 1927.2pt x 1084.05pt>
+File: gendrkl1r2_1c_1/1.png Graphic file (type png)
+
+<use gendrkl1r2_1c_1/1.png>
+<gendrkl1r2_1c_1/2.png, id=342, 1927.2pt x 1084.05pt>
+File: gendrkl1r2_1c_1/2.png Graphic file (type png)
+
+<use gendrkl1r2_1c_1/2.png>
+Overfull \hbox (25.43318pt too wide) in paragraph at lines 267--269
+[] 
+ []
+
+
+Overfull \hbox (25.43318pt too wide) in paragraph at lines 267--269
+[] 
+ []
+
+[17 <./gendrkl1r2_1c_1/1.png (PNG copy)> <./gendrkl1r2_1c_1/2.png (PNG copy)>]
+Overfull \hbox (65.4029pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <  Particle lattice size: np1,np2,np3=         256       
+  256         256[] 
+ []
+
+
+Overfull \hbox (65.4029pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >  Particle lattice size: np1,np2,np3=         128       
+  128         128[] 
+ []
+
+
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <  npart, L_x, L_y, L_z= 16777216    32.00    32.00    32
+.00 Mpc[] 
+ []
+
+
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >  npart, L_x, L_y, L_z=  2097152    32.00    32.00    32
+.00 Mpc[] 
+ []
+
+
+Overfull \hbox (59.6542pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <       Mean sigma_delta, sigma_psi=   4.8100653       4.
+7177238      Mpc[] 
+ []
+
+
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <       Chisq, dof, nu=   16779066.        16777215  0.31
+968603[] 
+ []
+
+
+Overfull \hbox (59.6542pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >       Mean sigma_delta, sigma_psi=   4.1531582       4.
+7162638      Mpc[] 
+ []
+
+
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >       Chisq, dof, nu=   2095840.0         2097151 -0.64
+012647[] 
+ []
+
+
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <  Constraint   1:  Sampled, desired=-0.18943709E-02 0.25
+000000E-01[] 
+ []
+
+
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <  Constraint   2:  Sampled, desired=-0.25784860E-02 0.25
+000000E-01[] 
+ []
+
+
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <  Constraint   3:  Sampled, desired=-0.32668673E-02 0.25
+000000E-01[] 
+ []
+
+
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >  Constraint   1:  Sampled, desired=-0.64672055E-02 0.25
+000000E-01[] 
+ []
+
+[18]
+Overfull \hbox (30.91077pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <       sigma_delta, sigma_psi=   4.9218068       7.09551
+00      Mpc[] 
+ []
+
+
+Overfull \hbox (59.6542pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <       Maximum delta, displacement=   29.811523       16
+.539606      Mpc[] 
+ []
+
+
+Overfull \hbox (30.91077pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >       sigma_delta, sigma_psi=   4.2376528       6.60939
+22      Mpc[] 
+ []
+
+
+Overfull \hbox (59.6542pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >       Maximum delta, displacement=   22.542503       14
+.168747      Mpc[] 
+ []
+
+
+Overfull \hbox (19.41339pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <  For a=astart: linear sigma, delmax=  0.16509746       
+1.0000000[] 
+ []
+
+
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 <  RMS, max. 3-D displacement=  0.23801233      0.5548057
+6      Mpc[] 
+ []
+
+
+Overfull \hbox (19.41339pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >  For a=astart: linear sigma, delmax=  0.18798503       
+1.0000000[] 
+ []
+
+
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 347--347
+[]\OT1/cmtt/m/n/10.95 >  RMS, max. 3-D displacement=  0.29319692      0.6285347
+3      Mpc[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+[19] (./simulations.aux) ) 
 Here is how much of TeX's memory you used:
- 6376 strings out of 495021
- 87979 string characters out of 1181034
- 158809 words of memory out of 3000000
- 9379 multiletter control sequences out of 15000+50000
+ 6412 strings out of 495021
+ 88663 string characters out of 1181034
+ 162809 words of memory out of 3000000
+ 9405 multiletter control sequences out of 15000+50000
  11840 words of font info for 44 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,5n,39p,280b,412s stack positions out of 5000i,500n,10000p,200000b,50000s
-<
-/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
-texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texli
-ve/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
-/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on simulations.pdf (15 pages, 5115834 bytes).
+ 38i,5n,39p,280b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmtt10.pfb>
+Output written on simulations.pdf (19 pages, 6955700 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 394 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 285 words of extra memory for PDF output out of 10000 (max. 10000000)
 
