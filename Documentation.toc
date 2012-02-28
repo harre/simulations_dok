@@ -1,0 +1,16 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Notes}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Simulations}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}r128}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}drdx\_3}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}drdx\_h100\_r128\_1}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}drdx\_h100\_r128\_2}{7}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}drkltest+3c+sl50\_1}{8}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}r256}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}dr5d5\_r256}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}drd5\_r256 (+)}{10}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}drd5\_r256\_2 $\rightarrow $ dump?}{12}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}drdx\_3\_r256}{14}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}fuenfincr256\_1}{16}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}fuenfincr256\_2 $\rightarrow $ dump!}{18}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}gendrkl1r2\_1c\_1}{20}{subsection.2.2.7}
