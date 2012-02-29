@@ -1,5 +1,23 @@
+\chapter{Notes}
 
 \begin{itemize}
+\item[29.02.2012]
+\texttt{stages\_12} re-rockstarred auf AMD-03 \\
+\texttt{stages\_21} rockstarred auf AMD-04 \\
+100Mpc $512^3$ jobs: 11410, 15725, 27036, 7755 \\
+10 100Mpc ICs generated \\
+\textbf{Note: try bigger volumes with NGen-IC} \\ 
+added output redshifts derived from \texttt{gadget\_timer.txt} as 
+parameter \texttt{outputRedshifts} in .xml file \\ 
+Random seeds that do not create cluster like structures at 
+32Mpc box: 589, 12170, 13610, 16604, 16749, 17362, 17433, 29666, 32223, 
+17595, 22045, 3724, 3183, 4152, 7581, 8502, 10153, 10657, 22946, 14841, 
+25060, 29468, 32634
+\\
+Random seeds that look a little interesting: 15039 $\rightarrow$ rockstarred 
+on AMD-03, 26214 $\rightarrow$ rockstarred on AMD-04
+
+
 \item[28.02.2012]
 Successfully started some N-GenIC jobs for comparison of IC generation \\
 
@@ -31,7 +49,6 @@ Updated Galacticus to revision 707 as suggested by Andrew and added parameter
 \texttt{hotHaloOutflowAngularMomentumAlwaysGrows} to xml file. \\
 Two of four simulations ran through (copied hdf5 to transfer), 
 two crashed $\rightarrow$ try to continue at saved states!
-\chapter{Notes}
 
 \item[10.02.2012]
 wrote E-Mail to Andrew about performance problems and wavelenght computation error 
@@ -69,3 +86,5 @@ $\rightarrow$ python updateGalacticusStart.py from Markus
 
 \item[30.01.2012]
 new consistenttree with vmax=20
+
+\end{itemize}
