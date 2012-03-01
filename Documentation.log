@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.18)  29 FEB 2012 15:54
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.18)  1 MAR 2012 16:42
 entering extended mode
  %&-line parsing enabled.
 **Documentation.tex
@@ -613,28 +613,17 @@ l.24 \include{Notes}
  (./Notes.tex
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-
-Overfull \hbox (1.19717pt too wide) in paragraph at lines 39--45
-[]\OT1/cmr/m/n/10.95 Deleted some jobs I started yes-ter-day be-cause they had 
-ar-ti-fi-cial crosses
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--45
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
 
  []
 
@@ -642,64 +631,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--45
 
 
 ]
-Overfull \hbox (0.49606pt too wide) in paragraph at lines 48--52
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Overfull \hbox (1.19717pt too wide) in paragraph at lines 50--56
+[]\OT1/cmr/m/n/10.95 Deleted some jobs I started yes-ter-day be-cause they had 
+ar-ti-fi-cial crosses
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--56
+
+ []
+
+
+Overfull \hbox (0.49606pt too wide) in paragraph at lines 59--63
 \OT1/cmr/m/n/10.95 pa-ram-e-ter \OT1/cmtt/m/n/10.95 hotHaloOutflowAngularMoment
 umAlwaysGrows \OT1/cmr/m/n/10.95 to xml file. 
  []
 
 
-Overfull \hbox (115.7727pt too wide) in paragraph at lines 66--66
+Overfull \hbox (115.7727pt too wide) in paragraph at lines 77--77
  []\OT1/cmtt/m/n/10.95 83492 0.60500 d31c_1_sta harre   r     02/10/2012 15:19:
 56 intel.q@astro18  16[] 
  []
 
 
-Overfull \hbox (115.7727pt too wide) in paragraph at lines 66--66
+Overfull \hbox (115.7727pt too wide) in paragraph at lines 77--77
  []\OT1/cmtt/m/n/10.95 83493 0.60500 d31c_2_sta harre   r     02/10/2012 15:20:
 37 intel.q@astro29  16[] 
  []
 
 
-Overfull \hbox (115.7727pt too wide) in paragraph at lines 66--66
+Overfull \hbox (115.7727pt too wide) in paragraph at lines 77--77
  []\OT1/cmtt/m/n/10.95 83494 0.60500 d31c_3_sta harre   r     02/10/2012 15:21:
 17 intel.q@astro25  16[] 
  []
 
 
-Overfull \hbox (115.7727pt too wide) in paragraph at lines 66--66
+Overfull \hbox (115.7727pt too wide) in paragraph at lines 77--77
  []\OT1/cmtt/m/n/10.95 83495 0.60500 d51c_sl100 harre   r     02/10/2012 15:23:
 21 intel.q@astro31  16[] 
  []
 
 
-Overfull \hbox (115.7727pt too wide) in paragraph at lines 66--66
+Overfull \hbox (115.7727pt too wide) in paragraph at lines 77--77
  []\OT1/cmtt/m/n/10.95 83496 0.54786 d3+3c_sl50 harre   r     02/10/2012 15:37:
 13 intel.q@astro12  16[] 
  []
 
 
-Overfull \hbox (115.7727pt too wide) in paragraph at lines 66--66
+Overfull \hbox (115.7727pt too wide) in paragraph at lines 77--77
  []\OT1/cmtt/m/n/10.95 83497 0.60500 d3+3c_sl50 harre   r     02/10/2012 15:39:
 16 intel.q@astro30  32[] 
  []
 
 
-Overfull \hbox (115.7727pt too wide) in paragraph at lines 66--66
+Overfull \hbox (115.7727pt too wide) in paragraph at lines 77--77
  []\OT1/cmtt/m/n/10.95 83498 0.60500 d15+3c_sl5 harre   r     02/10/2012 15:44:
 23 intel.q@astro30  16[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--80
+Underfull \hbox (badness 10000) in paragraph at lines 85--91
 
  []
 
-) [3] [4]
+[3]) [4]
 \openout2 = `Sim_r128.aux'.
 
  (./Sim_r128.tex
@@ -1355,7 +1360,7 @@ fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-tex
 live/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Documentation.pdf (27 pages, 10370980 bytes).
+Output written on Documentation.pdf (27 pages, 10371168 bytes).
 PDF statistics:
  748 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
