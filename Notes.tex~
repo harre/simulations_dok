@@ -1,12 +1,42 @@
 \chapter{Notes}
 
 \begin{itemize}
+\item[08.03.2012]
+add \texttt{nohup} to \texttt{./rockstar server\_ib.cfg} 
+in \texttt{qsubrockstar.sh} and rename \texttt{rocky\_startscript}
+to something recognizable \\
+\begin{verbatim}
+83973 0.60500 wcon1Gy.st jan     r     03/08/2012 11:01:23 astro14.astro-beowulf.      64        
+83974 0.50500 rocky_star harre   r     03/08/2012 13:14:22 astro-x4600-04.astro-beo     1        
+83976 0.55421 stages_28_ harre   r     03/08/2012 13:52:36 astro22.astro-beowulf.      32        
+83977 0.55421 stages_29_ harre   r     03/08/2012 13:56:35 astro25.astro-beowulf.      32        
+83980 0.55421 stages_30_ harre   r     03/08/2012 14:07:12 astro28.astro-beowulf.      32        
+83984 0.55421 stages_31_ harre   r     03/08/2012 14:14:23 astro31.astro-beowulf.      32        
+83988 0.51611 rocky_star harre   r     03/08/2012 14:49:20 astro-x4600-04.astro-beo     8        
+83989 0.51611 rocky_star harre   r     03/08/2012 14:50:54 astro-x4600-03.astro-beo     8        
+83993 0.51611 rocky_star harre   r     03/08/2012 15:12:52 astro-x4600-04.astro-beo     8        
+83995 0.51611 rocky_star harre   r     03/08/2012 15:16:43 astro-x4600-03.astro-beo     8        
+83992 0.58278 c803_test_ markus  qw    03/08/2012 14:54:54                             50        
+83985 0.55421 stages_32_ harre   qw    03/08/2012 14:14:31                             32        
+83986 0.55421 stages_33_ harre   qw    03/08/2012 14:14:41                             32     
+\end{verbatim}
+re-galacticussing \texttt{NgenIC\_15039} again since 
+plotting scripts complain that there is no output for 
+a=0 \\
+2DO: test speedup of galacticus with 1,2,4,8 threads \\
+\textbf{Rockstar} works if infiniband is forced with 
+\texttt{PARALLEL\_IO\_SERVER\_INTERFACE = "ib0"}, 
+the client IP address is indeed NOT necessary, 
+client process is started with \texttt{auto-rockstar.cfg} \\
+Gadget recompiled with newest openmpi version $\rightarrow$ 
+should use infiniband now \\
+
 \item[06.03.2012]
 submitted 4 jobs with same seed but different constraints 
 parameters \\
 Memory agglomeration fix also on cluster + email to develooper \\
 Wrote E-Mails to Rien de Weijgaert and Peter Behroozi \\
-Re-rockstarring \texttt{stages\_21} on my machine pc122  $\rightarrow$ 
+re-rockstarring \texttt{stages\_21} on my machine pc122  $\rightarrow$ 
 dumped due to memory  \\
 
 \item[02.03.2012]
@@ -84,13 +114,13 @@ in \texttt{fuenfincr256\_1} \\
 started some runs with higher central delta and broader smoothing lenghts, i.e. 
 32/dx and 100/dx; all 128 resolution except second last one (same seed!): 
 \begin{verbatim}
-83492 0.60500 d31c_1_sta harre   r     02/10/2012 15:19:56 intel.q@astro18  16        
-83493 0.60500 d31c_2_sta harre   r     02/10/2012 15:20:37 intel.q@astro29  16        
-83494 0.60500 d31c_3_sta harre   r     02/10/2012 15:21:17 intel.q@astro25  16        
-83495 0.60500 d51c_sl100 harre   r     02/10/2012 15:23:21 intel.q@astro31  16  
-83496 0.54786 d3+3c_sl50 harre   r     02/10/2012 15:37:13 intel.q@astro12  16        
-83497 0.60500 d3+3c_sl50 harre   r     02/10/2012 15:39:16 intel.q@astro30  32  
-83498 0.60500 d15+3c_sl5 harre   r     02/10/2012 15:44:23 intel.q@astro30  16        
+83492 0.60500 d31c_1_sta harre   r     02/10/2012 15:19:56 astro18  16        
+83493 0.60500 d31c_2_sta harre   r     02/10/2012 15:20:37 astro29  16        
+83494 0.60500 d31c_3_sta harre   r     02/10/2012 15:21:17 astro25  16        
+83495 0.60500 d51c_sl100 harre   r     02/10/2012 15:23:21 astro31  16  
+83496 0.54786 d3+3c_sl50 harre   r     02/10/2012 15:37:13 astro12  16        
+83497 0.60500 d3+3c_sl50 harre   r     02/10/2012 15:39:16 astro30  32  
+83498 0.60500 d15+3c_sl5 harre   r     02/10/2012 15:44:23 astro30  16        
 \end{verbatim}
 
 \item[09.02.2012]
