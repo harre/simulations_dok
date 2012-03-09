@@ -1,24 +1,33 @@
 \chapter{Notes}
-
 \begin{itemize}
+
+\item[09.03.2012]
+strange error in 2 galacticus jobs \texttt{stages\_12} and 
+\texttt{stages\_13} \\
+\textbf{idea:} \texttt{drd5\_r256\_2} shows a major merger in progress 
+$\rightarrow$ make a set of similar simulations with 
+slightly different parameters \\
+\textbf{idea:} make voids as constraints so that netto gravity is 
+more centered towards overdensities \\
+
 \item[08.03.2012]
 add \texttt{nohup} to \texttt{./rockstar server\_ib.cfg} 
 in \texttt{qsubrockstar.sh} and rename \texttt{rocky\_startscript}
-to something recognizable \\
+to something recognizable 
 \begin{verbatim}
-83973 0.60500 wcon1Gy.st jan     r     03/08/2012 11:01:23 astro14.astro-beowulf.      64        
-83974 0.50500 rocky_star harre   r     03/08/2012 13:14:22 astro-x4600-04.astro-beo     1        
-83976 0.55421 stages_28_ harre   r     03/08/2012 13:52:36 astro22.astro-beowulf.      32        
-83977 0.55421 stages_29_ harre   r     03/08/2012 13:56:35 astro25.astro-beowulf.      32        
-83980 0.55421 stages_30_ harre   r     03/08/2012 14:07:12 astro28.astro-beowulf.      32        
-83984 0.55421 stages_31_ harre   r     03/08/2012 14:14:23 astro31.astro-beowulf.      32        
-83988 0.51611 rocky_star harre   r     03/08/2012 14:49:20 astro-x4600-04.astro-beo     8        
-83989 0.51611 rocky_star harre   r     03/08/2012 14:50:54 astro-x4600-03.astro-beo     8        
-83993 0.51611 rocky_star harre   r     03/08/2012 15:12:52 astro-x4600-04.astro-beo     8        
-83995 0.51611 rocky_star harre   r     03/08/2012 15:16:43 astro-x4600-03.astro-beo     8        
-83992 0.58278 c803_test_ markus  qw    03/08/2012 14:54:54                             50        
-83985 0.55421 stages_32_ harre   qw    03/08/2012 14:14:31                             32        
-83986 0.55421 stages_33_ harre   qw    03/08/2012 14:14:41                             32     
+83973 0.60500 wcon1Gy.st jan     r     11:01:23 astro14.astro-beowulf.      64        
+83974 0.50500 rocky_star harre   r     13:14:22 astro-x4600-04.astro-beo     1        
+83976 0.55421 stages_28_ harre   r     13:52:36 astro22.astro-beowulf.      32        
+83977 0.55421 stages_29_ harre   r     13:56:35 astro25.astro-beowulf.      32        
+83980 0.55421 stages_30_ harre   r     14:07:12 astro28.astro-beowulf.      32        
+83984 0.55421 stages_31_ harre   r     14:14:23 astro31.astro-beowulf.      32        
+83988 0.51611 rocky_star harre   r     14:49:20 astro-x4600-04.astro-beo     8        
+83989 0.51611 rocky_star harre   r     14:50:54 astro-x4600-03.astro-beo     8        
+83993 0.51611 rocky_star harre   r     15:12:52 astro-x4600-04.astro-beo     8        
+83995 0.51611 rocky_star harre   r     15:16:43 astro-x4600-03.astro-beo     8        
+83992 0.58278 c803_test_ markus  qw    14:54:54                             50        
+83985 0.55421 stages_32_ harre   qw    14:14:31                             32        
+83986 0.55421 stages_33_ harre   qw    14:14:41                             32     
 \end{verbatim}
 re-galacticussing \texttt{NgenIC\_15039} again since 
 plotting scripts complain that there is no output for 
