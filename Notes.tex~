@@ -3,7 +3,8 @@
 
 \item[09.03.2012]
 strange error in 2 galacticus jobs \texttt{stages\_12} and 
-\texttt{stages\_13} \\
+\texttt{stages\_13}  $\rightarrow$ Markus' converter 
+outdated with new consistenttrees? \\
 \textbf{idea:} \texttt{drd5\_r256\_2} shows a major merger in progress 
 $\rightarrow$ make a set of similar simulations with 
 slightly different parameters \\

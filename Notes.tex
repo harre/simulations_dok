@@ -1,6 +1,29 @@
 \chapter{Notes}
 \begin{itemize}
 
+\item[11.03.2012]
+\texttt{NGenIC\_15039} produces "unreadable" output, 
+is bein rerockstarred from scratch 
+\begin{verbatim}
+ +++ 
+ Plot_Star_Formation_History.pl:
+ +++ 
+Useless use of private variable in void context at ../../perl//XMP/MetaData.pm line 16.
+HDF5-DIAG: Error detected in HDF5 (1.8.4-patch1) thread 0:
+  #000: ../../../src/H5D.c line 507 in H5Dget_type(): not a dataset
+    major: Invalid arguments to routine
+    minor: Inappropriate type
+Error Calling PDL::IO::HDF5::Dataset::get: Can't get HDF5 Dataset type.
+ at ../../perl//Galacticus/HDF5.pm line 88
+HDF5-DIAG: Error detected in HDF5 (1.8.4-patch1) thread 0:
+  #000: ../../../src/H5D.c line 507 in H5Dget_type(): not a dataset
+    major: Invalid arguments to routine
+    minor: Inappropriate type
+Error Calling PDL::IO::HDF5::Dataset::get: Can't get HDF5 Dataset type.
+ at ../../perl//Galacticus/HDF5.pm line 88
+Illegal division by zero at Plot_Star_Formation_History.pl line 58.
+\end{verbatim}
+
 \item[09.03.2012]
 strange error in 2 galacticus jobs \texttt{stages\_12} and 
 \texttt{stages\_13}  $\rightarrow$ Markus' converter 
