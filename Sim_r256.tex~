@@ -385,7 +385,42 @@ diff gendrkl1r2_1c_1/graficIO_gendrkl1r2_1c_1.out r128/h100/gendrkl1_1c_1/grafic
 
 This run is a test if r256 and r128 (\texttt{gendrkl\_1c\_1}) are comparable $\rightarrow$ see pictures. Sims are not only different in resolution! 
 
+% 
+%
+%
+%
+%
+%
+%
+%
 
+
+\newpage
+\subsection{NGenIC\_10629}
+
+% \includegraphics[scale=0.1]{NGenIC_10629/50.jpg} 
+% \includegraphics[scale=0.1]{NGenIC_10629/100.jpg}  \\
+% 
+% \includegraphics[scale=0.1]{NGenIC_10629/150.jpg} 
+% \includegraphics[scale=0.1]{NGenIC_10629/200.jpg}  \\
+
+% \includegraphics[scale=0.1]{NGenIC_10629/rotate_00074.jpg} 
+% \includegraphics[scale=0.1]{NGenIC_10629/rotate_00131.jpg}
+
+% \includegraphics[scale=0.6]{NGenIC_10629/Plot_Black_Hole_vs_Bulge_Mass.pdf}
+\includegraphics[scale=0.6]{NGenIC_10629/Plot_Star_Formation_History.pdf} 
+% \includegraphics[scale=0.6]{NGenIC_10629/Plot_HI_Mass_Function.pdf}
+% \includegraphics[scale=0.6]{NGenIC_10629/Plot_K_Luminosity_Function.pdf} \\
+% \includegraphics[scale=0.6]{NGenIC_10629/Plot_Morphological_Luminosity_Function6.pdf} \\
+\includegraphics[scale=0.6]{NGenIC_10629/Plot_Stellar_Mass_Function.pdf} \\
+% \includegraphics[scale=0.6]{NGenIC_10629/Plot_SDSS_Tully_Fisher.pdf}
+
+\includegraphics[scale=0.3]{NGenIC_10629/plot_mvir_z0165.pdf}
+\includegraphics[scale=0.3]{NGenIC_10629/plot_rvir_z0165.pdf}
+% \includegraphics[scale=0.3]{NGenIC_10629/plot_vrms_z0165.pdf} 
+\includegraphics[scale=0.3]{NGenIC_10629/plot_mvir_z0.pdf}
+\includegraphics[scale=0.3]{NGenIC_10629/plot_rvir_z0.pdf}
+% \includegraphics[scale=0.3]{NGenIC_10629/plot_vrms_z0.pdf}
 % 
 %
 %
@@ -408,7 +443,20 @@ This run is a test if r256 and r128 (\texttt{gendrkl\_1c\_1}) are comparable $\r
 \includegraphics[scale=0.1]{NGenIC_15039/rotate_00074.jpg} 
 \includegraphics[scale=0.1]{NGenIC_15039/rotate_00131.jpg}
 
-is being rockstarred  (again) \\
+% \includegraphics[scale=0.6]{NGenIC_15039/Plot_Black_Hole_vs_Bulge_Mass.pdf}
+\includegraphics[scale=0.6]{NGenIC_15039/Plot_Star_Formation_History.pdf} 
+% \includegraphics[scale=0.6]{NGenIC_15039/Plot_HI_Mass_Function.pdf}
+% \includegraphics[scale=0.6]{NGenIC_15039/Plot_K_Luminosity_Function.pdf} \\
+% \includegraphics[scale=0.6]{NGenIC_15039/Plot_Morphological_Luminosity_Function6.pdf} \\
+\includegraphics[scale=0.6]{NGenIC_15039/Plot_Stellar_Mass_Function.pdf} \\
+\includegraphics[scale=0.6]{NGenIC_15039/Plot_SDSS_Tully_Fisher.pdf}
+
+\includegraphics[scale=0.3]{NGenIC_15039/plot_mvir_z0165.pdf}
+\includegraphics[scale=0.3]{NGenIC_15039/plot_rvir_z0165.pdf}
+% \includegraphics[scale=0.3]{NGenIC_15039/plot_vrms_z0165.pdf} 
+\includegraphics[scale=0.3]{NGenIC_15039/plot_mvir_z0.pdf}
+\includegraphics[scale=0.3]{NGenIC_15039/plot_rvir_z0.pdf}
+% \includegraphics[scale=0.3]{NGenIC_15039/plot_vrms_z0.pdf}
 
 
 % 
