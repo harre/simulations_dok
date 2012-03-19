@@ -398,14 +398,14 @@ This run is a test if r256 and r128 (\texttt{gendrkl\_1c\_1}) are comparable $\r
 \newpage
 \subsection{NGenIC\_10629}
 
-% \includegraphics[scale=0.1]{NGenIC_10629/50.jpg} 
-% \includegraphics[scale=0.1]{NGenIC_10629/100.jpg}  \\
-% 
-% \includegraphics[scale=0.1]{NGenIC_10629/150.jpg} 
-% \includegraphics[scale=0.1]{NGenIC_10629/200.jpg}  \\
+\includegraphics[scale=0.1]{NGenIC_10629/50.jpg} 
+\includegraphics[scale=0.1]{NGenIC_10629/100.jpg}  \\
 
-% \includegraphics[scale=0.1]{NGenIC_10629/rotate_00074.jpg} 
-% \includegraphics[scale=0.1]{NGenIC_10629/rotate_00131.jpg}
+\includegraphics[scale=0.1]{NGenIC_10629/150.jpg} 
+\includegraphics[scale=0.1]{NGenIC_10629/200.jpg}  \\
+
+\includegraphics[scale=0.1]{NGenIC_10629/rotate_00074.jpg} 
+\includegraphics[scale=0.1]{NGenIC_10629/rotate_00131.jpg}
 
 % \includegraphics[scale=0.6]{NGenIC_10629/Plot_Black_Hole_vs_Bulge_Mass.pdf}
 \includegraphics[scale=0.6]{NGenIC_10629/Plot_Star_Formation_History.pdf} 
@@ -857,3 +857,91 @@ is being galacticussed \\
 \textsc{galacticussed} $\surd$ \\
 \textsc{consistenttreed} $\surd$ \\ 
 \textsc{rockstarred} $\surd$
+
+
+% 
+%
+%
+%
+%
+%
+%
+%
+
+
+\newpage
+\subsection{stages\_50}
+
+\includegraphics[scale=0.1]{stages_50/50.jpg} 
+\includegraphics[scale=0.1]{stages_50/100.jpg}  \\
+
+\includegraphics[scale=0.1]{stages_50/150.jpg} 
+\includegraphics[scale=0.1]{stages_50/199.jpg}  \\
+
+\includegraphics[scale=0.1]{stages_50/rotate_00074.jpg} 
+\includegraphics[scale=0.1]{stages_50/rotate_00131.jpg}  \\
+
+\includegraphics[scale=0.6]{stages_50/Plot_Black_Hole_vs_Bulge_Mass.pdf}
+\includegraphics[scale=0.6]{stages_50/Plot_Star_Formation_History.pdf} \\
+\includegraphics[scale=0.6]{stages_50/Plot_HI_Mass_Function.pdf}
+\includegraphics[scale=0.6]{stages_50/Plot_K_Luminosity_Function.pdf} \\
+\includegraphics[scale=0.6]{stages_50/Plot_Morphological_Luminosity_Function6.pdf}
+
+\includegraphics[scale=0.3]{stages_50/plot_mvir_z0165.pdf}
+\includegraphics[scale=0.3]{stages_50/plot_rvir_z0165.pdf}
+% \includegraphics[scale=0.3]{stages_13/plot_vrms_z0165.pdf} 
+\includegraphics[scale=0.3]{stages_50/plot_mvir_z0.pdf}
+\includegraphics[scale=0.3]{stages_50/plot_rvir_z0.pdf}
+% \includegraphics[scale=0.3]{stages_13/plot_vrms_z0.pdf}
+
+\textsc{galacticussed} $\surd$ \\
+\textsc{consistenttreed} $\surd$ \\ 
+\textsc{rockstarred} $\surd$
+
+
+
+% 
+%
+%
+%
+%
+%
+%
+%
+
+
+\newpage
+\subsection{stages\_51}
+
+\includegraphics[scale=0.1]{stages_50/50.jpg} 
+\includegraphics[scale=0.1]{stages_51/100.jpg}  \\
+
+\includegraphics[scale=0.1]{stages_51/150.jpg} 
+\includegraphics[scale=0.1]{stages_51/199.jpg}  \\
+
+\includegraphics[scale=0.1]{stages_51/rotate_00074.jpg} 
+\includegraphics[scale=0.1]{stages_51/rotate_00131.jpg}  \\
+
+\includegraphics[scale=0.6]{stages_51/Plot_Black_Hole_vs_Bulge_Mass.pdf}
+\includegraphics[scale=0.6]{stages_51/Plot_Star_Formation_History.pdf} \\
+\includegraphics[scale=0.6]{stages_51/Plot_HI_Mass_Function.pdf}
+\includegraphics[scale=0.6]{stages_51/Plot_K_Luminosity_Function.pdf} \\
+\includegraphics[scale=0.6]{stages_51/Plot_Morphological_Luminosity_Function6.pdf}
+
+\includegraphics[scale=0.3]{stages_51/plot_mvir_z0165.pdf}
+\includegraphics[scale=0.3]{stages_51/plot_rvir_z0165.pdf}
+% \includegraphics[scale=0.3]{stages_13/plot_vrms_z0165.pdf} 
+\includegraphics[scale=0.3]{stages_51/plot_mvir_z0.pdf}
+\includegraphics[scale=0.3]{stages_51/plot_rvir_z0.pdf}
+% \includegraphics[scale=0.3]{stages_13/plot_vrms_z0.pdf}
+
+\textsc{galacticussed} $\surd$ \\
+\textsc{consistenttreed} $\surd$ \\ 
+\textsc{rockstarred} $\surd$
+
+
+
+
+
+
+
