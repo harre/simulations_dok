@@ -34,4 +34,8 @@
 \contentsline {subsection}{\numberline {2.2.25}stages\_51}{90}{subsection.2.2.25}
 \contentsline {subsection}{\numberline {2.2.26}stages\_52}{93}{subsection.2.2.26}
 \contentsline {section}{\numberline {2.3}r512}{94}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}NGenIC\_7755}{94}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}512er\_major\_merger}{94}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}NGenIC\_7755}{96}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}NGenIC\_10939}{97}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}NGenIC\_11410}{98}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}NGenIC\_27036}{99}{subsection.2.3.5}
