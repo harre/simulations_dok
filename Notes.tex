@@ -1,6 +1,25 @@
 \chapter{Notes}
 \begin{itemize}
 
+\item[17.04.2012]
+found nice program with GUI to look at hdf5 files and also to edit them, 
+called \texttt{vitables} - big files take very long to load but 
+once loaded it runs smoothly \\
+not clear why the \texttt{stages\_52} simulation plots show 
+such little star formation rate 
+\includegraphics[scale=0.5]{r256/stages_52/Plot_Star_Formation_History_small.pdf} \\
+
+\item[16.04.2012]
+re-doing the rockstar jobs that did not work on intel queue 
+now on the AMD machines (\texttt{stages\_54dr5d5}) \\ 
+512er run is being rockstarred on MACH (128 cores) faster than on 
+our AMDs $\rightarrow$ quit job on astro-cluster \\
+
+\item[12.04.2012]
+Explicitly defining the ports when havin several server processes on
+the frontend did not seem to work for the intel queue, all 
+three rockstar jobs stopped working after some time \\
+
 \item[04.04.2012]
 E-Mail correspondence with Sabine Kreidl to Rockstar on MACH \\
 Recompiled Gadget with \texttt{PLACEHIGHRESREGION=1} on and 
@@ -196,7 +215,8 @@ Third simulation \texttt{fuenfincr256\_1} ran through - Galacticus
 restart worked well! \\
 \textbf{Note: IC with same seed but higher resolution do not yield the same 
 simulation!} $\rightarrow$ started two more test runs from r128 sims to doublecheck \\
-
+$\rightarrow$ Note from April 2012: different \texttt{linger.dat} 
+suspected
 
 \item[12.02.2012]
 Updated Galacticus to revision 707 as suggested by Andrew and added parameter 
