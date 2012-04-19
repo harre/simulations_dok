@@ -1,7 +1,25 @@
 \chapter{Notes}
 \begin{itemize}
 
+\item[19.04.2012]
+\texttt{stages\_52} simulation still shows extremely low 
+star formation rate in history plot (Galacticus rev. 771) 
+although also in Markus' converter-ed input file the box 
+size of 44.8 Mpc is correct \\ 
+
+
+\item[18.04.2012]
+Comparison runs look principally nice but not equal - may be 
+caused by different \texttt{linger.dat} \\
+Comparison runs have to be redone since \texttt{grafic\_h70}
+and \texttt{grafic\_h100} were 
+not recompiled after changing \texttt{constr.f} and \texttt{grafic.inc} \\
+2DO: check comparison runs, check new galacticus runs and 
+restart rockstar job on MACH \\
+
 \item[17.04.2012]
+Started some comparison runs beweteen H=70.3 and H=100 with same 
+\texttt{linger\_syn} parameters, same constraints and seeds \\
 found nice program with GUI to look at hdf5 files and also to edit them, 
 called \texttt{vitables} - big files take very long to load but 
 once loaded it runs smoothly \\
