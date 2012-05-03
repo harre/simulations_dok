@@ -1,9 +1,26 @@
 \chapter{Notes}
 \begin{itemize}
 
+\item[02.05.2012]
+Had to reinstall \texttt{perl5} (download + recompile) 
+cause Galacticus plot routines did not work any more: 
+Moreover I had to: 
+\begin{verbatim}
+$PERL5LIB=/usr/lib/perl5:/usr/local/lib/perl/5.12.4:
+/usr/share/perl5:/usr/local/share/perl/5.12.4
+$export PERL5LIB
+\end{verbatim}
+to get Galacticus itself compile again. 
+
+\item[25.04.2012]
+Is low star formation rate in recent galacticus outputs 
+related to missing IC redshift? (99 assumed) \\
+
 \item[19.04.2012]
 \texttt{stages\_52} simulation still shows extremely low 
-star formation rate in history plot (Galacticus rev. 771)
+star formation rate in history plot (Galacticus rev. 771) 
+although also in Markus' converter-ed input file the box 
+size of 44.8 Mpc is correct \\ 
 
 
 \item[18.04.2012]
@@ -23,7 +40,7 @@ called \texttt{vitables} - big files take very long to load but
 once loaded it runs smoothly \\
 not clear why the \texttt{stages\_52} simulation plots show 
 such little star formation rate 
-\includegraphics[scale=0.5]{r256/stages_52/Plot_Star_Formation_History_small.pdf} \\
+\includegraphics[scale=0.5]{r256/h100/stages_52/Plot_Star_Formation_History_small.pdf} \\
 
 \item[16.04.2012]
 re-doing the rockstar jobs that did not work on intel queue 
@@ -44,8 +61,8 @@ Recompiled Gadget with \texttt{PLACEHIGHRESREGION=1} on and
 \item[03.04.2012]
 Tried nonperiodic Gadget boundary conditions $\rightarrow$ leads 
 to star-like patterns \\
-\includegraphics[scale=0.3]{r256/nonperiodictest/drd5nonperiodic.png}
-\includegraphics[scale=0.2]{r256/nonperiodictest/stages20nonperiodic.png} \\
+\includegraphics[scale=0.3]{r256/h100/nonperiodictest/drd5nonperiodic.png}
+\includegraphics[scale=0.2]{r256/h100/nonperiodictest/stages20nonperiodic.png} \\
 
 
 \item[02.04.2012]
