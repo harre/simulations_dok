@@ -1,13 +1,42 @@
 \chapter{Notes}
 \begin{itemize}
 
+\item[21.05.2012]
+Star formation rate mystery still unsolved - checked the parameter 
+files for problems (including redshift) - but there is no obvious 
+error / difference. One suspicion: it could be that new 
+\texttt{linger.dat} files 
+which produce initial conditions with rather late redshifts ($\cong 18$) 
+influence the SFR negatively; reason to believe that is that the 
+NGen-IC runs all have rather high SFR and their initial redshifts 
+are quite high; e.g. \texttt{NGenIC\_10629}: \\
+\includegraphics[scale=0.5]{r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf}\\
+In Galacticus revision 821 the latest bug 'I think this was 
+due to a missing limitation on the rate at which metals 
+can be driven out of hot halos' is fixed and the 100h 
+simulations runs again 
+
+
+\item[11.05.2012]
+Galacticus bug report 
+\begin{verbatim}
+Fatal error in ODEIV2_Solve():
+ODE integration failed with status -1
+...
+\end{verbatim}
+Link: \texttt{https://bugs.launchpad.net/galacticus/+bug/998007} - 
+occurs in \texttt{stages\_12\_h\_44} with h100. 
+
+\item[10.05.2012]
+Complete reinstallation of system since I had messed up my perl installation 
+severely. Now the plotting scripts run again in revision 809. 
+
 \item[08.05.2012]
 Compiler flags for checking linking 
 \begin{verbatim}
  -Wl,--verbose
 \end{verbatim}
-gives attempts/success/fail info about opening files.  
-
+gives attempts/success/fail info about opening files. \\
 New Galcticus revisions had problems compilingbut already 
 fixed by Benson in rev 805. For consistency also update 
 on pc122 so perl5 is still under construction \\

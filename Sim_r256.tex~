@@ -11,13 +11,11 @@
 
 \includegraphics[scale=0.5]{r256/h70/mm_h/plot_powspec_mm_h.pdf}
 
-
 \includegraphics[scale=0.3]{r256/h70/mm_h/plot_mvir_out_165.pdf}
 \includegraphics[scale=0.3]{r256/h70/mm_h/plot_mvir_out_197.pdf}
-% \includegraphics[scale=0.3]{r256/h100/stages_13/plot_vrms_z0165.pdf} 
 \includegraphics[scale=0.3]{r256/h70/mm_h/plot_Vrms_out_165.pdf}
 \includegraphics[scale=0.3]{r256/h70/mm_h/plot_Vrms_out_197.pdf}
-% \includegraphics[scale=0.3]{r256/h100/stages_13/plot_vrms_z0.pdf}
+
 
 
 
@@ -38,6 +36,30 @@
 \newpage
 
 \subsubsection{stages\_12\_h\_44}
+
+\includegraphics[scale=0.1]{r256/h70/stages_12_h_44/50.jpg} 
+\includegraphics[scale=0.1]{r256/h70/stages_12_h_44/150.jpg} \\
+\includegraphics[scale=0.1]{r256/h70/stages_12_h_44/rotate_00074.jpg} \\
+\includegraphics[scale=0.15]{r256/h70/stages_12_h_44/rotate_00131.jpg} 
+
+\includegraphics[scale=0.5]{r256/h70/stages_12_h_44/plot_powspec_stages_12_h_44.pdf}
+
+% \includegraphics[scale=0.3]{r256/h70/stages_12_h_44/plot_mvir_out_165.pdf}
+% \includegraphics[scale=0.3]{r256/h70/stages_12_h_44/plot_mvir_out_197.pdf}
+% \includegraphics[scale=0.3]{r256/h70/stages_12_h_44/plot_Vrms_out_165.pdf}
+% \includegraphics[scale=0.3]{r256/h70/stages_12_h_44/plot_Vrms_out_197.pdf}
+
+
+% 
+%
+%
+%
+%
+%
+%
+%
+
+\newpage
 
 \subsubsection{stages\_20\_h}
 
@@ -478,6 +500,33 @@ This run is a test if r256 and r128 (\texttt{gendrkl\_1c\_1}) are comparable $\r
 
 
 \newpage
+
+\subsubsection{mm\_h (major merger H comparison)}
+\includegraphics[scale=0.1]{r256/h100/mm_h/50.jpg} 
+\includegraphics[scale=0.1]{r256/h100/mm_h/100.jpg} \\
+\includegraphics[scale=0.1]{r256/h100/mm_h/150.jpg} 
+\includegraphics[scale=0.1]{r256/h100/mm_h/rotate_00074.jpg} \\
+\includegraphics[scale=0.15]{r256/h100/mm_h/rotate_00131.jpg} 
+
+\includegraphics[scale=0.5]{r256/h100/mm_h/plot_powspec_mm_h.pdf}
+
+\includegraphics[scale=0.3]{r256/h100/mm_h/plot_mvir_out_165.pdf}
+\includegraphics[scale=0.3]{r256/h100/mm_h/plot_mvir_out_197.pdf}
+\includegraphics[scale=0.3]{r256/h100/mm_h/plot_Vrms_out_165.pdf}
+\includegraphics[scale=0.3]{r256/h100/mm_h/plot_Vrms_out_197.pdf}
+
+% 
+%
+%
+%
+%
+%
+%
+%
+
+
+\newpage
+
 \subsubsection{NGenIC\_10629}
 
 \includegraphics[scale=0.1]{r256/h100/NGenIC_10629/50.jpg} 
