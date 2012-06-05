@@ -40,4 +40,4 @@ pdflatex Documentation.tex
 
 cp *.tex build 
 mv *.toc *.aux *.log *.out build 
-rm *_Single.tex Header.tex 
+rm *_Single.tex Header.tex end.tex 
