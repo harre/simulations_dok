@@ -1,0 +1,3270 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  5 JUN 2012 15:30
+entering extended mode
+ %&-line parsing enabled.
+**Sim_r256_Single.tex
+(./Sim_r256_Single.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.def
+File: ot1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 43.
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen104
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count89
+))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen105
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks18
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks19
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+\epsfxsize=\dimen116
+\epsfysize=\dimen117
+)
+(/usr/share/texmf-texlive/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2009/04/17 v1.3 Extended ifthen features
+
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count102
+)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count103
+\calc@Bcount=\count104
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count105
+\calc@Cskip=\skip48
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(/usr/share/texmf-texlive/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen120
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count106
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box28
+\rot@mess@toks=\toks23
+)
+(/usr/share/texmf-texlive/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2009/05/18 v2.2 Customized lists
+\enit@toks=\toks24
+\labelindent=\skip51
+\enit@outerparindent=\dimen121
+\enitdp@desc=\count107
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen122
+\Hy@linkcounter=\count108
+\Hy@pagecounter=\count109
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count110
+\Field@Width=\dimen123
+\Fld@charsize=\dimen124
+\Field@toks=\toks25
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count111
+\c@Item=\count112
+\c@Hfootnote=\count113
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count114
+)
+(./Sim_r256_Single.aux)
+\openout1 = `Sim_r256_Single.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen125
+\scratchbox=\box29
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen126
+\MPnumerator=\count119
+\everyMPtoPDFconversion=\toks27
+)
+Package hyperref Info: Link coloring OFF on input line 22.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count120
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+
+(./Sim_r256_Single.out) (./Sim_r256_Single.out)
+\@outlinefile=\write3
+\openout3 = `Sim_r256_Single.out'.
+
+\AtBeginShipoutBox=\box30
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Sim_r256_Single.toc)
+\tf@toc=\write4
+\openout4 = `Sim_r256_Single.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 \chapter
+             {Simulations} [1
+
+]
+Chapter 1.
+<r256/h70/mm_h/50.jpg, id=198, 1927.2pt x 1445.4pt>
+File: r256/h70/mm_h/50.jpg Graphic file (type jpg)
+ <use r256/h70/mm_h/50.jpg>
+<r256/h70/mm_h/100.jpg, id=199, 1927.2pt x 1445.4pt>
+File: r256/h70/mm_h/100.jpg Graphic file (type jpg)
+
+<use r256/h70/mm_h/100.jpg>
+<r256/h70/mm_h/150.jpg, id=200, 1927.2pt x 1445.4pt>
+File: r256/h70/mm_h/150.jpg Graphic file (type jpg)
+
+<use r256/h70/mm_h/150.jpg>
+<r256/h70/mm_h/rotate_00074.jpg, id=201, 1927.2pt x 1445.4pt>
+File: r256/h70/mm_h/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h70/mm_h/rotate_00074.jpg>
+<r256/h70/mm_h/rotate_00131.jpg, id=202, 1927.2pt x 1445.4pt>
+File: r256/h70/mm_h/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h70/mm_h/rotate_00131.jpg> [2
+
+ <./r256/h70/mm_h/50.jpg> <./r256/h70/mm_h/100.jpg> <./r256/h70/mm_h/150.jpg> <
+./r256/h70/mm_h/rotate_00074.jpg>]
+<r256/h70/mm_h/plot_powspec_mm_h.pdf, id=207, 794.97pt x 614.295pt>
+File: r256/h70/mm_h/plot_powspec_mm_h.pdf Graphic file (type pdf)
+
+<use r256/h70/mm_h/plot_powspec_mm_h.pdf>
+<r256/h70/mm_h/plot_mvir_out_165.pdf, id=208, 794.97pt x 614.295pt>
+File: r256/h70/mm_h/plot_mvir_out_165.pdf Graphic file (type pdf)
+
+<use r256/h70/mm_h/plot_mvir_out_165.pdf>
+<r256/h70/mm_h/plot_mvir_out_197.pdf, id=209, 794.97pt x 614.295pt>
+File: r256/h70/mm_h/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h70/mm_h/plot_mvir_out_197.pdf>
+<r256/h70/mm_h/plot_Vrms_out_165.pdf, id=210, 794.97pt x 614.295pt>
+File: r256/h70/mm_h/plot_Vrms_out_165.pdf Graphic file (type pdf)
+
+<use r256/h70/mm_h/plot_Vrms_out_165.pdf>
+<r256/h70/mm_h/plot_Vrms_out_197.pdf, id=211, 794.97pt x 614.295pt>
+File: r256/h70/mm_h/plot_Vrms_out_197.pdf Graphic file (type pdf)
+
+<use r256/h70/mm_h/plot_Vrms_out_197.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 43--47
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 43--47
+[] [] 
+ []
+
+[3 <./r256/h70/mm_h/rotate_00131.jpg> <./r256/h70/mm_h/plot_powspec_mm_h.pdf, p
+age is rotated 90 degrees> <./r256/h70/mm_h/plot_mvir_out_165.pdf, page is rota
+ted 90 degrees> <./r256/h70/mm_h/plot_mvir_out_197.pdf, page is rotated 90 degr
+ees>]
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
+
+ []
+
+[4 <./r256/h70/mm_h/plot_Vrms_out_165.pdf, page is rotated 90 degrees> <./r256/
+h70/mm_h/plot_Vrms_out_197.pdf, page is rotated 90 degrees>]
+<r256/h70/stages_12_h_44/50.jpg, id=237, 1927.2pt x 1445.4pt>
+File: r256/h70/stages_12_h_44/50.jpg Graphic file (type jpg)
+
+<use r256/h70/stages_12_h_44/50.jpg>
+<r256/h70/stages_12_h_44/150.jpg, id=238, 1927.2pt x 1445.4pt>
+File: r256/h70/stages_12_h_44/150.jpg Graphic file (type jpg)
+
+<use r256/h70/stages_12_h_44/150.jpg>
+<r256/h70/stages_12_h_44/rotate_00074.jpg, id=239, 1927.2pt x 1445.4pt>
+File: r256/h70/stages_12_h_44/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h70/stages_12_h_44/rotate_00074.jpg>
+<r256/h70/stages_12_h_44/rotate_00131.jpg, id=240, 1927.2pt x 1445.4pt>
+File: r256/h70/stages_12_h_44/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h70/stages_12_h_44/rotate_00131.jpg>
+<r256/h70/stages_12_h_44/plot_powspec_stages_12_h_44.pdf, id=241, 794.97pt x 61
+4.295pt>
+File: r256/h70/stages_12_h_44/plot_powspec_stages_12_h_44.pdf Graphic file (typ
+e pdf)
+ <use r256/h70/stages_12_h_44/plot_powspec_stages_12_h_44.pdf> [5 <./r256/h70/s
+tages_12_h_44/50.jpg> <./r256/h70/stages_12_h_44/150.jpg> <./r256/h70/stages_12
+_h_44/rotate_00074.jpg> <./r256/h70/stages_12_h_44/rotate_00131.jpg>]
+<r256/h100/stages_12_h_44/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=246, 324.21124p
+t x 240.9pt>
+File: r256/h100/stages_12_h_44/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (
+type pdf)
+ <use r256/h100/stages_12_h_44/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_12_h_44/Plot_Star_Formation_History.pdf, id=247, 328.22626pt 
+x 239.89626pt>
+File: r256/h100/stages_12_h_44/Plot_Star_Formation_History.pdf Graphic file (ty
+pe pdf)
+ <use r256/h100/stages_12_h_44/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_12_h_44/Plot_HI_Mass_Function.pdf, id=248, 333.245pt x 240.9p
+t>
+File: r256/h100/stages_12_h_44/Plot_HI_Mass_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_12_h_44/Plot_HI_Mass_Function.pdf> [6 <./r256/h70/stages
+_12_h_44/plot_powspec_stages_12_h_44.pdf, page is rotated 90 degrees> <./r256/h
+100/stages_12_h_44/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_12_h_
+44/Plot_Star_Formation_History.pdf> <./r256/h100/stages_12_h_44/Plot_HI_Mass_Fu
+nction.pdf>]
+<r256/h100/dr5d5_r256/rotate_00188.jpg, id=330, 1407.2575pt x 1226.5825pt>
+File: r256/h100/dr5d5_r256/rotate_00188.jpg Graphic file (type jpg)
+
+<use r256/h100/dr5d5_r256/rotate_00188.jpg>
+<r256/h100/dr5d5_r256/rotate_00320.jpg, id=331, 1308.89pt x 1168.365pt>
+File: r256/h100/dr5d5_r256/rotate_00320.jpg Graphic file (type jpg)
+
+<use r256/h100/dr5d5_r256/rotate_00320.jpg>
+<r256/h100/dr5d5_r256/evolve_00160.jpg, id=332, 1252.68pt x 1104.125pt>
+File: r256/h100/dr5d5_r256/evolve_00160.jpg Graphic file (type jpg)
+
+<use r256/h100/dr5d5_r256/evolve_00160.jpg>
+<r256/h100/dr5d5_r256/evolve_00304.jpg, id=333, 1214.5375pt x 1110.1475pt>
+File: r256/h100/dr5d5_r256/evolve_00304.jpg Graphic file (type jpg)
+
+<use r256/h100/dr5d5_r256/evolve_00304.jpg>
+<r256/h100/dr5d5_r256/plot_powspec_dr5d5_r256.pdf, id=334, 794.97pt x 614.295pt
+>
+File: r256/h100/dr5d5_r256/plot_powspec_dr5d5_r256.pdf Graphic file (type pdf)
+ <use r256/h100/dr5d5_r256/plot_powspec_dr5d5_r256.pdf>
+<r256/h100/dr5d5_r256/plot_mvir_z0165.pdf, id=335, 794.97pt x 614.295pt>
+File: r256/h100/dr5d5_r256/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/dr5d5_r256/plot_mvir_z0165.pdf>
+<r256/h100/dr5d5_r256/plot_rvir_z0165.pdf, id=336, 794.97pt x 614.295pt>
+File: r256/h100/dr5d5_r256/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/dr5d5_r256/plot_rvir_z0165.pdf>
+<r256/h100/dr5d5_r256/plot_mvir_z0.pdf, id=337, 794.97pt x 614.295pt>
+File: r256/h100/dr5d5_r256/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/dr5d5_r256/plot_mvir_z0.pdf>
+<r256/h100/dr5d5_r256/plot_rvir_z0.pdf, id=338, 794.97pt x 614.295pt>
+File: r256/h100/dr5d5_r256/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/dr5d5_r256/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 113--119
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 113--119
+[] [] 
+ []
+
+[7 <./r256/h100/dr5d5_r256/rotate_00188.jpg> <./r256/h100/dr5d5_r256/rotate_003
+20.jpg> <./r256/h100/dr5d5_r256/evolve_00160.jpg> <./r256/h100/dr5d5_r256/evolv
+e_00304.jpg> <./r256/h100/dr5d5_r256/plot_powspec_dr5d5_r256.pdf, page is rotat
+ed 90 degrees>]
+<r256/h100/dr5d5_r256/plot_Vrms_out_198.pdf, id=346, 794.97pt x 614.295pt>
+File: r256/h100/dr5d5_r256/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/dr5d5_r256/plot_Vrms_out_198.pdf>
+<r256/h100/dr5d5_r256/plot_spin_out_198.pdf, id=347, 794.97pt x 614.295pt>
+File: r256/h100/dr5d5_r256/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/dr5d5_r256/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 120--122
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[8 <./r256/h100/dr5d5_r256/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./
+r256/h100/dr5d5_r256/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h
+100/dr5d5_r256/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/dr5d5
+_r256/plot_rvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/dr5d5_r256/plo
+t_Vrms_out_198.pdf, page is rotated 90 degrees> <./r256/h100/dr5d5_r256/plot_sp
+in_out_198.pdf, page is rotated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sim' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 144.
+
+<r256/h100/drd5_r256/rotate_1.png, id=371, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256/rotate_1.png Graphic file (type png)
+
+<use r256/h100/drd5_r256/rotate_1.png>
+<r256/h100/drd5_r256/rotate_2.png, id=372, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256/rotate_2.png Graphic file (type png)
+
+<use r256/h100/drd5_r256/rotate_2.png>
+Overfull \hbox (38.15005pt too wide) in paragraph at lines 146--148
+[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+ []
+
+
+<r256/h100/drd5_r256/plot_powspec_drd5_r256.pdf, id=373, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256/plot_powspec_drd5_r256.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/plot_powspec_drd5_r256.pdf>
+<r256/h100/drd5_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=374, 324.21124pt x 2
+40.9pt>
+File: r256/h100/drd5_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/drd5_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/drd5_r256/Plot_Star_Formation_History.pdf, id=375, 328.22626pt x 239
+.89626pt>
+File: r256/h100/drd5_r256/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/drd5_r256/Plot_Star_Formation_History.pdf>
+<r256/h100/drd5_r256/Plot_HI_Mass_Function.pdf, id=376, 333.245pt x 240.9pt>
+File: r256/h100/drd5_r256/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/Plot_HI_Mass_Function.pdf> [9 <./r256/h100/drd5_r256/r
+otate_1.png (PNG copy)> <./r256/h100/drd5_r256/rotate_2.png (PNG copy)> <./r256
+/h100/drd5_r256/plot_powspec_drd5_r256.pdf, page is rotated 90 degrees> <./r256
+/h100/drd5_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/drd5_r256/Plot_
+Star_Formation_History.pdf>]
+<r256/h100/drd5_r256/plot_mvir_z0165.pdf, id=430, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/plot_mvir_z0165.pdf>
+<r256/h100/drd5_r256/plot_rvir_z0165.pdf, id=431, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/plot_rvir_z0165.pdf>
+<r256/h100/drd5_r256/plot_mvir_z0.pdf, id=432, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/plot_mvir_z0.pdf>
+<r256/h100/drd5_r256/plot_rvir_z0.pdf, id=433, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 155--161
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 155--161
+[] [] 
+ []
+
+<r256/h100/drd5_r256/plot_Vrms_out_198.pdf, id=434, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/plot_Vrms_out_198.pdf>
+<r256/h100/drd5_r256/plot_spin_out_198.pdf, id=435, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 162--164
+[][] [] 
+ []
+
+[10 <./r256/h100/drd5_r256/Plot_HI_Mass_Function.pdf> <./r256/h100/drd5_r256/pl
+ot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/drd5_r256/plot_rvir
+_z0165.pdf, page is rotated 90 degrees> <./r256/h100/drd5_r256/plot_mvir_z0.pdf
+, page is rotated 90 degrees> <./r256/h100/drd5_r256/plot_rvir_z0.pdf, page is 
+rotated 90 degrees> <./r256/h100/drd5_r256/plot_Vrms_out_198.pdf, page is rotat
+ed 90 degrees> <./r256/h100/drd5_r256/plot_spin_out_198.pdf, page is rotated 90
+ degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
+
+ []
+
+[11] <r256/h100/drd5_r256_2/1.png, id=489, 969.6225pt x 887.315pt>
+File: r256/h100/drd5_r256_2/1.png Graphic file (type png)
+
+<use r256/h100/drd5_r256_2/1.png>
+<r256/h100/drd5_r256_2/2.png, id=490, 944.52875pt x 840.13875pt>
+File: r256/h100/drd5_r256_2/2.png Graphic file (type png)
+
+<use r256/h100/drd5_r256_2/2.png>
+<r256/h100/drd5_r256_2/plot_powspec_drd5_r256_2.pdf, id=491, 794.97pt x 614.295
+pt>
+File: r256/h100/drd5_r256_2/plot_powspec_drd5_r256_2.pdf Graphic file (type pdf
+)
+ <use r256/h100/drd5_r256_2/plot_powspec_drd5_r256_2.pdf>
+<r256/h100/drd5_r256_2/62.jpg, id=492, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256_2/62.jpg Graphic file (type jpg)
+
+<use r256/h100/drd5_r256_2/62.jpg>
+<r256/h100/drd5_r256_2/107.jpg, id=493, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256_2/107.jpg Graphic file (type jpg)
+
+<use r256/h100/drd5_r256_2/107.jpg>
+<r256/h100/drd5_r256_2/139.jpg, id=494, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256_2/139.jpg Graphic file (type jpg)
+
+<use r256/h100/drd5_r256_2/139.jpg>
+<r256/h100/drd5_r256_2/216.jpg, id=495, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256_2/216.jpg Graphic file (type jpg)
+
+<use r256/h100/drd5_r256_2/216.jpg>
+<r256/h100/drd5_r256_2/286.jpg, id=496, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256_2/286.jpg Graphic file (type jpg)
+
+<use r256/h100/drd5_r256_2/286.jpg>
+<r256/h100/drd5_r256_2/335.jpg, id=497, 1927.2pt x 1445.4pt>
+File: r256/h100/drd5_r256_2/335.jpg Graphic file (type jpg)
+
+<use r256/h100/drd5_r256_2/335.jpg> [12 <./r256/h100/drd5_r256_2/1.png (PNG cop
+y)> <./r256/h100/drd5_r256_2/2.png (PNG copy)> <./r256/h100/drd5_r256_2/plot_po
+wspec_drd5_r256_2.pdf, page is rotated 90 degrees> <./r256/h100/drd5_r256_2/62.
+jpg> <./r256/h100/drd5_r256_2/107.jpg>]
+<r256/h100/drd5_r256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=506, 324.21124pt x
+ 240.9pt>
+File: r256/h100/drd5_r256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (typ
+e pdf)
+ <use r256/h100/drd5_r256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/drd5_r256_2/Plot_Star_Formation_History.pdf, id=507, 328.22626pt x 2
+39.89626pt>
+File: r256/h100/drd5_r256_2/Plot_Star_Formation_History.pdf Graphic file (type 
+pdf)
+ <use r256/h100/drd5_r256_2/Plot_Star_Formation_History.pdf>
+<r256/h100/drd5_r256_2/Plot_HI_Mass_Function.pdf, id=508, 333.245pt x 240.9pt>
+File: r256/h100/drd5_r256_2/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256_2/Plot_HI_Mass_Function.pdf>
+<r256/h100/drd5_r256_2/Plot_K_Luminosity_Function.pdf, id=509, 330.23375pt x 24
+0.9pt>
+File: r256/h100/drd5_r256_2/Plot_K_Luminosity_Function.pdf Graphic file (type p
+df)
+ <use r256/h100/drd5_r256_2/Plot_K_Luminosity_Function.pdf>
+<r256/h100/drd5_r256_2/Plot_Morphological_Luminosity_Function6.pdf, id=510, 331
+.2375pt x 240.9pt>
+File: r256/h100/drd5_r256_2/Plot_Morphological_Luminosity_Function6.pdf Graphic
+ file (type pdf)
+
+<use r256/h100/drd5_r256_2/Plot_Morphological_Luminosity_Function6.pdf>
+[13 <./r256/h100/drd5_r256_2/139.jpg> <./r256/h100/drd5_r256_2/216.jpg> <./r256
+/h100/drd5_r256_2/286.jpg> <./r256/h100/drd5_r256_2/335.jpg> <./r256/h100/drd5_
+r256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/drd5_r256_2/Plot_Star_Fo
+rmation_History.pdf> <./r256/h100/drd5_r256_2/Plot_HI_Mass_Function.pdf> <./r25
+6/h100/drd5_r256_2/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/drd5_r256_2/plot_mvir_z0165.pdf, id=615, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256_2/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256_2/plot_mvir_z0165.pdf>
+<r256/h100/drd5_r256_2/plot_rvir_z0165.pdf, id=616, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256_2/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256_2/plot_rvir_z0165.pdf>
+<r256/h100/drd5_r256_2/plot_mvir_z0.pdf, id=617, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256_2/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256_2/plot_mvir_z0.pdf>
+<r256/h100/drd5_r256_2/plot_rvir_z0.pdf, id=618, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256_2/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256_2/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 211--217
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 211--217
+[] [] 
+ []
+
+<r256/h100/drd5_r256_2/plot_Vrms_out_198.pdf, id=619, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256_2/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256_2/plot_Vrms_out_198.pdf>
+<r256/h100/drd5_r256_2/plot_spin_out_198.pdf, id=620, 794.97pt x 614.295pt>
+File: r256/h100/drd5_r256_2/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/drd5_r256_2/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 218--220
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--230
+
+ []
+
+[14 <./r256/h100/drd5_r256_2/Plot_Morphological_Luminosity_Function6.pdf> <./r2
+56/h100/drd5_r256_2/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h1
+00/drd5_r256_2/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/dr
+d5_r256_2/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/drd5_r256_
+2/plot_rvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/drd5_r256_2/plot_V
+rms_out_198.pdf, page is rotated 90 degrees> <./r256/h100/drd5_r256_2/plot_spin
+_out_198.pdf, page is rotated 90 degrees>]
+Overfull \hbox (263.0512pt too wide) in paragraph at lines 243--243
+[]\OT1/cmtt/m/n/10.95 #6  0x46F469 in __galacticus_tasks_evolve_tree_MOD_galact
+icus_task_evolve_tree._omp_fn.0 at galacticus.tasks.evolve_tree[] 
+ []
+
+
+Overfull \hbox (21.60631pt too wide) in paragraph at lines 243--243
+[]\OT1/cmtt/m/n/10.95 #7  0x46F9C4 in __galacticus_tasks_evolve_tree_MOD_galact
+icus_task_evolve_tree[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
+
+ []
+
+[15] <r256/h100/drdx_3_r256/1.png, id=670, 911.405pt x 849.1725pt>
+File: r256/h100/drdx_3_r256/1.png Graphic file (type png)
+
+<use r256/h100/drdx_3_r256/1.png>
+<r256/h100/drdx_3_r256/2.png, id=671, 845.1575pt x 829.0975pt>
+File: r256/h100/drdx_3_r256/2.png Graphic file (type png)
+
+<use r256/h100/drdx_3_r256/2.png>
+<r256/h100/drdx_3_r256/4.png, id=672, 886.31125pt x 821.0675pt>
+File: r256/h100/drdx_3_r256/4.png Graphic file (type png)
+
+<use r256/h100/drdx_3_r256/4.png>
+<r256/h100/drdx_3_r256/3.png, id=673, 880.28876pt x 813.0375pt>
+File: r256/h100/drdx_3_r256/3.png Graphic file (type png)
+
+<use r256/h100/drdx_3_r256/3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 260--264
+
+ []
+
+
+<r256/h100/drdx_3_r256/plot_powspec_drdx_3_r256.pdf, id=674, 794.97pt x 614.295
+pt>
+File: r256/h100/drdx_3_r256/plot_powspec_drdx_3_r256.pdf Graphic file (type pdf
+)
+ <use r256/h100/drdx_3_r256/plot_powspec_drdx_3_r256.pdf>
+<r256/h100/drdx_3_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=675, 324.21124pt x
+ 240.9pt>
+File: r256/h100/drdx_3_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (typ
+e pdf)
+ <use r256/h100/drdx_3_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/drdx_3_r256/Plot_Star_Formation_History.pdf, id=676, 328.22626pt x 2
+39.89626pt>
+File: r256/h100/drdx_3_r256/Plot_Star_Formation_History.pdf Graphic file (type 
+pdf)
+ <use r256/h100/drdx_3_r256/Plot_Star_Formation_History.pdf>
+<r256/h100/drdx_3_r256/Plot_HI_Mass_Function.pdf, id=677, 333.245pt x 240.9pt>
+File: r256/h100/drdx_3_r256/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/drdx_3_r256/Plot_HI_Mass_Function.pdf> [16 <./r256/h100/drdx_3_r
+256/1.png (PNG copy)> <./r256/h100/drdx_3_r256/2.png (PNG copy)> <./r256/h100/d
+rdx_3_r256/4.png (PNG copy)> <./r256/h100/drdx_3_r256/3.png (PNG copy)> <./r256
+/h100/drdx_3_r256/plot_powspec_drdx_3_r256.pdf, page is rotated 90 degrees>]
+<r256/h100/drdx_3_r256/plot_mvir_z0165.pdf, id=685, 794.97pt x 614.295pt>
+File: r256/h100/drdx_3_r256/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/drdx_3_r256/plot_mvir_z0165.pdf>
+<r256/h100/drdx_3_r256/plot_rvir_z0165.pdf, id=686, 794.97pt x 614.295pt>
+File: r256/h100/drdx_3_r256/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/drdx_3_r256/plot_rvir_z0165.pdf>
+<r256/h100/drdx_3_r256/plot_mvir_z0.pdf, id=687, 794.97pt x 614.295pt>
+File: r256/h100/drdx_3_r256/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/drdx_3_r256/plot_mvir_z0.pdf>
+<r256/h100/drdx_3_r256/plot_rvir_z0.pdf, id=688, 794.97pt x 614.295pt>
+File: r256/h100/drdx_3_r256/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/drdx_3_r256/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 271--277
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 271--277
+[] [] 
+ []
+
+<r256/h100/drdx_3_r256/plot_Vrms_out_198.pdf, id=689, 794.97pt x 614.295pt>
+File: r256/h100/drdx_3_r256/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/drdx_3_r256/plot_Vrms_out_198.pdf>
+<r256/h100/drdx_3_r256/plot_spin_out_198.pdf, id=690, 794.97pt x 614.295pt>
+File: r256/h100/drdx_3_r256/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/drdx_3_r256/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 278--280
+[][] [] 
+ []
+
+[17 <./r256/h100/drdx_3_r256/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/dr
+dx_3_r256/Plot_Star_Formation_History.pdf> <./r256/h100/drdx_3_r256/Plot_HI_Mas
+s_Function.pdf> <./r256/h100/drdx_3_r256/plot_mvir_z0165.pdf, page is rotated 9
+0 degrees> <./r256/h100/drdx_3_r256/plot_rvir_z0165.pdf, page is rotated 90 deg
+rees> <./r256/h100/drdx_3_r256/plot_mvir_z0.pdf, page is rotated 90 degrees> <.
+/r256/h100/drdx_3_r256/plot_rvir_z0.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+
+Overfull \hbox (171.07219pt too wide) in paragraph at lines 296--296
+[]\OT1/cmtt/m/n/10.95 #5  0x49B1B8 in __merger_tree_read_MOD_build_descendent_p
+ointers at merger_trees.construct.read.F90:1116[] 
+ []
+
+
+Overfull \hbox (130.83138pt too wide) in paragraph at lines 296--296
+[]\OT1/cmtt/m/n/10.95 #6  0x49FF70 in __merger_tree_read_MOD_merger_tree_read_d
+o at merger_trees.construct.read.F90:767[] 
+ []
+
+
+Overfull \hbox (142.32875pt too wide) in paragraph at lines 296--296
+[]\OT1/cmtt/m/n/10.95 #7  0x4923BE in __merger_tree_construction_MOD_merger_tre
+e_create at merger_trees.construct.F90:136[] 
+ []
+
+
+Overfull \hbox (309.0407pt too wide) in paragraph at lines 296--296
+[]\OT1/cmtt/m/n/10.95 #8  0x4800C6 in __galacticus_tasks_evolve_tree_MOD_galact
+icus_task_evolve_tree._omp_fn.0 at galacticus.tasks.evolve_tree.F90:169[] 
+ []
+
+
+Overfull \hbox (366.52757pt too wide) in paragraph at lines 296--296
+[]\OT1/cmtt/m/n/10.95 /sge-root/sge/AMD64/spool/astro13/job_scripts/83594: line
+ 22: 13318 Aborted                 (core dumped) ./Galacticus.exe drdx_3_r256.x
+ml[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--302
+
+ []
+
+[18 <./r256/h100/drdx_3_r256/plot_Vrms_out_198.pdf, page is rotated 90 degrees>
+ <./r256/h100/drdx_3_r256/plot_spin_out_198.pdf, page is rotated 90 degrees>]
+<r256/h100/fuenfincr256_1/1.png, id=791, 973.6375pt x 867.24pt>
+File: r256/h100/fuenfincr256_1/1.png Graphic file (type png)
+
+<use r256/h100/fuenfincr256_1/1.png>
+<r256/h100/fuenfincr256_1/2.png, id=792, 957.5775pt x 823.075pt>
+File: r256/h100/fuenfincr256_1/2.png Graphic file (type png)
+
+<use r256/h100/fuenfincr256_1/2.png>
+<r256/h100/fuenfincr256_1/plot_powspec_fuenfincr256_1.pdf, id=793, 794.97pt x 6
+14.295pt>
+File: r256/h100/fuenfincr256_1/plot_powspec_fuenfincr256_1.pdf Graphic file (ty
+pe pdf)
+ <use r256/h100/fuenfincr256_1/plot_powspec_fuenfincr256_1.pdf>
+<r256/h100/fuenfincr256_1/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=794, 324.21124p
+t x 240.9pt>
+File: r256/h100/fuenfincr256_1/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (
+type pdf)
+ <use r256/h100/fuenfincr256_1/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/fuenfincr256_1/Plot_Star_Formation_History.pdf, id=795, 328.22626pt 
+x 239.89626pt>
+File: r256/h100/fuenfincr256_1/Plot_Star_Formation_History.pdf Graphic file (ty
+pe pdf)
+ <use r256/h100/fuenfincr256_1/Plot_Star_Formation_History.pdf>
+<r256/h100/fuenfincr256_1/Plot_HI_Mass_Function.pdf, id=796, 333.245pt x 240.9p
+t>
+File: r256/h100/fuenfincr256_1/Plot_HI_Mass_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/fuenfincr256_1/Plot_HI_Mass_Function.pdf> [19 <./r256/h100/fuen
+fincr256_1/1.png (PNG copy)> <./r256/h100/fuenfincr256_1/2.png (PNG copy)> <./r
+256/h100/fuenfincr256_1/plot_powspec_fuenfincr256_1.pdf, page is rotated 90 deg
+rees> <./r256/h100/fuenfincr256_1/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h1
+00/fuenfincr256_1/Plot_Star_Formation_History.pdf>]
+<r256/h100/fuenfincr256_1/plot_mvir_z0165.pdf, id=850, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_1/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_1/plot_mvir_z0165.pdf>
+<r256/h100/fuenfincr256_1/plot_rvir_z0165.pdf, id=851, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_1/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_1/plot_rvir_z0165.pdf>
+<r256/h100/fuenfincr256_1/plot_mvir_z0.pdf, id=852, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_1/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_1/plot_mvir_z0.pdf>
+<r256/h100/fuenfincr256_1/plot_rvir_z0.pdf, id=853, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_1/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_1/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 325--331
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 325--331
+[] [] 
+ []
+
+
+<r256/h100/fuenfincr256_1/plot_Vrms_out_198.pdf, id=854, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_1/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_1/plot_Vrms_out_198.pdf>
+<r256/h100/fuenfincr256_1/plot_spin_out_198.pdf, id=855, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_1/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_1/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 332--334
+[][] [] 
+ []
+
+[20 <./r256/h100/fuenfincr256_1/Plot_HI_Mass_Function.pdf> <./r256/h100/fuenfin
+cr256_1/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr
+256_1/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr25
+6_1/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr256_1/p
+lot_rvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr256_1/plot_V
+rms_out_198.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr256_1/plot_s
+pin_out_198.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 347--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--359
+
+ []
+
+[21]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 377.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 377.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 377.
+
+<r256/h100/fuenfincr256_2/1.png, id=909, 1927.2pt x 1084.05pt>
+File: r256/h100/fuenfincr256_2/1.png Graphic file (type png)
+
+<use r256/h100/fuenfincr256_2/1.png>
+<r256/h100/fuenfincr256_2/2.png, id=910, 1927.2pt x 1084.05pt>
+File: r256/h100/fuenfincr256_2/2.png Graphic file (type png)
+
+<use r256/h100/fuenfincr256_2/2.png>
+Overfull \hbox (38.15005pt too wide) in paragraph at lines 379--381
+[] [] 
+ []
+
+
+<r256/h100/fuenfincr256_2/plot_powspec_fuenfincr256_2.pdf, id=911, 794.97pt x 6
+14.295pt>
+File: r256/h100/fuenfincr256_2/plot_powspec_fuenfincr256_2.pdf Graphic file (ty
+pe pdf)
+ <use r256/h100/fuenfincr256_2/plot_powspec_fuenfincr256_2.pdf>
+<r256/h100/fuenfincr256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=912, 324.21124p
+t x 240.9pt>
+File: r256/h100/fuenfincr256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (
+type pdf)
+ <use r256/h100/fuenfincr256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/fuenfincr256_2/Plot_Star_Formation_History.pdf, id=913, 328.22626pt 
+x 239.89626pt>
+File: r256/h100/fuenfincr256_2/Plot_Star_Formation_History.pdf Graphic file (ty
+pe pdf)
+ <use r256/h100/fuenfincr256_2/Plot_Star_Formation_History.pdf>
+<r256/h100/fuenfincr256_2/Plot_HI_Mass_Function.pdf, id=914, 333.245pt x 240.9p
+t>
+File: r256/h100/fuenfincr256_2/Plot_HI_Mass_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/fuenfincr256_2/Plot_HI_Mass_Function.pdf> [22 <./r256/h100/fuen
+fincr256_2/1.png (PNG copy)> <./r256/h100/fuenfincr256_2/2.png (PNG copy)> <./r
+256/h100/fuenfincr256_2/plot_powspec_fuenfincr256_2.pdf, page is rotated 90 deg
+rees> <./r256/h100/fuenfincr256_2/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h1
+00/fuenfincr256_2/Plot_Star_Formation_History.pdf>]
+<r256/h100/fuenfincr256_2/plot_mvir_z0165.pdf, id=968, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_2/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_2/plot_mvir_z0165.pdf>
+<r256/h100/fuenfincr256_2/plot_rvir_z0165.pdf, id=969, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_2/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_2/plot_rvir_z0165.pdf>
+<r256/h100/fuenfincr256_2/plot_mvir_z0.pdf, id=970, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_2/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_2/plot_mvir_z0.pdf>
+<r256/h100/fuenfincr256_2/plot_rvir_z0.pdf, id=971, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_2/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_2/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 388--394
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 388--394
+[] [] 
+ []
+
+
+<r256/h100/fuenfincr256_2/plot_Vrms_out_198.pdf, id=972, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_2/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_2/plot_Vrms_out_198.pdf>
+<r256/h100/fuenfincr256_2/plot_spin_out_198.pdf, id=973, 794.97pt x 614.295pt>
+File: r256/h100/fuenfincr256_2/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/fuenfincr256_2/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 395--397
+[][] [] 
+ []
+
+[23 <./r256/h100/fuenfincr256_2/Plot_HI_Mass_Function.pdf> <./r256/h100/fuenfin
+cr256_2/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr
+256_2/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr25
+6_2/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr256_2/p
+lot_rvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr256_2/plot_V
+rms_out_198.pdf, page is rotated 90 degrees> <./r256/h100/fuenfincr256_2/plot_s
+pin_out_198.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
+
+ []
+
+[24] <r256/h100/gendrkl1r2_1c_1/1.png, id=1028, 1927.2pt x 1084.05pt>
+File: r256/h100/gendrkl1r2_1c_1/1.png Graphic file (type png)
+
+<use r256/h100/gendrkl1r2_1c_1/1.png>
+<r256/h100/gendrkl1r2_1c_1/2.png, id=1029, 1927.2pt x 1084.05pt>
+File: r256/h100/gendrkl1r2_1c_1/2.png Graphic file (type png)
+
+<use r256/h100/gendrkl1r2_1c_1/2.png>
+<r256/h100/gendrkl1r2_1c_1/plot_powspec_gendrkl1r2_1c_1.pdf, id=1030, 794.97pt 
+x 614.295pt>
+File: r256/h100/gendrkl1r2_1c_1/plot_powspec_gendrkl1r2_1c_1.pdf Graphic file (
+type pdf)
+ <use r256/h100/gendrkl1r2_1c_1/plot_powspec_gendrkl1r2_1c_1.pdf>
+[25 <./r256/h100/gendrkl1r2_1c_1/1.png (PNG copy)> <./r256/h100/gendrkl1r2_1c_1
+/2.png (PNG copy)>]
+<r256/h100/gendrkl1r2_1c_1/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=1035, 324.2112
+4pt x 240.9pt>
+File: r256/h100/gendrkl1r2_1c_1/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file 
+(type pdf)
+
+<use r256/h100/gendrkl1r2_1c_1/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/gendrkl1r2_1c_1/Plot_Star_Formation_History.pdf, id=1036, 328.22626p
+t x 239.89626pt>
+File: r256/h100/gendrkl1r2_1c_1/Plot_Star_Formation_History.pdf Graphic file (t
+ype pdf)
+
+<use r256/h100/gendrkl1r2_1c_1/Plot_Star_Formation_History.pdf>
+<r256/h100/gendrkl1r2_1c_1/Plot_HI_Mass_Function.pdf, id=1037, 333.245pt x 240.
+9pt>
+File: r256/h100/gendrkl1r2_1c_1/Plot_HI_Mass_Function.pdf Graphic file (type pd
+f)
+ <use r256/h100/gendrkl1r2_1c_1/Plot_HI_Mass_Function.pdf>
+<r256/h100/gendrkl1r2_1c_1/plot_mvir_z0165.pdf, id=1038, 794.97pt x 614.295pt>
+File: r256/h100/gendrkl1r2_1c_1/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/gendrkl1r2_1c_1/plot_mvir_z0165.pdf>
+<r256/h100/gendrkl1r2_1c_1/plot_rvir_z0165.pdf, id=1039, 794.97pt x 614.295pt>
+File: r256/h100/gendrkl1r2_1c_1/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/gendrkl1r2_1c_1/plot_rvir_z0165.pdf>
+<r256/h100/gendrkl1r2_1c_1/plot_mvir_z0.pdf, id=1040, 794.97pt x 614.295pt>
+File: r256/h100/gendrkl1r2_1c_1/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/gendrkl1r2_1c_1/plot_mvir_z0.pdf>
+<r256/h100/gendrkl1r2_1c_1/plot_rvir_z0.pdf, id=1041, 794.97pt x 614.295pt>
+File: r256/h100/gendrkl1r2_1c_1/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/gendrkl1r2_1c_1/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 434--440
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 434--440
+[] [] 
+ []
+
+[26 <./r256/h100/gendrkl1r2_1c_1/plot_powspec_gendrkl1r2_1c_1.pdf, page is rota
+ted 90 degrees> <./r256/h100/gendrkl1r2_1c_1/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+ <./r256/h100/gendrkl1r2_1c_1/Plot_Star_Formation_History.pdf> <./r256/h100/gen
+drkl1r2_1c_1/Plot_HI_Mass_Function.pdf>]
+<r256/h100/gendrkl1r2_1c_1/plot_Vrms_out_198.pdf, id=1122, 794.97pt x 614.295pt
+>
+File: r256/h100/gendrkl1r2_1c_1/plot_Vrms_out_198.pdf Graphic file (type pdf)
+ <use r256/h100/gendrkl1r2_1c_1/plot_Vrms_out_198.pdf>
+<r256/h100/gendrkl1r2_1c_1/plot_spin_out_198.pdf, id=1123, 794.97pt x 614.295pt
+>
+File: r256/h100/gendrkl1r2_1c_1/plot_spin_out_198.pdf Graphic file (type pdf)
+ <use r256/h100/gendrkl1r2_1c_1/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 441--443
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+[27 <./r256/h100/gendrkl1r2_1c_1/plot_mvir_z0165.pdf, page is rotated 90 degree
+s> <./r256/h100/gendrkl1r2_1c_1/plot_rvir_z0165.pdf, page is rotated 90 degrees
+> <./r256/h100/gendrkl1r2_1c_1/plot_mvir_z0.pdf, page is rotated 90 degrees> <.
+/r256/h100/gendrkl1r2_1c_1/plot_rvir_z0.pdf, page is rotated 90 degrees> <./r25
+6/h100/gendrkl1r2_1c_1/plot_Vrms_out_198.pdf, page is rotated 90 degrees> <./r2
+56/h100/gendrkl1r2_1c_1/plot_spin_out_198.pdf, page is rotated 90 degrees>]
+Overfull \hbox (148.07744pt too wide) in paragraph at lines 520--520
+[]\OT1/cmtt/m/n/10.95 diff gendrkl1r2_1c_1/graficIO_gendrkl1r2_1c_1.out r128/h1
+00/gendrkl1_1c_1/graficIO_gendrkl1_1c_1.out[] 
+ []
+
+[28] [29] <r256/h100/mm_h/50.jpg, id=1154, 1927.2pt x 1445.4pt>
+File: r256/h100/mm_h/50.jpg Graphic file (type jpg)
+
+<use r256/h100/mm_h/50.jpg>
+<r256/h100/mm_h/100.jpg, id=1155, 1927.2pt x 1445.4pt>
+File: r256/h100/mm_h/100.jpg Graphic file (type jpg)
+
+<use r256/h100/mm_h/100.jpg>
+<r256/h100/mm_h/150.jpg, id=1156, 1927.2pt x 1445.4pt>
+File: r256/h100/mm_h/150.jpg Graphic file (type jpg)
+
+<use r256/h100/mm_h/150.jpg>
+<r256/h100/mm_h/rotate_00074.jpg, id=1157, 1927.2pt x 1445.4pt>
+File: r256/h100/mm_h/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/mm_h/rotate_00074.jpg>
+<r256/h100/mm_h/rotate_00131.jpg, id=1158, 1927.2pt x 1445.4pt>
+File: r256/h100/mm_h/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/mm_h/rotate_00131.jpg>
+<r256/h100/mm_h/plot_powspec_mm_h.pdf, id=1159, 794.97pt x 614.295pt>
+File: r256/h100/mm_h/plot_powspec_mm_h.pdf Graphic file (type pdf)
+
+<use r256/h100/mm_h/plot_powspec_mm_h.pdf> [30 <./r256/h100/mm_h/50.jpg> <./r25
+6/h100/mm_h/100.jpg> <./r256/h100/mm_h/150.jpg> <./r256/h100/mm_h/rotate_00074.
+jpg> <./r256/h100/mm_h/rotate_00131.jpg>]
+<r256/h100/mm_h/plot_mvir_out_165.pdf, id=1165, 794.97pt x 614.295pt>
+File: r256/h100/mm_h/plot_mvir_out_165.pdf Graphic file (type pdf)
+
+<use r256/h100/mm_h/plot_mvir_out_165.pdf>
+<r256/h100/mm_h/plot_mvir_out_197.pdf, id=1166, 794.97pt x 614.295pt>
+File: r256/h100/mm_h/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h100/mm_h/plot_mvir_out_197.pdf>
+<r256/h100/mm_h/plot_Vrms_out_165.pdf, id=1167, 794.97pt x 614.295pt>
+File: r256/h100/mm_h/plot_Vrms_out_165.pdf Graphic file (type pdf)
+
+<use r256/h100/mm_h/plot_Vrms_out_165.pdf>
+<r256/h100/mm_h/plot_Vrms_out_197.pdf, id=1168, 794.97pt x 614.295pt>
+File: r256/h100/mm_h/plot_Vrms_out_197.pdf Graphic file (type pdf)
+
+<use r256/h100/mm_h/plot_Vrms_out_197.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 545--549
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 545--549
+[] [] 
+ []
+
+[31 <./r256/h100/mm_h/plot_powspec_mm_h.pdf, page is rotated 90 degrees> <./r25
+6/h100/mm_h/plot_mvir_out_165.pdf, page is rotated 90 degrees> <./r256/h100/mm_
+h/plot_mvir_out_197.pdf, page is rotated 90 degrees> <./r256/h100/mm_h/plot_Vrm
+s_out_165.pdf, page is rotated 90 degrees> <./r256/h100/mm_h/plot_Vrms_out_197.
+pdf, page is rotated 90 degrees>]
+<r256/h100/NGenIC_10629/50.jpg, id=1188, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_10629/50.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_10629/50.jpg>
+<r256/h100/NGenIC_10629/100.jpg, id=1189, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_10629/100.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_10629/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 564--566
+
+ []
+
+<r256/h100/NGenIC_10629/150.jpg, id=1190, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_10629/150.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_10629/150.jpg>
+<r256/h100/NGenIC_10629/200.jpg, id=1191, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_10629/200.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_10629/200.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 567--569
+
+ []
+
+<r256/h100/NGenIC_10629/rotate_00074.jpg, id=1192, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_10629/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_10629/rotate_00074.jpg>
+<r256/h100/NGenIC_10629/rotate_00131.jpg, id=1193, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_10629/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_10629/rotate_00131.jpg>
+<r256/h100/NGenIC_10629/plot_powspec_NGenIC_10629.pdf, id=1194, 794.97pt x 614.
+295pt>
+File: r256/h100/NGenIC_10629/plot_powspec_NGenIC_10629.pdf Graphic file (type p
+df)
+ <use r256/h100/NGenIC_10629/plot_powspec_NGenIC_10629.pdf> [32 <./r256/h100/NG
+enIC_10629/50.jpg> <./r256/h100/NGenIC_10629/100.jpg> <./r256/h100/NGenIC_10629
+/150.jpg> <./r256/h100/NGenIC_10629/200.jpg> <./r256/h100/NGenIC_10629/rotate_0
+0074.jpg> <./r256/h100/NGenIC_10629/rotate_00131.jpg>]
+<r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf, id=1199, 328.22626pt x
+ 239.89626pt>
+File: r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf Graphic file (type
+ pdf)
+ <use r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf>
+<r256/h100/NGenIC_10629/Plot_Stellar_Mass_Function.pdf, id=1200, 326.21875pt x 
+240.9pt>
+File: r256/h100/NGenIC_10629/Plot_Stellar_Mass_Function.pdf Graphic file (type 
+pdf)
+ <use r256/h100/NGenIC_10629/Plot_Stellar_Mass_Function.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 576--582
+
+ []
+
+<r256/h100/NGenIC_10629/plot_mvir_z0165.pdf, id=1201, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_10629/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_10629/plot_mvir_z0165.pdf>
+<r256/h100/NGenIC_10629/plot_rvir_z0165.pdf, id=1202, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_10629/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_10629/plot_rvir_z0165.pdf>
+<r256/h100/NGenIC_10629/plot_mvir_z0.pdf, id=1203, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_10629/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_10629/plot_mvir_z0.pdf>
+<r256/h100/NGenIC_10629/plot_rvir_z0.pdf, id=1204, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_10629/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_10629/plot_rvir_z0.pdf>
+<r256/h100/NGenIC_10629/plot_Vrms_out_198.pdf, id=1205, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_10629/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_10629/plot_Vrms_out_198.pdf>
+<r256/h100/NGenIC_10629/plot_spin_out_198.pdf, id=1206, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_10629/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_10629/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 583--591
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 583--591
+[] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 583--591
+[] [] 
+ []
+
+[33 <./r256/h100/NGenIC_10629/plot_powspec_NGenIC_10629.pdf, page is rotated 90
+ degrees> <./r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf> <./r256/h1
+00/NGenIC_10629/Plot_Stellar_Mass_Function.pdf> <./r256/h100/NGenIC_10629/plot_
+mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/NGenIC_10629/plot_rvir
+_z0165.pdf, page is rotated 90 degrees>] [34 <./r256/h100/NGenIC_10629/plot_mvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/NGenIC_10629/plot_rvir_z0.pd
+f, page is rotated 90 degrees> <./r256/h100/NGenIC_10629/plot_Vrms_out_198.pdf,
+ page is rotated 90 degrees> <./r256/h100/NGenIC_10629/plot_spin_out_198.pdf, p
+age is rotated 90 degrees>]
+<r256/h100/NGenIC_15039/50.jpg, id=1282, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_15039/50.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_15039/50.jpg>
+<r256/h100/NGenIC_15039/100.jpg, id=1283, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_15039/100.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_15039/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 605--607
+
+ []
+
+<r256/h100/NGenIC_15039/150.jpg, id=1284, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_15039/150.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_15039/150.jpg>
+<r256/h100/NGenIC_15039/200.jpg, id=1285, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_15039/200.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_15039/200.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 608--610
+
+ []
+
+<r256/h100/NGenIC_15039/rotate_00074.jpg, id=1286, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_15039/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_15039/rotate_00074.jpg>
+<r256/h100/NGenIC_15039/rotate_00131.jpg, id=1287, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_15039/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_15039/rotate_00131.jpg>
+<r256/h100/NGenIC_15039/plot_powspec_NGenIC_15039.pdf, id=1288, 794.97pt x 614.
+295pt>
+File: r256/h100/NGenIC_15039/plot_powspec_NGenIC_15039.pdf Graphic file (type p
+df)
+ <use r256/h100/NGenIC_15039/plot_powspec_NGenIC_15039.pdf> [35 <./r256/h100/NG
+enIC_15039/50.jpg> <./r256/h100/NGenIC_15039/100.jpg> <./r256/h100/NGenIC_15039
+/150.jpg> <./r256/h100/NGenIC_15039/200.jpg> <./r256/h100/NGenIC_15039/rotate_0
+0074.jpg> <./r256/h100/NGenIC_15039/rotate_00131.jpg>]
+<r256/h100/NGenIC_15039/Plot_Star_Formation_History.pdf, id=1293, 328.22626pt x
+ 239.89626pt>
+File: r256/h100/NGenIC_15039/Plot_Star_Formation_History.pdf Graphic file (type
+ pdf)
+ <use r256/h100/NGenIC_15039/Plot_Star_Formation_History.pdf>
+<r256/h100/NGenIC_15039/Plot_Stellar_Mass_Function.pdf, id=1294, 326.21875pt x 
+240.9pt>
+File: r256/h100/NGenIC_15039/Plot_Stellar_Mass_Function.pdf Graphic file (type 
+pdf)
+ <use r256/h100/NGenIC_15039/Plot_Stellar_Mass_Function.pdf>
+<r256/h100/NGenIC_15039/Plot_SDSS_Tully_Fisher.pdf, id=1295, 325.215pt x 240.9p
+t>
+File: r256/h100/NGenIC_15039/Plot_SDSS_Tully_Fisher.pdf Graphic file (type pdf)
+
+ <use r256/h100/NGenIC_15039/Plot_SDSS_Tully_Fisher.pdf>
+<r256/h100/NGenIC_15039/plot_mvir_z0165.pdf, id=1296, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_15039/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_15039/plot_mvir_z0165.pdf>
+<r256/h100/NGenIC_15039/plot_rvir_z0165.pdf, id=1297, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_15039/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_15039/plot_rvir_z0165.pdf>
+<r256/h100/NGenIC_15039/plot_mvir_z0.pdf, id=1298, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_15039/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_15039/plot_mvir_z0.pdf>
+<r256/h100/NGenIC_15039/plot_rvir_z0.pdf, id=1299, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_15039/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_15039/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 624--630
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 624--630
+[] [] 
+ []
+
+[36 <./r256/h100/NGenIC_15039/plot_powspec_NGenIC_15039.pdf, page is rotated 90
+ degrees> <./r256/h100/NGenIC_15039/Plot_Star_Formation_History.pdf> <./r256/h1
+00/NGenIC_15039/Plot_Stellar_Mass_Function.pdf> <./r256/h100/NGenIC_15039/Plot_
+SDSS_Tully_Fisher.pdf>]
+<r256/h100/NGenIC_15039/plot_Vrms_out_198.pdf, id=1377, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_15039/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_15039/plot_Vrms_out_198.pdf>
+<r256/h100/NGenIC_15039/plot_spin_out_198.pdf, id=1378, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_15039/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_15039/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 631--641
+[][] [] 
+ []
+
+[37 <./r256/h100/NGenIC_15039/plot_mvir_z0165.pdf, page is rotated 90 degrees> 
+<./r256/h100/NGenIC_15039/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r
+256/h100/NGenIC_15039/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h10
+0/NGenIC_15039/plot_rvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/NGenI
+C_15039/plot_Vrms_out_198.pdf, page is rotated 90 degrees> <./r256/h100/NGenIC_
+15039/plot_spin_out_198.pdf, page is rotated 90 degrees>]
+<r256/h100/NGenIC_26214/50.jpg, id=1401, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_26214/50.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_26214/50.jpg>
+<r256/h100/NGenIC_26214/100.jpg, id=1402, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_26214/100.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_26214/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 646--648
+
+ []
+
+<r256/h100/NGenIC_26214/150.jpg, id=1403, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_26214/150.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_26214/150.jpg>
+<r256/h100/NGenIC_26214/200.jpg, id=1404, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_26214/200.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_26214/200.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 649--651
+
+ []
+
+<r256/h100/NGenIC_26214/rotate_00074.jpg, id=1405, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_26214/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_26214/rotate_00074.jpg>
+<r256/h100/NGenIC_26214/rotate_00131.jpg, id=1406, 1927.2pt x 1445.4pt>
+File: r256/h100/NGenIC_26214/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/NGenIC_26214/rotate_00131.jpg>
+<r256/h100/NGenIC_26214/plot_powspec_NGenIC_26214.pdf, id=1407, 794.97pt x 614.
+295pt>
+File: r256/h100/NGenIC_26214/plot_powspec_NGenIC_26214.pdf Graphic file (type p
+df)
+ <use r256/h100/NGenIC_26214/plot_powspec_NGenIC_26214.pdf> [38 <./r256/h100/NG
+enIC_26214/50.jpg> <./r256/h100/NGenIC_26214/100.jpg> <./r256/h100/NGenIC_26214
+/150.jpg> <./r256/h100/NGenIC_26214/200.jpg> <./r256/h100/NGenIC_26214/rotate_0
+0074.jpg> <./r256/h100/NGenIC_26214/rotate_00131.jpg>]
+<r256/h100/NGenIC_26214/Plot_Star_Formation_History.pdf, id=1412, 328.22626pt x
+ 239.89626pt>
+File: r256/h100/NGenIC_26214/Plot_Star_Formation_History.pdf Graphic file (type
+ pdf)
+ <use r256/h100/NGenIC_26214/Plot_Star_Formation_History.pdf>
+<r256/h100/NGenIC_26214/Plot_Stellar_Mass_Function.pdf, id=1413, 326.21875pt x 
+240.9pt>
+File: r256/h100/NGenIC_26214/Plot_Stellar_Mass_Function.pdf Graphic file (type 
+pdf)
+ <use r256/h100/NGenIC_26214/Plot_Stellar_Mass_Function.pdf>
+<r256/h100/NGenIC_26214/Plot_SDSS_Tully_Fisher.pdf, id=1414, 325.215pt x 240.9p
+t>
+File: r256/h100/NGenIC_26214/Plot_SDSS_Tully_Fisher.pdf Graphic file (type pdf)
+
+ <use r256/h100/NGenIC_26214/Plot_SDSS_Tully_Fisher.pdf>
+<r256/h100/NGenIC_26214/plot_mvir_z0165.pdf, id=1415, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_26214/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_26214/plot_mvir_z0165.pdf>
+<r256/h100/NGenIC_26214/plot_rvir_z0165.pdf, id=1416, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_26214/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_26214/plot_rvir_z0165.pdf>
+<r256/h100/NGenIC_26214/plot_mvir_z0.pdf, id=1417, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_26214/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_26214/plot_mvir_z0.pdf>
+<r256/h100/NGenIC_26214/plot_rvir_z0.pdf, id=1418, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_26214/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_26214/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 665--671
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 665--671
+[] [] 
+ []
+
+[39 <./r256/h100/NGenIC_26214/plot_powspec_NGenIC_26214.pdf, page is rotated 90
+ degrees> <./r256/h100/NGenIC_26214/Plot_Star_Formation_History.pdf> <./r256/h1
+00/NGenIC_26214/Plot_Stellar_Mass_Function.pdf> <./r256/h100/NGenIC_26214/Plot_
+SDSS_Tully_Fisher.pdf>]
+<r256/h100/NGenIC_26214/plot_Vrms_out_198.pdf, id=1495, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_26214/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_26214/plot_Vrms_out_198.pdf>
+<r256/h100/NGenIC_26214/plot_spin_out_198.pdf, id=1496, 794.97pt x 614.295pt>
+File: r256/h100/NGenIC_26214/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/NGenIC_26214/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 672--674
+[][] [] 
+ []
+
+[40 <./r256/h100/NGenIC_26214/plot_mvir_z0165.pdf, page is rotated 90 degrees> 
+<./r256/h100/NGenIC_26214/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r
+256/h100/NGenIC_26214/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h10
+0/NGenIC_26214/plot_rvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/NGenI
+C_26214/plot_Vrms_out_198.pdf, page is rotated 90 degrees> <./r256/h100/NGenIC_
+26214/plot_spin_out_198.pdf, page is rotated 90 degrees>]
+<r256/h100/stages_07/50.jpg, id=1519, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_07/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_07/50.jpg>
+<r256/h100/stages_07/100.jpg, id=1520, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_07/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_07/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 687--689
+
+ []
+
+<r256/h100/stages_07/150.jpg, id=1521, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_07/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_07/150.jpg>
+<r256/h100/stages_07/199.jpg, id=1522, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_07/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_07/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+
+ []
+
+<r256/h100/stages_07/rotate_00074.jpg, id=1523, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_07/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_07/rotate_00074.jpg>
+<r256/h100/stages_07/rotate_00131.jpg, id=1524, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_07/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_07/rotate_00131.jpg>
+<r256/h100/stages_07/plot_powspec_stages_07.pdf, id=1525, 794.97pt x 614.295pt>
+File: r256/h100/stages_07/plot_powspec_stages_07.pdf Graphic file (type pdf)
+<use r256/h100/stages_07/plot_powspec_stages_07.pdf> [41 <./r256/h100/stages_07
+/50.jpg> <./r256/h100/stages_07/100.jpg> <./r256/h100/stages_07/150.jpg> <./r25
+6/h100/stages_07/199.jpg> <./r256/h100/stages_07/rotate_00074.jpg> <./r256/h100
+/stages_07/rotate_00131.jpg>]
+<r256/h100/stages_07/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=1530, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_07/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_07/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_07/Plot_Star_Formation_History.pdf, id=1531, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_07/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_07/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_07/Plot_HI_Mass_Function.pdf, id=1532, 333.245pt x 240.9pt>
+File: r256/h100/stages_07/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_07/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_07/Plot_K_Luminosity_Function.pdf, id=1533, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_07/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_07/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_07/Plot_Morphological_Luminosity_Function6.pdf, id=1534, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_07/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_07/Plot_Morphological_Luminosity_Function6.pdf> [42 <./r2
+56/h100/stages_07/plot_powspec_stages_07.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_07/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_07/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_07/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_07/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_07/plot_mvir_z0165.pdf, id=1643, 794.97pt x 614.295pt>
+File: r256/h100/stages_07/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_07/plot_mvir_z0165.pdf>
+<r256/h100/stages_07/plot_rvir_z0165.pdf, id=1644, 794.97pt x 614.295pt>
+File: r256/h100/stages_07/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_07/plot_rvir_z0165.pdf>
+<r256/h100/stages_07/plot_mvir_z0.pdf, id=1645, 794.97pt x 614.295pt>
+File: r256/h100/stages_07/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_07/plot_mvir_z0.pdf>
+<r256/h100/stages_07/plot_rvir_z0.pdf, id=1646, 794.97pt x 614.295pt>
+File: r256/h100/stages_07/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_07/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 704--710
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 704--710
+[] [] 
+ []
+
+<r256/h100/stages_07/plot_Vrms_out_198.pdf, id=1647, 794.97pt x 614.295pt>
+File: r256/h100/stages_07/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_07/plot_Vrms_out_198.pdf>
+<r256/h100/stages_07/plot_spin_out_198.pdf, id=1648, 794.97pt x 614.295pt>
+File: r256/h100/stages_07/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_07/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 711--713
+[][] [] 
+ []
+
+[43 <./r256/h100/stages_07/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_07/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_07/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_0
+7/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_07/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_07/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_07/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [44]
+<r256/h100/stages_12/50.jpg, id=1698, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_12/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_12/50.jpg>
+<r256/h100/stages_12/100.jpg, id=1699, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_12/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_12/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 731--733
+
+ []
+
+<r256/h100/stages_12/150.jpg, id=1700, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_12/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_12/150.jpg>
+<r256/h100/stages_12/199.jpg, id=1701, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_12/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_12/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 734--736
+
+ []
+
+<r256/h100/stages_12/rotate_00074.jpg, id=1702, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_12/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_12/rotate_00074.jpg>
+<r256/h100/stages_12/rotate_00131.jpg, id=1703, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_12/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_12/rotate_00131.jpg>
+<r256/h100/stages_12/plot_powspec_stages_12.pdf, id=1704, 794.97pt x 614.295pt>
+File: r256/h100/stages_12/plot_powspec_stages_12.pdf Graphic file (type pdf)
+<use r256/h100/stages_12/plot_powspec_stages_12.pdf> [45 <./r256/h100/stages_12
+/50.jpg> <./r256/h100/stages_12/100.jpg> <./r256/h100/stages_12/150.jpg> <./r25
+6/h100/stages_12/199.jpg> <./r256/h100/stages_12/rotate_00074.jpg> <./r256/h100
+/stages_12/rotate_00131.jpg>]
+<r256/h100/stages_12/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=1709, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_12/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_12/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_12/Plot_Star_Formation_History.pdf, id=1710, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_12/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_12/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_12/Plot_HI_Mass_Function.pdf, id=1711, 333.245pt x 240.9pt>
+File: r256/h100/stages_12/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_12/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_12/Plot_K_Luminosity_Function.pdf, id=1712, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_12/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_12/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_12/Plot_Morphological_Luminosity_Function6.pdf, id=1713, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_12/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_12/Plot_Morphological_Luminosity_Function6.pdf> [46 <./r2
+56/h100/stages_12/plot_powspec_stages_12.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_12/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_12/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_12/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_12/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_12/plot_mvir_z0165.pdf, id=1821, 794.97pt x 614.295pt>
+File: r256/h100/stages_12/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_12/plot_mvir_z0165.pdf>
+<r256/h100/stages_12/plot_rvir_z0165.pdf, id=1822, 794.97pt x 614.295pt>
+File: r256/h100/stages_12/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_12/plot_rvir_z0165.pdf>
+<r256/h100/stages_12/plot_mvir_z0.pdf, id=1823, 794.97pt x 614.295pt>
+File: r256/h100/stages_12/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_12/plot_mvir_z0.pdf>
+<r256/h100/stages_12/plot_rvir_z0.pdf, id=1824, 794.97pt x 614.295pt>
+File: r256/h100/stages_12/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_12/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 748--754
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 748--754
+[] [] 
+ []
+
+<r256/h100/stages_12/plot_Vrms_out_198.pdf, id=1825, 794.97pt x 614.295pt>
+File: r256/h100/stages_12/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_12/plot_Vrms_out_198.pdf>
+<r256/h100/stages_12/plot_spin_out_198.pdf, id=1826, 794.97pt x 614.295pt>
+File: r256/h100/stages_12/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_12/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 755--757
+[][] [] 
+ []
+
+[47 <./r256/h100/stages_12/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_12/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_12/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_1
+2/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_12/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_12/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_12/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [48]
+<r256/h100/stages_13/50.jpg, id=1877, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_13/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_13/50.jpg>
+<r256/h100/stages_13/100.jpg, id=1878, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_13/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_13/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 781--783
+
+ []
+
+<r256/h100/stages_13/150.jpg, id=1879, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_13/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_13/150.jpg>
+<r256/h100/stages_13/199.jpg, id=1880, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_13/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_13/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 784--786
+
+ []
+
+<r256/h100/stages_13/rotate_00074.jpg, id=1881, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_13/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_13/rotate_00074.jpg>
+<r256/h100/stages_13/rotate_00131.jpg, id=1882, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_13/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_13/rotate_00131.jpg>
+<r256/h100/stages_13/plot_powspec_stages_13.pdf, id=1883, 794.97pt x 614.295pt>
+File: r256/h100/stages_13/plot_powspec_stages_13.pdf Graphic file (type pdf)
+<use r256/h100/stages_13/plot_powspec_stages_13.pdf> [49 <./r256/h100/stages_13
+/50.jpg> <./r256/h100/stages_13/100.jpg> <./r256/h100/stages_13/150.jpg> <./r25
+6/h100/stages_13/199.jpg> <./r256/h100/stages_13/rotate_00074.jpg> <./r256/h100
+/stages_13/rotate_00131.jpg>]
+<r256/h100/stages_13/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=1888, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_13/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_13/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_13/Plot_Star_Formation_History.pdf, id=1889, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_13/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_13/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_13/Plot_HI_Mass_Function.pdf, id=1890, 333.245pt x 240.9pt>
+File: r256/h100/stages_13/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_13/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_13/Plot_K_Luminosity_Function.pdf, id=1891, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_13/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_13/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_13/Plot_Morphological_Luminosity_Function6.pdf, id=1892, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_13/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_13/Plot_Morphological_Luminosity_Function6.pdf> [50 <./r2
+56/h100/stages_13/plot_powspec_stages_13.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_13/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_13/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_13/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_13/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_13/plot_mvir_z0165.pdf, id=2000, 794.97pt x 614.295pt>
+File: r256/h100/stages_13/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_13/plot_mvir_z0165.pdf>
+<r256/h100/stages_13/plot_rvir_z0165.pdf, id=2001, 794.97pt x 614.295pt>
+File: r256/h100/stages_13/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_13/plot_rvir_z0165.pdf>
+<r256/h100/stages_13/plot_mvir_z0.pdf, id=2002, 794.97pt x 614.295pt>
+File: r256/h100/stages_13/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_13/plot_mvir_z0.pdf>
+<r256/h100/stages_13/plot_rvir_z0.pdf, id=2003, 794.97pt x 614.295pt>
+File: r256/h100/stages_13/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_13/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 798--804
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 798--804
+[] [] 
+ []
+
+<r256/h100/stages_13/plot_Vrms_out_198.pdf, id=2004, 794.97pt x 614.295pt>
+File: r256/h100/stages_13/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_13/plot_Vrms_out_198.pdf>
+<r256/h100/stages_13/plot_spin_out_198.pdf, id=2005, 794.97pt x 614.295pt>
+File: r256/h100/stages_13/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_13/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 805--807
+[][] [] 
+ []
+
+[51 <./r256/h100/stages_13/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_13/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_13/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_1
+3/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_13/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_13/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_13/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [52]
+<r256/h100/stages14_ling/50.jpg, id=2055, 1927.2pt x 1445.4pt>
+File: r256/h100/stages14_ling/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages14_ling/50.jpg>
+<r256/h100/stages14_ling/100.jpg, id=2056, 1927.2pt x 1445.4pt>
+File: r256/h100/stages14_ling/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages14_ling/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 834--836
+
+ []
+
+<r256/h100/stages14_ling/150.jpg, id=2057, 1927.2pt x 1445.4pt>
+File: r256/h100/stages14_ling/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages14_ling/150.jpg>
+<r256/h100/stages14_ling/198.jpg, id=2058, 1927.2pt x 1445.4pt>
+File: r256/h100/stages14_ling/198.jpg Graphic file (type jpg)
+
+<use r256/h100/stages14_ling/198.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 837--839
+
+ []
+
+<r256/h100/stages14_ling/rotate_00074.jpg, id=2059, 1927.2pt x 1445.4pt>
+File: r256/h100/stages14_ling/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages14_ling/rotate_00074.jpg>
+<r256/h100/stages14_ling/rotate_00131.jpg, id=2060, 1927.2pt x 1445.4pt>
+File: r256/h100/stages14_ling/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages14_ling/rotate_00131.jpg>
+<r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf, id=2061, 794.97pt x 61
+4.295pt>
+File: r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf Graphic file (type
+ pdf)
+ <use r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf> [53 <./r256/h100/
+stages14_ling/50.jpg> <./r256/h100/stages14_ling/100.jpg> <./r256/h100/stages14
+_ling/150.jpg> <./r256/h100/stages14_ling/198.jpg> <./r256/h100/stages14_ling/r
+otate_00074.jpg> <./r256/h100/stages14_ling/rotate_00131.jpg>]
+<r256/h100/stages14_ling/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=2066, 324.21124p
+t x 240.9pt>
+File: r256/h100/stages14_ling/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (t
+ype pdf)
+ <use r256/h100/stages14_ling/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages14_ling/Plot_Star_Formation_History.pdf, id=2067, 328.22626pt 
+x 239.89626pt>
+File: r256/h100/stages14_ling/Plot_Star_Formation_History.pdf Graphic file (typ
+e pdf)
+ <use r256/h100/stages14_ling/Plot_Star_Formation_History.pdf>
+<r256/h100/stages14_ling/Plot_HI_Mass_Function.pdf, id=2068, 333.245pt x 240.9p
+t>
+File: r256/h100/stages14_ling/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+ <use r256/h100/stages14_ling/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages14_ling/Plot_K_Luminosity_Function.pdf, id=2069, 330.23375pt x
+ 240.9pt>
+File: r256/h100/stages14_ling/Plot_K_Luminosity_Function.pdf Graphic file (type
+ pdf)
+ <use r256/h100/stages14_ling/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages14_ling/Plot_Morphological_Luminosity_Function6.pdf, id=2070, 
+331.2375pt x 240.9pt>
+File: r256/h100/stages14_ling/Plot_Morphological_Luminosity_Function6.pdf Graph
+ic file (type pdf)
+
+<use r256/h100/stages14_ling/Plot_Morphological_Luminosity_Function6.pdf>
+[54 <./r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf, page is rotated 
+90 degrees> <./r256/h100/stages14_ling/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r2
+56/h100/stages14_ling/Plot_Star_Formation_History.pdf> <./r256/h100/stages14_li
+ng/Plot_HI_Mass_Function.pdf> <./r256/h100/stages14_ling/Plot_K_Luminosity_Func
+tion.pdf>]
+<r256/h100/stages14_ling/plot_mvir_out_165.pdf, id=2179, 794.97pt x 614.295pt>
+File: r256/h100/stages14_ling/plot_mvir_out_165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages14_ling/plot_mvir_out_165.pdf>
+<r256/h100/stages14_ling/plot_mvir_out_198.pdf, id=2180, 794.97pt x 614.295pt>
+File: r256/h100/stages14_ling/plot_mvir_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages14_ling/plot_mvir_out_198.pdf>
+<r256/h100/stages14_ling/plot_Vmax_out_198.pdf, id=2181, 794.97pt x 614.295pt>
+File: r256/h100/stages14_ling/plot_Vmax_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages14_ling/plot_Vmax_out_198.pdf>
+<r256/h100/stages14_ling/plot_Vrms_out_165.pdf, id=2182, 794.97pt x 614.295pt>
+File: r256/h100/stages14_ling/plot_Vrms_out_165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages14_ling/plot_Vrms_out_165.pdf>
+<r256/h100/stages14_ling/plot_Vrms_out_198.pdf, id=2183, 794.97pt x 614.295pt>
+File: r256/h100/stages14_ling/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages14_ling/plot_Vrms_out_198.pdf>
+<r256/h100/stages14_ling/plot_spin_out_198.pdf, id=2184, 794.97pt x 614.295pt>
+File: r256/h100/stages14_ling/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages14_ling/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 851--857
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 851--857
+[] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 851--857
+[] [] 
+ []
+
+[55 <./r256/h100/stages14_ling/Plot_Morphological_Luminosity_Function6.pdf> <./
+r256/h100/stages14_ling/plot_mvir_out_165.pdf, page is rotated 90 degrees> <./r
+256/h100/stages14_ling/plot_mvir_out_198.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages14_ling/plot_Vmax_out_198.pdf, page is rotated 90 degrees> <./r25
+6/h100/stages14_ling/plot_Vrms_out_165.pdf, page is rotated 90 degrees> <./r256
+/h100/stages14_ling/plot_Vrms_out_198.pdf, page is rotated 90 degrees> <./r256/
+h100/stages14_ling/plot_spin_out_198.pdf, page is rotated 90 degrees>] [56]
+<r256/h100/stages_14/50.jpg, id=2234, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_14/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_14/50.jpg>
+<r256/h100/stages_14/100.jpg, id=2235, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_14/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_14/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 873--875
+
+ []
+
+<r256/h100/stages_14/150.jpg, id=2236, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_14/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_14/150.jpg>
+<r256/h100/stages_14/199.jpg, id=2237, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_14/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_14/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 876--878
+
+ []
+
+<r256/h100/stages_14/rotate_00074.jpg, id=2238, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_14/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_14/rotate_00074.jpg>
+<r256/h100/stages_14/rotate_00131.jpg, id=2239, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_14/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_14/rotate_00131.jpg>
+<r256/h100/stages_14/plot_powspec_stages_14.pdf, id=2240, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_powspec_stages_14.pdf Graphic file (type pdf)
+<use r256/h100/stages_14/plot_powspec_stages_14.pdf> [57 <./r256/h100/stages_14
+/50.jpg> <./r256/h100/stages_14/100.jpg> <./r256/h100/stages_14/150.jpg> <./r25
+6/h100/stages_14/199.jpg> <./r256/h100/stages_14/rotate_00074.jpg> <./r256/h100
+/stages_14/rotate_00131.jpg>]
+<r256/h100/stages_14/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=2245, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_14/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_14/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_14/Plot_Star_Formation_History.pdf, id=2246, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_14/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_14/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_14/Plot_HI_Mass_Function.pdf, id=2247, 333.245pt x 240.9pt>
+File: r256/h100/stages_14/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_14/Plot_K_Luminosity_Function.pdf, id=2248, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_14/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_14/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_14/Plot_Morphological_Luminosity_Function6.pdf, id=2249, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_14/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_14/Plot_Morphological_Luminosity_Function6.pdf> [58 <./r2
+56/h100/stages_14/plot_powspec_stages_14.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_14/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_14/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_14/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_14/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_14/plot_mvir_z0165.pdf, id=2357, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_mvir_z0165.pdf>
+<r256/h100/stages_14/plot_rvir_z0165.pdf, id=2358, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_rvir_z0165.pdf>
+<r256/h100/stages_14/plot_mvir_z0.pdf, id=2359, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_mvir_z0.pdf>
+<r256/h100/stages_14/plot_rvir_z0.pdf, id=2360, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 890--896
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 890--896
+[] [] 
+ []
+
+<r256/h100/stages_14/plot_Vrms_out_198.pdf, id=2361, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_Vrms_out_198.pdf>
+<r256/h100/stages_14/plot_spin_out_198.pdf, id=2362, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 897--899
+[][] [] 
+ []
+
+[59 <./r256/h100/stages_14/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_14/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_14/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_1
+4/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_14/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_14/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_14/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [60]
+<r256/h100/stages_14e2/plot_powspec_stages_14e2.pdf, id=2413, 794.97pt x 614.29
+5pt>
+File: r256/h100/stages_14e2/plot_powspec_stages_14e2.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_14e2/plot_powspec_stages_14e2.pdf> [61 <./r256/h100/stag
+es_14e2/plot_powspec_stages_14e2.pdf, page is rotated 90 degrees>]
+<r256/h100/stages_18/50.jpg, id=2421, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_18/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_18/50.jpg>
+<r256/h100/stages_18/100.jpg, id=2422, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_18/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_18/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 931--933
+
+ []
+
+<r256/h100/stages_18/150.jpg, id=2423, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_18/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_18/150.jpg>
+<r256/h100/stages_18/199.jpg, id=2424, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_18/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_18/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 934--936
+
+ []
+
+<r256/h100/stages_18/rotate_00074.jpg, id=2425, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_18/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_18/rotate_00074.jpg>
+<r256/h100/stages_18/rotate_00131.jpg, id=2426, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_18/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_18/rotate_00131.jpg>
+<r256/h100/stages_18/plot_powspec_stages_18.pdf, id=2427, 794.97pt x 614.295pt>
+File: r256/h100/stages_18/plot_powspec_stages_18.pdf Graphic file (type pdf)
+<use r256/h100/stages_18/plot_powspec_stages_18.pdf> [62 <./r256/h100/stages_18
+/50.jpg> <./r256/h100/stages_18/100.jpg> <./r256/h100/stages_18/150.jpg> <./r25
+6/h100/stages_18/199.jpg> <./r256/h100/stages_18/rotate_00074.jpg> <./r256/h100
+/stages_18/rotate_00131.jpg>]
+<r256/h100/stages_18/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=2432, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_18/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_18/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_18/Plot_Star_Formation_History.pdf, id=2433, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_18/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_18/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_18/Plot_HI_Mass_Function.pdf, id=2434, 333.245pt x 240.9pt>
+File: r256/h100/stages_18/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_18/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_18/Plot_K_Luminosity_Function.pdf, id=2435, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_18/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_18/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_18/Plot_Morphological_Luminosity_Function6.pdf, id=2436, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_18/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_18/Plot_Morphological_Luminosity_Function6.pdf> [63 <./r2
+56/h100/stages_18/plot_powspec_stages_18.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_18/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_18/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_18/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_18/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_18/plot_mvir_z0165.pdf, id=2544, 794.97pt x 614.295pt>
+File: r256/h100/stages_18/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_18/plot_mvir_z0165.pdf>
+<r256/h100/stages_18/plot_rvir_z0165.pdf, id=2545, 794.97pt x 614.295pt>
+File: r256/h100/stages_18/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_18/plot_rvir_z0165.pdf>
+<r256/h100/stages_18/plot_mvir_z0.pdf, id=2546, 794.97pt x 614.295pt>
+File: r256/h100/stages_18/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_18/plot_mvir_z0.pdf>
+<r256/h100/stages_18/plot_rvir_z0.pdf, id=2547, 794.97pt x 614.295pt>
+File: r256/h100/stages_18/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_18/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 948--954
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 948--954
+[] [] 
+ []
+
+<r256/h100/stages_18/plot_Vrms_out_198.pdf, id=2548, 794.97pt x 614.295pt>
+File: r256/h100/stages_18/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_18/plot_Vrms_out_198.pdf>
+<r256/h100/stages_18/plot_spin_out_198.pdf, id=2549, 794.97pt x 614.295pt>
+File: r256/h100/stages_18/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_18/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 955--957
+[][] [] 
+ []
+
+[64 <./r256/h100/stages_18/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_18/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_18/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_1
+8/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_18/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_18/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_18/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [65]
+<r256/h100/stages_19/50.jpg, id=2599, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_19/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_19/50.jpg>
+<r256/h100/stages_19/100.jpg, id=2600, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_19/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_19/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 978--980
+
+ []
+
+<r256/h100/stages_19/150.jpg, id=2601, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_19/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_19/150.jpg>
+<r256/h100/stages_19/199.jpg, id=2602, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_19/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_19/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 981--983
+
+ []
+
+<r256/h100/stages_19/rotate_00074.jpg, id=2603, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_19/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_19/rotate_00074.jpg>
+<r256/h100/stages_19/rotate_00131.jpg, id=2604, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_19/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_19/rotate_00131.jpg>
+<r256/h100/stages_19/plot_powspec_stages_19.pdf, id=2605, 794.97pt x 614.295pt>
+File: r256/h100/stages_19/plot_powspec_stages_19.pdf Graphic file (type pdf)
+<use r256/h100/stages_19/plot_powspec_stages_19.pdf> [66 <./r256/h100/stages_19
+/50.jpg> <./r256/h100/stages_19/100.jpg> <./r256/h100/stages_19/150.jpg> <./r25
+6/h100/stages_19/199.jpg> <./r256/h100/stages_19/rotate_00074.jpg> <./r256/h100
+/stages_19/rotate_00131.jpg>]
+<r256/h100/stages_19/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=2611, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_19/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_19/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_19/Plot_Star_Formation_History.pdf, id=2612, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_19/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_19/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_19/Plot_HI_Mass_Function.pdf, id=2613, 333.245pt x 240.9pt>
+File: r256/h100/stages_19/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_19/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_19/Plot_K_Luminosity_Function.pdf, id=2614, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_19/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_19/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_19/Plot_Morphological_Luminosity_Function6.pdf, id=2615, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_19/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_19/Plot_Morphological_Luminosity_Function6.pdf> [67 <./r2
+56/h100/stages_19/plot_powspec_stages_19.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_19/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_19/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_19/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_19/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_19/plot_mvir_z0165.pdf, id=2723, 794.97pt x 614.295pt>
+File: r256/h100/stages_19/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_19/plot_mvir_z0165.pdf>
+<r256/h100/stages_19/plot_rvir_z0165.pdf, id=2724, 794.97pt x 614.295pt>
+File: r256/h100/stages_19/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_19/plot_rvir_z0165.pdf>
+<r256/h100/stages_19/plot_mvir_z0.pdf, id=2725, 794.97pt x 614.295pt>
+File: r256/h100/stages_19/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_19/plot_mvir_z0.pdf>
+<r256/h100/stages_19/plot_rvir_z0.pdf, id=2726, 794.97pt x 614.295pt>
+File: r256/h100/stages_19/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_19/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 995--1001
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 995--1001
+[] [] 
+ []
+
+[68 <./r256/h100/stages_19/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_19/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_19/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_1
+9/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_19/plot_rvi
+r_z0.pdf, page is rotated 90 degrees>]
+<r256/h100/stages_20/50.jpg, id=2766, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_20/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_20/50.jpg>
+<r256/h100/stages_20/100.jpg, id=2767, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_20/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_20/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1022
+
+ []
+
+<r256/h100/stages_20/150.jpg, id=2768, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_20/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_20/150.jpg>
+<r256/h100/stages_20/199.jpg, id=2769, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_20/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_20/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+
+ []
+
+<r256/h100/stages_20/rotate_00074.jpg, id=2770, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_20/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_20/rotate_00074.jpg>
+<r256/h100/stages_20/rotate_00131.jpg, id=2771, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_20/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_20/rotate_00131.jpg>
+<r256/h100/stages_20/plot_powspec_stages_20.pdf, id=2772, 794.97pt x 614.295pt>
+File: r256/h100/stages_20/plot_powspec_stages_20.pdf Graphic file (type pdf)
+<use r256/h100/stages_20/plot_powspec_stages_20.pdf> [69 <./r256/h100/stages_20
+/50.jpg> <./r256/h100/stages_20/100.jpg> <./r256/h100/stages_20/150.jpg> <./r25
+6/h100/stages_20/199.jpg> <./r256/h100/stages_20/rotate_00074.jpg> <./r256/h100
+/stages_20/rotate_00131.jpg>]
+<r256/h100/stages_20/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=2777, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_20/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_20/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_20/Plot_Star_Formation_History.pdf, id=2778, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_20/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_20/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_20/Plot_HI_Mass_Function.pdf, id=2779, 333.245pt x 240.9pt>
+File: r256/h100/stages_20/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_20/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_20/Plot_K_Luminosity_Function.pdf, id=2780, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_20/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_20/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_20/Plot_Morphological_Luminosity_Function6.pdf, id=2781, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_20/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_20/Plot_Morphological_Luminosity_Function6.pdf> [70 <./r2
+56/h100/stages_20/plot_powspec_stages_20.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_20/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_20/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_20/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_20/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_20/plot_mvir_z0165.pdf, id=2889, 794.97pt x 614.295pt>
+File: r256/h100/stages_20/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_20/plot_mvir_z0165.pdf>
+<r256/h100/stages_20/plot_rvir_z0165.pdf, id=2890, 794.97pt x 614.295pt>
+File: r256/h100/stages_20/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_20/plot_rvir_z0165.pdf>
+<r256/h100/stages_20/plot_mvir_z0.pdf, id=2891, 794.97pt x 614.295pt>
+File: r256/h100/stages_20/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_20/plot_mvir_z0.pdf>
+<r256/h100/stages_20/plot_rvir_z0.pdf, id=2892, 794.97pt x 614.295pt>
+File: r256/h100/stages_20/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_20/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1037--1043
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1037--1043
+[] [] 
+ []
+
+<r256/h100/stages_20/plot_Vrms_out_198.pdf, id=2893, 794.97pt x 614.295pt>
+File: r256/h100/stages_20/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_20/plot_Vrms_out_198.pdf>
+<r256/h100/stages_20/plot_spin_out_198.pdf, id=2894, 794.97pt x 614.295pt>
+File: r256/h100/stages_20/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_20/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1044--1046
+[][] [] 
+ []
+
+[71 <./r256/h100/stages_20/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_20/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_20/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_2
+0/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_20/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_20/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_20/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [72]
+<r256/h100/stages_21/50.jpg, id=2945, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_21/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_21/50.jpg>
+<r256/h100/stages_21/100.jpg, id=2946, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_21/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_21/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1066
+
+ []
+
+<r256/h100/stages_21/150.jpg, id=2947, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_21/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_21/150.jpg>
+<r256/h100/stages_21/199.jpg, id=2948, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_21/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_21/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1069
+
+ []
+
+<r256/h100/stages_21/rotate_00074.jpg, id=2949, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_21/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_21/rotate_00074.jpg>
+<r256/h100/stages_21/rotate_00131.jpg, id=2950, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_21/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_21/rotate_00131.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1072
+
+ []
+
+
+<r256/h100/stages_21/plot_powspec_stages_21.pdf, id=2951, 794.97pt x 614.295pt>
+File: r256/h100/stages_21/plot_powspec_stages_21.pdf Graphic file (type pdf)
+<use r256/h100/stages_21/plot_powspec_stages_21.pdf> [73 <./r256/h100/stages_21
+/50.jpg> <./r256/h100/stages_21/100.jpg> <./r256/h100/stages_21/150.jpg> <./r25
+6/h100/stages_21/199.jpg> <./r256/h100/stages_21/rotate_00074.jpg> <./r256/h100
+/stages_21/rotate_00131.jpg>]
+<r256/h100/stages_21/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=2956, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_21/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_21/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_21/Plot_Star_Formation_History.pdf, id=2957, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_21/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_21/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_21/Plot_HI_Mass_Function.pdf, id=2958, 333.245pt x 240.9pt>
+File: r256/h100/stages_21/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_21/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_21/Plot_K_Luminosity_Function.pdf, id=2959, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_21/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_21/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_21/Plot_Morphological_Luminosity_Function6.pdf, id=2960, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_21/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_21/Plot_Morphological_Luminosity_Function6.pdf> [74 <./r2
+56/h100/stages_21/plot_powspec_stages_21.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_21/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_21/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_21/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_21/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_21/plot_mvir_z0165.pdf, id=3068, 794.97pt x 614.295pt>
+File: r256/h100/stages_21/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_21/plot_mvir_z0165.pdf>
+<r256/h100/stages_21/plot_rvir_z0165.pdf, id=3069, 794.97pt x 614.295pt>
+File: r256/h100/stages_21/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_21/plot_rvir_z0165.pdf>
+<r256/h100/stages_21/plot_mvir_z0.pdf, id=3070, 794.97pt x 614.295pt>
+File: r256/h100/stages_21/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_21/plot_mvir_z0.pdf>
+<r256/h100/stages_21/plot_rvir_z0.pdf, id=3071, 794.97pt x 614.295pt>
+File: r256/h100/stages_21/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_21/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1081--1087
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1081--1087
+[] [] 
+ []
+
+<r256/h100/stages_21/plot_Vrms_out_198.pdf, id=3072, 794.97pt x 614.295pt>
+File: r256/h100/stages_21/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_21/plot_Vrms_out_198.pdf>
+<r256/h100/stages_21/plot_spin_out_198.pdf, id=3073, 794.97pt x 614.295pt>
+File: r256/h100/stages_21/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_21/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1088--1090
+[][] [] 
+ []
+
+[75 <./r256/h100/stages_21/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_21/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_21/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_2
+1/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_21/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_21/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_21/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [76]
+<r256/h100/stages_37/50.jpg, id=3123, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_37/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_37/50.jpg>
+<r256/h100/stages_37/100.jpg, id=3124, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_37/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_37/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1110
+
+ []
+
+<r256/h100/stages_37/150.jpg, id=3125, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_37/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_37/150.jpg>
+<r256/h100/stages_37/198.jpg, id=3126, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_37/198.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_37/198.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1113
+
+ []
+
+<r256/h100/stages_37/rotate_00074.jpg, id=3127, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_37/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_37/rotate_00074.jpg>
+<r256/h100/stages_37/rotate_00131.jpg, id=3128, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_37/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_37/rotate_00131.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1116
+
+ []
+
+
+<r256/h100/stages_37/plot_powspec_stages_37.pdf, id=3129, 794.97pt x 614.295pt>
+File: r256/h100/stages_37/plot_powspec_stages_37.pdf Graphic file (type pdf)
+<use r256/h100/stages_37/plot_powspec_stages_37.pdf> [77 <./r256/h100/stages_37
+/50.jpg> <./r256/h100/stages_37/100.jpg> <./r256/h100/stages_37/150.jpg> <./r25
+6/h100/stages_37/198.jpg> <./r256/h100/stages_37/rotate_00074.jpg> <./r256/h100
+/stages_37/rotate_00131.jpg>]
+<r256/h100/stages_37/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=3134, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_37/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_37/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_37/Plot_Star_Formation_History.pdf, id=3135, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_37/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_37/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_37/Plot_HI_Mass_Function.pdf, id=3136, 333.245pt x 240.9pt>
+File: r256/h100/stages_37/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_37/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_37/Plot_K_Luminosity_Function.pdf, id=3137, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_37/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_37/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_37/Plot_Morphological_Luminosity_Function6.pdf, id=3138, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_37/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_37/Plot_Morphological_Luminosity_Function6.pdf> [78 <./r2
+56/h100/stages_37/plot_powspec_stages_37.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_37/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_37/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_37/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_37/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_37/plot_mvir_z0165.pdf, id=3247, 794.97pt x 614.295pt>
+File: r256/h100/stages_37/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_37/plot_mvir_z0165.pdf>
+<r256/h100/stages_37/plot_rvir_z0165.pdf, id=3248, 794.97pt x 614.295pt>
+File: r256/h100/stages_37/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_37/plot_rvir_z0165.pdf>
+<r256/h100/stages_37/plot_mvir_z0.pdf, id=3249, 794.97pt x 614.295pt>
+File: r256/h100/stages_37/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_37/plot_mvir_z0.pdf>
+<r256/h100/stages_37/plot_rvir_z0.pdf, id=3250, 794.97pt x 614.295pt>
+File: r256/h100/stages_37/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_37/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1126--1132
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1126--1132
+[] [] 
+ []
+
+<r256/h100/stages_37/plot_Vrms_out_198.pdf, id=3251, 794.97pt x 614.295pt>
+File: r256/h100/stages_37/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_37/plot_Vrms_out_198.pdf>
+<r256/h100/stages_37/plot_spin_out_198.pdf, id=3252, 794.97pt x 614.295pt>
+File: r256/h100/stages_37/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_37/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1133--1135
+[][] [] 
+ []
+
+[79 <./r256/h100/stages_37/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_37/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_37/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_3
+7/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_37/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_37/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_37/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [80]
+<r256/h100/stages_46/plot_powspec_stages_46.pdf, id=3302, 794.97pt x 614.295pt>
+File: r256/h100/stages_46/plot_powspec_stages_46.pdf Graphic file (type pdf)
+<use r256/h100/stages_46/plot_powspec_stages_46.pdf> [81 <./r256/h100/stages_46
+/plot_powspec_stages_46.pdf, page is rotated 90 degrees>]
+<r256/h100/stages_50/50.jpg, id=3310, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_50/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_50/50.jpg>
+<r256/h100/stages_50/100.jpg, id=3311, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_50/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_50/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1172
+
+ []
+
+<r256/h100/stages_50/150.jpg, id=3312, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_50/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_50/150.jpg>
+<r256/h100/stages_50/199.jpg, id=3313, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_50/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_50/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1173--1175
+
+ []
+
+<r256/h100/stages_50/rotate_00074.jpg, id=3314, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_50/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_50/rotate_00074.jpg>
+<r256/h100/stages_50/rotate_00131.jpg, id=3315, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_50/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_50/rotate_00131.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1178
+
+ []
+
+
+<r256/h100/stages_50/plot_powspec_stages_50.pdf, id=3316, 794.97pt x 614.295pt>
+File: r256/h100/stages_50/plot_powspec_stages_50.pdf Graphic file (type pdf)
+<use r256/h100/stages_50/plot_powspec_stages_50.pdf> [82 <./r256/h100/stages_50
+/50.jpg> <./r256/h100/stages_50/100.jpg> <./r256/h100/stages_50/150.jpg> <./r25
+6/h100/stages_50/199.jpg> <./r256/h100/stages_50/rotate_00074.jpg> <./r256/h100
+/stages_50/rotate_00131.jpg>]
+<r256/h100/stages_50/Plot_Black_Hole_vs_Bulge_Mass.pdf, id=3321, 324.21124pt x 
+240.9pt>
+File: r256/h100/stages_50/Plot_Black_Hole_vs_Bulge_Mass.pdf Graphic file (type 
+pdf)
+ <use r256/h100/stages_50/Plot_Black_Hole_vs_Bulge_Mass.pdf>
+<r256/h100/stages_50/Plot_Star_Formation_History.pdf, id=3322, 328.22626pt x 23
+9.89626pt>
+File: r256/h100/stages_50/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_50/Plot_Star_Formation_History.pdf>
+<r256/h100/stages_50/Plot_HI_Mass_Function.pdf, id=3323, 333.245pt x 240.9pt>
+File: r256/h100/stages_50/Plot_HI_Mass_Function.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_50/Plot_HI_Mass_Function.pdf>
+<r256/h100/stages_50/Plot_K_Luminosity_Function.pdf, id=3324, 330.23375pt x 240
+.9pt>
+File: r256/h100/stages_50/Plot_K_Luminosity_Function.pdf Graphic file (type pdf
+)
+ <use r256/h100/stages_50/Plot_K_Luminosity_Function.pdf>
+<r256/h100/stages_50/Plot_Morphological_Luminosity_Function6.pdf, id=3325, 331.
+2375pt x 240.9pt>
+File: r256/h100/stages_50/Plot_Morphological_Luminosity_Function6.pdf Graphic f
+ile (type pdf)
+
+<use r256/h100/stages_50/Plot_Morphological_Luminosity_Function6.pdf> [83 <./r2
+56/h100/stages_50/plot_powspec_stages_50.pdf, page is rotated 90 degrees> <./r2
+56/h100/stages_50/Plot_Black_Hole_vs_Bulge_Mass.pdf> <./r256/h100/stages_50/Plo
+t_Star_Formation_History.pdf> <./r256/h100/stages_50/Plot_HI_Mass_Function.pdf>
+ <./r256/h100/stages_50/Plot_K_Luminosity_Function.pdf>]
+<r256/h100/stages_50/plot_mvir_z0165.pdf, id=3433, 794.97pt x 614.295pt>
+File: r256/h100/stages_50/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_50/plot_mvir_z0165.pdf>
+<r256/h100/stages_50/plot_rvir_z0165.pdf, id=3434, 794.97pt x 614.295pt>
+File: r256/h100/stages_50/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_50/plot_rvir_z0165.pdf>
+<r256/h100/stages_50/plot_mvir_z0.pdf, id=3435, 794.97pt x 614.295pt>
+File: r256/h100/stages_50/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_50/plot_mvir_z0.pdf>
+<r256/h100/stages_50/plot_rvir_z0.pdf, id=3436, 794.97pt x 614.295pt>
+File: r256/h100/stages_50/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_50/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1187--1193
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1187--1193
+[] [] 
+ []
+
+<r256/h100/stages_50/plot_Vrms_out_198.pdf, id=3437, 794.97pt x 614.295pt>
+File: r256/h100/stages_50/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_50/plot_Vrms_out_198.pdf>
+<r256/h100/stages_50/plot_spin_out_198.pdf, id=3438, 794.97pt x 614.295pt>
+File: r256/h100/stages_50/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_50/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1194--1196
+[][] [] 
+ []
+
+[84 <./r256/h100/stages_50/Plot_Morphological_Luminosity_Function6.pdf> <./r256
+/h100/stages_50/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/s
+tages_50/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h100/stages_5
+0/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_50/plot_rvi
+r_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_50/plot_Vrms_out_198.
+pdf, page is rotated 90 degrees> <./r256/h100/stages_50/plot_spin_out_198.pdf, 
+page is rotated 90 degrees>] [85]
+<r256/h100/stages51_ling/50.jpg, id=3489, 1927.2pt x 1445.4pt>
+File: r256/h100/stages51_ling/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages51_ling/50.jpg>
+<r256/h100/stages51_ling/100.jpg, id=3490, 1927.2pt x 1445.4pt>
+File: r256/h100/stages51_ling/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages51_ling/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1216--1218
+
+ []
+
+<r256/h100/stages51_ling/150.jpg, id=3491, 1927.2pt x 1445.4pt>
+File: r256/h100/stages51_ling/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages51_ling/150.jpg>
+<r256/h100/stages51_ling/198.jpg, id=3492, 1927.2pt x 1445.4pt>
+File: r256/h100/stages51_ling/198.jpg Graphic file (type jpg)
+
+<use r256/h100/stages51_ling/198.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1219--1221
+
+ []
+
+<r256/h100/stages51_ling/rotate_00074.jpg, id=3493, 1927.2pt x 1445.4pt>
+File: r256/h100/stages51_ling/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages51_ling/rotate_00074.jpg>
+<r256/h100/stages51_ling/rotate_00131.jpg, id=3494, 1927.2pt x 1445.4pt>
+File: r256/h100/stages51_ling/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages51_ling/rotate_00131.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1224
+
+ []
+
+
+<r256/h100/stages51_ling/plot_powspec_stages51_ling.pdf, id=3495, 794.97pt x 61
+4.295pt>
+File: r256/h100/stages51_ling/plot_powspec_stages51_ling.pdf Graphic file (type
+ pdf)
+ <use r256/h100/stages51_ling/plot_powspec_stages51_ling.pdf> [86 <./r256/h100/
+stages51_ling/50.jpg> <./r256/h100/stages51_ling/100.jpg> <./r256/h100/stages51
+_ling/150.jpg> <./r256/h100/stages51_ling/198.jpg> <./r256/h100/stages51_ling/r
+otate_00074.jpg> <./r256/h100/stages51_ling/rotate_00131.jpg>] [87 <./r256/h100
+/stages51_ling/plot_powspec_stages51_ling.pdf, page is rotated 90 degrees>] <r2
+56/h100/stages_51/50.jpg, id=3507, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_51/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_51/50.jpg>
+<r256/h100/stages_51/100.jpg, id=3508, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_51/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_51/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1263
+
+ []
+
+<r256/h100/stages_51/150.jpg, id=3509, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_51/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_51/150.jpg>
+<r256/h100/stages_51/199.jpg, id=3510, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_51/199.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_51/199.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1266
+
+ []
+
+<r256/h100/stages_51/rotate_00074.jpg, id=3511, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_51/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_51/rotate_00074.jpg>
+<r256/h100/stages_51/rotate_00131.jpg, id=3512, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_51/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_51/rotate_00131.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1269
+
+ []
+
+
+<r256/h100/stages_51/plot_powspec_stages_51.pdf, id=3513, 794.97pt x 614.295pt>
+File: r256/h100/stages_51/plot_powspec_stages_51.pdf Graphic file (type pdf)
+<use r256/h100/stages_51/plot_powspec_stages_51.pdf> [88 <./r256/h100/stages_51
+/50.jpg> <./r256/h100/stages_51/100.jpg> <./r256/h100/stages_51/150.jpg> <./r25
+6/h100/stages_51/199.jpg> <./r256/h100/stages_51/rotate_00074.jpg> <./r256/h100
+/stages_51/rotate_00131.jpg>]
+<r256/h100/stages_51/plot_mvir_z0165.pdf, id=3518, 794.97pt x 614.295pt>
+File: r256/h100/stages_51/plot_mvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_51/plot_mvir_z0165.pdf>
+<r256/h100/stages_51/plot_rvir_z0165.pdf, id=3519, 794.97pt x 614.295pt>
+File: r256/h100/stages_51/plot_rvir_z0165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_51/plot_rvir_z0165.pdf>
+<r256/h100/stages_51/plot_mvir_z0.pdf, id=3520, 794.97pt x 614.295pt>
+File: r256/h100/stages_51/plot_mvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_51/plot_mvir_z0.pdf>
+<r256/h100/stages_51/plot_rvir_z0.pdf, id=3521, 794.97pt x 614.295pt>
+File: r256/h100/stages_51/plot_rvir_z0.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_51/plot_rvir_z0.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1278--1284
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1278--1284
+[] [] 
+ []
+
+<r256/h100/stages_51/plot_Vrms_out_198.pdf, id=3522, 794.97pt x 614.295pt>
+File: r256/h100/stages_51/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_51/plot_Vrms_out_198.pdf>
+<r256/h100/stages_51/plot_spin_out_198.pdf, id=3523, 794.97pt x 614.295pt>
+File: r256/h100/stages_51/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_51/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1285--1287
+[][] [] 
+ []
+
+[89 <./r256/h100/stages_51/plot_powspec_stages_51.pdf, page is rotated 90 degre
+es> <./r256/h100/stages_51/plot_mvir_z0165.pdf, page is rotated 90 degrees> <./
+r256/h100/stages_51/plot_rvir_z0165.pdf, page is rotated 90 degrees> <./r256/h1
+00/stages_51/plot_mvir_z0.pdf, page is rotated 90 degrees> <./r256/h100/stages_
+51/plot_rvir_z0.pdf, page is rotated 90 degrees>] [90 <./r256/h100/stages_51/pl
+ot_Vrms_out_198.pdf, page is rotated 90 degrees> <./r256/h100/stages_51/plot_sp
+in_out_198.pdf, page is rotated 90 degrees>]
+<r256/h100/stages_52/50.jpg, id=3554, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_52/50.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_52/50.jpg>
+<r256/h100/stages_52/100.jpg, id=3555, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_52/100.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_52/100.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1305--1307
+
+ []
+
+<r256/h100/stages_52/150.jpg, id=3556, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_52/150.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_52/150.jpg>
+<r256/h100/stages_52/198.jpg, id=3557, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_52/198.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_52/198.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1308--1310
+
+ []
+
+<r256/h100/stages_52/rotate_00074.jpg, id=3558, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_52/rotate_00074.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_52/rotate_00074.jpg>
+<r256/h100/stages_52/rotate_00131.jpg, id=3559, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_52/rotate_00131.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_52/rotate_00131.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 1311--1313
+
+ []
+
+
+<r256/h100/stages_52/plot_powspec_stages_52.pdf, id=3560, 794.97pt x 614.295pt>
+File: r256/h100/stages_52/plot_powspec_stages_52.pdf Graphic file (type pdf)
+<use r256/h100/stages_52/plot_powspec_stages_52.pdf> [91 <./r256/h100/stages_52
+/50.jpg> <./r256/h100/stages_52/100.jpg> <./r256/h100/stages_52/150.jpg> <./r25
+6/h100/stages_52/198.jpg> <./r256/h100/stages_52/rotate_00074.jpg> <./r256/h100
+/stages_52/rotate_00131.jpg>]
+<r256/h100/stages_52/plot_mvir_out_165.pdf, id=3565, 794.97pt x 614.295pt>
+File: r256/h100/stages_52/plot_mvir_out_165.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_52/plot_mvir_out_165.pdf>
+<r256/h100/stages_52/plot_mvir_out_198.pdf, id=3566, 794.97pt x 614.295pt>
+File: r256/h100/stages_52/plot_mvir_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_52/plot_mvir_out_198.pdf>
+<r256/h100/stages_52/plot_Vrms_out_198.pdf, id=3567, 794.97pt x 614.295pt>
+File: r256/h100/stages_52/plot_Vrms_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_52/plot_Vrms_out_198.pdf>
+<r256/h100/stages_52/plot_Vmax_out_198.pdf, id=3568, 794.97pt x 614.295pt>
+File: r256/h100/stages_52/plot_Vmax_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_52/plot_Vmax_out_198.pdf>
+<r256/h100/stages_52/plot_spin_out_198.pdf, id=3569, 794.97pt x 614.295pt>
+File: r256/h100/stages_52/plot_spin_out_198.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_52/plot_spin_out_198.pdf>
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1316--1321
+[][] []
+ []
+
+
+Overfull \hbox (52.62769pt too wide) in paragraph at lines 1316--1321
+[] []
+ []
+
+[92 <./r256/h100/stages_52/plot_powspec_stages_52.pdf, page is rotated 90 degre
+es> <./r256/h100/stages_52/plot_mvir_out_165.pdf, page is rotated 90 degrees> <
+./r256/h100/stages_52/plot_mvir_out_198.pdf, page is rotated 90 degrees> <./r25
+6/h100/stages_52/plot_Vrms_out_198.pdf, page is rotated 90 degrees> <./r256/h10
+0/stages_52/plot_Vmax_out_198.pdf, page is rotated 90 degrees>] [93 <./r256/h10
+0/stages_52/plot_spin_out_198.pdf, page is rotated 90 degrees>] [94] [95]
+(./Sim_r256_Single.aux) ) 
+Here is how much of TeX's memory you used:
+ 8087 strings out of 495061
+ 160820 string characters out of 1182622
+ 167586 words of memory out of 3000000
+ 10888 multiletter control sequences out of 15000+50000
+ 13693 words of font info for 51 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 38i,6n,39p,284b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.p
+fb>
+Output written on Sim_r256_Single.pdf (96 pages, 70334850 bytes).
+PDF statistics:
+ 3666 PDF objects out of 4296 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
+ 2279 words of extra memory for PDF output out of 10000 (max. 10000000)
+
