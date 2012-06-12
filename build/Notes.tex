@@ -2,7 +2,76 @@
 \chapter{Notes}
 \begin{itemize}
 
+\item[12.06.2012]
+Comparison of different \texttt{linger.dat}s for \texttt{stages\_14}: \\
+
+\begin{table}[p]
+\centering
+\begin{tabular}{l|c|c}
+stages\_14 & h70 & h100 \\
+\hline 
+ & \includegraphics[scale=0.075]{r256/h100/stages_14/197.jpg} & \includegraphics[scale=0.075]{r256/h100/stages_14/197.jpg} \\
+ & 2DO & \includegraphics[scale=0.25]{r256/h100/stages_14/plot_powspec_stages_14.pdf} \\
+ & 2DO & \includegraphics[scale=0.25]{r256/h100/stages_14/plot_mvir_out_197.pdf} \\
+ & 2DO & \includegraphics[scale=0.5]{r256/h100/stages_14/Plot_Star_Formation_History.pdf} \\
+\end{tabular}
+\end{table}
+\begin{table}[p]
+\centering
+\begin{tabular}{l|c|c}
+stages14\_ling & h70 & h100 \\
+\hline 
+ & \includegraphics[scale=0.075]{r256/h100/stages14_ling/197.jpg} & \includegraphics[scale=0.075]{r256/h100/stages14_ling/197.jpg} \\
+ & 2DO & \includegraphics[scale=0.25]{r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf} \\
+ & 2DO & \includegraphics[scale=0.25]{r256/h100/stages14_ling/plot_mvir_out_197.pdf} \\
+ & 2DO & \includegraphics[scale=0.5]{r256/h100/stages14_ling/Plot_Star_Formation_History.pdf} \\
+\end{tabular}
+\end{table}
+\begin{table}[p]
+\centering
+\begin{tabular}{l|c|c}
+red\_st14\_log1 & h70 & h100 \\
+\hline 
+ & \includegraphics[scale=0.075]{r256/h70/red_st14_log1/197.jpg} & \includegraphics[scale=0.075]{r256/h100/red_st14_log1/197.jpg} \\
+ & \includegraphics[scale=0.25]{r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf} & \includegraphics[scale=0.25]{r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf} \\
+ & \includegraphics[scale=0.25]{r256/h70/red_st14_log1/plot_mvir_out_197.pdf} & \includegraphics[scale=0.25]{r256/h100/red_st14_log1/plot_mvir_out_197.pdf} \\
+ & \includegraphics[scale=0.5]{r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf} & \includegraphics[scale=0.5]{r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf} \\
+\end{tabular}
+\end{table}
+\begin{table}[p]
+\centering
+\begin{tabular}{l|c|c}
+ red\_st14\_log2 & h70 & h100 \\
+\hline 
+ & \includegraphics[scale=0.075]{r256/h70/red_st14_log2/197.jpg} & \includegraphics[scale=0.075]{r256/h100/red_st14_log2/197.jpg} \\
+ & \includegraphics[scale=0.25]{r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf} & \includegraphics[scale=0.25]{r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf} \\
+ & \includegraphics[scale=0.25]{r256/h70/red_st14_log2/plot_mvir_out_197.pdf} & \includegraphics[scale=0.25]{r256/h100/red_st14_log2/plot_mvir_out_197.pdf} \\
+ & \includegraphics[scale=0.5]{r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf} & \includegraphics[scale=0.5]{r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf} \\
+\end{tabular}
+\end{table}
+\begin{table}[p]
+\centering
+\begin{tabular}{l|c|c}
+ rest14lg3 & h70 & h100 \\
+\hline 
+ & \includegraphics[scale=0.075]{r256/h70/rst14lg3/197.jpg} & 2DO \\
+ & \includegraphics[scale=0.25]{r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf} & \includegraphics[scale=0.25]{r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf} \\
+ & \includegraphics[scale=0.25]{r256/h70/rst14lg3/plot_mvir_out_197.pdf} & \includegraphics[scale=0.25]{r256/h100/rst14lg3/plot_mvir_out_197.pdf} \\
+ & 2DO & \includegraphics[scale=0.5]{r256/h100/rst14lg3/Plot_Star_Formation_History.pdf} \\
+  
+ 
+\end{tabular}
+\caption{Comparison}
+\end{table}
+
+\texttt{MUSIC\_3} and \texttt{MUSIC\_4} are to be rockstar-tested with 
+respect to different particle types  + Markus wants to test refinement \\
+Galacticus: "merging halos [...] have zero separation"-error reported 
+to Peter Behroozi because this occurs already in \texttt{tree\_0\_0\_0.dat}. \\
+
 \item[10.06.2012]
+Galacticus bug in stellar spetra calculation reported; Link:
+\texttt{https://bugs.launchpad.net/bugs/1011471} $\rightarrow$ fixed in rev836 \\ 
 Third pair of simulations is being galacticussed \\
 Markus' findins with Gadget2 units should be checked with respect 
 to the pipeline (especially Rockstar) \\

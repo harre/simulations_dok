@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  10 JUN 2012 15:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  12 JUN 2012 15:10
 entering extended mode
  %&-line parsing enabled.
 **Notes_Single.tex
@@ -610,136 +610,338 @@ Chapter 1.
 ]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<r256/h100/stages_14/197.jpg, id=31, 1927.2pt x 1445.4pt>
+File: r256/h100/stages_14/197.jpg Graphic file (type jpg)
+
+<use r256/h100/stages_14/197.jpg>
+File: r256/h100/stages_14/197.jpg Graphic file (type jpg)
+ <use r256/h100/stages_14/197.jpg>
+<r256/h100/stages_14/plot_powspec_stages_14.pdf, id=32, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_powspec_stages_14.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_powspec_stages_14.pdf>
+<r256/h100/stages_14/plot_mvir_out_197.pdf, id=33, 794.97pt x 614.295pt>
+File: r256/h100/stages_14/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h100/stages_14/plot_mvir_out_197.pdf>
+<r256/h100/stages_14/Plot_Star_Formation_History.pdf, id=34, 328.22626pt x 239.
+89626pt>
+File: r256/h100/stages_14/Plot_Star_Formation_History.pdf Graphic file (type pd
+f)
+ <use r256/h100/stages_14/Plot_Star_Formation_History.pdf>
+<r256/h100/stages14_ling/197.jpg, id=35, 1927.2pt x 1445.4pt>
+File: r256/h100/stages14_ling/197.jpg Graphic file (type jpg)
+
+<use r256/h100/stages14_ling/197.jpg>
+File: r256/h100/stages14_ling/197.jpg Graphic file (type jpg)
+ <use r256/h100/stages14_ling/197.jpg>
+<r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf, id=36, 794.97pt x 614.
+295pt>
+File: r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf Graphic file (type
+ pdf)
+ <use r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf>
+<r256/h100/stages14_ling/plot_mvir_out_197.pdf, id=37, 794.97pt x 614.295pt>
+File: r256/h100/stages14_ling/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h100/stages14_ling/plot_mvir_out_197.pdf>
+<r256/h100/stages14_ling/Plot_Star_Formation_History.pdf, id=38, 328.22626pt x 
+239.89626pt>
+File: r256/h100/stages14_ling/Plot_Star_Formation_History.pdf Graphic file (typ
+e pdf)
+ <use r256/h100/stages14_ling/Plot_Star_Formation_History.pdf>
+Overfull \hbox (13.73152pt too wide) in paragraph at lines 49--57
+ [][] 
+ []
+
+<r256/h70/red_st14_log1/197.jpg, id=39, 1927.2pt x 1445.4pt>
+File: r256/h70/red_st14_log1/197.jpg Graphic file (type jpg)
+
+<use r256/h70/red_st14_log1/197.jpg>
+<r256/h100/red_st14_log1/197.jpg, id=40, 1927.2pt x 1445.4pt>
+File: r256/h100/red_st14_log1/197.jpg Graphic file (type jpg)
+
+<use r256/h100/red_st14_log1/197.jpg>
+<r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf, id=41, 794.97pt x 614.2
+95pt>
+File: r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf Graphic file (type 
+pdf)
+ <use r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf>
+<r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf, id=42, 794.97pt x 614.
+295pt>
+File: r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf Graphic file (type
+ pdf)
+ <use r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf>
+<r256/h70/red_st14_log1/plot_mvir_out_197.pdf, id=43, 794.97pt x 614.295pt>
+File: r256/h70/red_st14_log1/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h70/red_st14_log1/plot_mvir_out_197.pdf>
+<r256/h100/red_st14_log1/plot_mvir_out_197.pdf, id=44, 794.97pt x 614.295pt>
+File: r256/h100/red_st14_log1/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h100/red_st14_log1/plot_mvir_out_197.pdf>
+<r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf, id=45, 328.22626pt x 2
+39.89626pt>
+File: r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf Graphic file (type
+ pdf)
+ <use r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf>
+<r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf, id=46, 328.22626pt x 
+239.89626pt>
+File: r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf Graphic file (typ
+e pdf)
+ <use r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf>
+Overfull \hbox (68.80968pt too wide) in paragraph at lines 60--68
+ [][] 
+ []
+
+<r256/h70/red_st14_log2/197.jpg, id=47, 1927.2pt x 1445.4pt>
+File: r256/h70/red_st14_log2/197.jpg Graphic file (type jpg)
+
+<use r256/h70/red_st14_log2/197.jpg>
+<r256/h100/red_st14_log2/197.jpg, id=48, 1927.2pt x 1445.4pt>
+File: r256/h100/red_st14_log2/197.jpg Graphic file (type jpg)
+
+<use r256/h100/red_st14_log2/197.jpg>
+<r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf, id=49, 794.97pt x 614.2
+95pt>
+File: r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf Graphic file (type 
+pdf)
+ <use r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf>
+<r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf, id=50, 794.97pt x 614.
+295pt>
+File: r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf Graphic file (type
+ pdf)
+ <use r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf>
+<r256/h70/red_st14_log2/plot_mvir_out_197.pdf, id=51, 794.97pt x 614.295pt>
+File: r256/h70/red_st14_log2/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h70/red_st14_log2/plot_mvir_out_197.pdf>
+<r256/h100/red_st14_log2/plot_mvir_out_197.pdf, id=52, 794.97pt x 614.295pt>
+File: r256/h100/red_st14_log2/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h100/red_st14_log2/plot_mvir_out_197.pdf>
+<r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf, id=53, 328.22626pt x 2
+39.89626pt>
+File: r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf Graphic file (type
+ pdf)
+ <use r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf>
+<r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf, id=54, 328.22626pt x 
+239.89626pt>
+File: r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf Graphic file (typ
+e pdf)
+ <use r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf>
+Overfull \hbox (68.80968pt too wide) in paragraph at lines 71--79
+ [][] 
+ []
+
+<r256/h70/rst14lg3/197.jpg, id=55, 1927.2pt x 1445.4pt>
+File: r256/h70/rst14lg3/197.jpg Graphic file (type jpg)
+
+<use r256/h70/rst14lg3/197.jpg>
+<r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf, id=56, 794.97pt x 614.295pt>
+File: r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf Graphic file (type pdf)
+
+<use r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf>
+<r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf, id=57, 794.97pt x 614.295pt>
+File: r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf Graphic file (type pdf)
+
+<use r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf>
+<r256/h70/rst14lg3/plot_mvir_out_197.pdf, id=58, 794.97pt x 614.295pt>
+File: r256/h70/rst14lg3/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h70/rst14lg3/plot_mvir_out_197.pdf>
+<r256/h100/rst14lg3/plot_mvir_out_197.pdf, id=59, 794.97pt x 614.295pt>
+File: r256/h100/rst14lg3/plot_mvir_out_197.pdf Graphic file (type pdf)
+
+<use r256/h100/rst14lg3/plot_mvir_out_197.pdf>
+<r256/h100/rst14lg3/Plot_Star_Formation_History.pdf, id=60, 328.22626pt x 239.8
+9626pt>
+File: r256/h100/rst14lg3/Plot_Star_Formation_History.pdf Graphic file (type pdf
+)
+ <use r256/h100/rst14lg3/Plot_Star_Formation_History.pdf>
+Overfull \hbox (49.36732pt too wide) in paragraph at lines 82--92
+ [][] 
+ []
+
+
+Overfull \hbox (5.89134pt too wide) in paragraph at lines 95--99
+\OT1/cmr/m/n/10.95 Galacticus: "merg-ing ha-los [...] have zero separation"-err
+or re-ported to Pe-ter Behroozi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
+Overfull \hbox (102.2083pt too wide) in paragraph at lines 101--106
+[]\OT1/cmr/m/n/10.95 Galacticus bug in stel-lar spe-tra cal-cu-la-tion re-porte
+d; Link: \OT1/cmtt/m/n/10.95 https://bugs.launchpad.net/bugs/1011471
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
 
-<r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf, id=31, 328.22626pt x 2
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+<r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf, id=61, 328.22626pt x 2
 39.89626pt>
 File: r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf Graphic file (type
  pdf)
  <use r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf>
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
-
- []
-
 [3
 
- <./r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+ <./r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf>] [4 <./r256/h100/st
+ages_14/197.jpg> <./r256/h100/stages_14/plot_powspec_stages_14.pdf, page is rot
+ated 90 degrees> <./r256/h100/stages_14/plot_mvir_out_197.pdf, page is rotated 
+90 degrees> <./r256/h100/stages_14/Plot_Star_Formation_History.pdf>] [5 <./r256
+/h100/stages14_ling/197.jpg> <./r256/h100/stages14_ling/plot_powspec_stages14_l
+ing.pdf, page is rotated 90 degrees> <./r256/h100/stages14_ling/plot_mvir_out_1
+97.pdf, page is rotated 90 degrees> <./r256/h100/stages14_ling/Plot_Star_Format
+ion_History.pdf>] [6 <./r256/h70/red_st14_log1/197.jpg> <./r256/h100/red_st14_l
+og1/197.jpg> <./r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf, page is 
+rotated 90 degrees> <./r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf, 
+page is rotated 90 degrees> <./r256/h70/red_st14_log1/plot_mvir_out_197.pdf, pa
+ge is rotated 90 degrees> <./r256/h100/red_st14_log1/plot_mvir_out_197.pdf, pag
+e is rotated 90 degrees> <./r256/h70/red_st14_log1/Plot_Star_Formation_History.
+pdf> <./r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf>] [7 <./r256/h7
+0/red_st14_log2/197.jpg> <./r256/h100/red_st14_log2/197.jpg> <./r256/h70/red_st
+14_log2/plot_powspec_red_st14_log2.pdf, page is rotated 90 degrees> <./r256/h10
+0/red_st14_log2/plot_powspec_red_st14_log2.pdf, page is rotated 90 degrees> <./
+r256/h70/red_st14_log2/plot_mvir_out_197.pdf, page is rotated 90 degrees> <./r2
+56/h100/red_st14_log2/plot_mvir_out_197.pdf, page is rotated 90 degrees> <./r25
+6/h70/red_st14_log2/Plot_Star_Formation_History.pdf> <./r256/h100/red_st14_log2
+/Plot_Star_Formation_History.pdf>] [8 <./r256/h70/rst14lg3/197.jpg> <./r256/h70
+/rst14lg3/plot_powspec_rst14lg3.pdf, page is rotated 90 degrees> <./r256/h100/r
+st14lg3/plot_powspec_rst14lg3.pdf, page is rotated 90 degrees> <./r256/h70/rst1
+4lg3/plot_mvir_out_197.pdf, page is rotated 90 degrees> <./r256/h100/rst14lg3/p
+lot_mvir_out_197.pdf, page is rotated 90 degrees> <./r256/h100/rst14lg3/Plot_St
+ar_Formation_History.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--102
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
+Underfull \hbox (badness 10000) in paragraph at lines 167--171
 
  []
 
 
-<r256/h100/stages_52/Plot_Star_Formation_History_small.pdf, id=61, 328.22626pt 
-x 239.89626pt>
+Underfull \hbox (badness 10000) in paragraph at lines 174--181
+
+ []
+
+
+<r256/h100/stages_52/Plot_Star_Formation_History_small.pdf, id=323, 328.22626pt
+ x 239.89626pt>
 File: r256/h100/stages_52/Plot_Star_Formation_History_small.pdf Graphic file (t
 ype pdf)
- <use r256/h100/stages_52/Plot_Star_Formation_History_small.pdf>
-Underfull \hbox (badness 10000) in paragraph at lines 114--122
+
+<use r256/h100/stages_52/Plot_Star_Formation_History_small.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 183--191
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 193--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--128
+Underfull \hbox (badness 10000) in paragraph at lines 199--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Underfull \hbox (badness 10000) in paragraph at lines 204--207
 
  []
 
-[4 <./r256/h100/stages_52/Plot_Star_Formation_History_small.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
-
- []
-
-<r256/h100/nonperiodictest/drd5nonperiodic.png, id=90, 614.295pt x 385.44pt>
+<r256/h100/nonperiodictest/drd5nonperiodic.png, id=328, 614.295pt x 385.44pt>
 File: r256/h100/nonperiodictest/drd5nonperiodic.png Graphic file (type png)
 
 <use r256/h100/nonperiodictest/drd5nonperiodic.png>
-<r256/h100/nonperiodictest/stages20nonperiodic.png, id=91, 1191.45125pt x 740.7
-675pt>
+<r256/h100/nonperiodictest/stages20nonperiodic.png, id=329, 1191.45125pt x 740.
+7675pt>
 File: r256/h100/nonperiodictest/stages20nonperiodic.png Graphic file (type png)
 
  <use r256/h100/nonperiodictest/stages20nonperiodic.png>
-Overfull \hbox (25.593pt too wide) in paragraph at lines 140--144
+Overfull \hbox (25.593pt too wide) in paragraph at lines 209--213
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--144
+Underfull \hbox (badness 10000) in paragraph at lines 209--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--159
+Underfull \hbox (badness 10000) in paragraph at lines 221--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--165
+Underfull \hbox (badness 10000) in paragraph at lines 230--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--170
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
+
+ []
+
+[10 <./r256/h100/stages_52/Plot_Star_Formation_History_small.pdf> <./r256/h100/
+nonperiodictest/drd5nonperiodic.png (PNG copy)> <./r256/h100/nonperiodictest/st
+ages20nonperiodic.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 250--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--189
-
- []
-
-[5 <./r256/h100/nonperiodictest/drd5nonperiodic.png (PNG copy)> <./r256/h100/no
-nperiodictest/stages20nonperiodic.png (PNG copy)>]
-Overfull \hbox (100.71956pt too wide) in paragraph at lines 218--218
+Overfull \hbox (100.71956pt too wide) in paragraph at lines 287--287
  []\OT1/cmtt/m/n/10.95 Useless use of private variable in void context at ../..
 /perl//XMP/MetaData.pm line 16.[] 
  []
 
 
-Overfull \hbox (8.74055pt too wide) in paragraph at lines 218--218
+Overfull \hbox (8.74055pt too wide) in paragraph at lines 287--287
  []\OT1/cmtt/m/n/10.95 Error Calling PDL::IO::HDF5::Dataset::get: Can't get HDF
 5 Dataset type.[] 
  []
 
 
-Overfull \hbox (8.74055pt too wide) in paragraph at lines 218--218
+Overfull \hbox (8.74055pt too wide) in paragraph at lines 287--287
  []\OT1/cmtt/m/n/10.95 Error Calling PDL::IO::HDF5::Dataset::get: Can't get HDF
 5 Dataset type.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--229
+Underfull \hbox (badness 10000) in paragraph at lines 290--298
 
  []
 
 
-Overfull \hbox (56.3483pt too wide) in paragraph at lines 231--234
+Overfull \hbox (56.3483pt too wide) in paragraph at lines 300--303
 []\OT1/cmr/m/n/10.95 add \OT1/cmtt/m/n/10.95 nohup \OT1/cmr/m/n/10.95 to \OT1/c
 mtt/m/n/10.95 ./rockstar server[]ib.cfg \OT1/cmr/m/n/10.95 in \OT1/cmtt/m/n/10.
 95 qsubrockstar.sh \OT1/cmr/m/n/10.95 and re-name \OT1/cmtt/m/n/10.95 rocky[]st
@@ -747,211 +949,211 @@ artscript
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83973 0.60500 wcon1Gy.st jan     r     11:01:23 astro14.
 astro-beowulf.      64[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83974 0.50500 rocky_star harre   r     13:14:22 astro-x4
 600-04.astro-beo     1[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83976 0.55421 stages_28_ harre   r     13:52:36 astro22.
 astro-beowulf.      32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83977 0.55421 stages_29_ harre   r     13:56:35 astro25.
 astro-beowulf.      32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83980 0.55421 stages_30_ harre   r     14:07:12 astro28.
 astro-beowulf.      32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83984 0.55421 stages_31_ harre   r     14:14:23 astro31.
 astro-beowulf.      32[] 
  []
 
-
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+[11]
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83988 0.51611 rocky_star harre   r     14:49:20 astro-x4
 600-04.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83989 0.51611 rocky_star harre   r     14:50:54 astro-x4
 600-03.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83993 0.51611 rocky_star harre   r     15:12:52 astro-x4
 600-04.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83995 0.51611 rocky_star harre   r     15:16:43 astro-x4
 600-03.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83992 0.58278 c803_test_ markus  qw    14:54:54         
                     50[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83985 0.55421 stages_32_ harre   qw    14:14:31         
                     32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 248--248
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 317--317
  []\OT1/cmtt/m/n/10.95 83986 0.55421 stages_33_ harre   qw    14:14:41         
                     32[] 
  []
 
 
-Overfull \hbox (11.42815pt too wide) in paragraph at lines 249--259
+Overfull \hbox (11.42815pt too wide) in paragraph at lines 318--328
 \OT1/cmr/bx/n/10.95 Rockstar \OT1/cmr/m/n/10.95 works if in-fini-band is forced
  with \OT1/cmtt/m/n/10.95 PARALLEL[]IO[]SERVER[]INTERFACE = "ib0"\OT1/cmr/m/n/1
 0.95 ,
  []
 
 
-Overfull \hbox (50.68646pt too wide) in paragraph at lines 249--259
+Overfull \hbox (50.68646pt too wide) in paragraph at lines 318--328
 \OT1/cmr/m/n/10.95 the client IP ad-dress is in-deed NOT nec-es-sary, client pr
 o-cess is started with \OT1/cmtt/m/n/10.95 auto-rockstar.cfg 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--259
+Underfull \hbox (badness 10000) in paragraph at lines 318--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--267
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 269--276
+Underfull \hbox (badness 10000) in paragraph at lines 330--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--287
+Underfull \hbox (badness 10000) in paragraph at lines 338--345
 
  []
 
 
-Overfull \hbox (13.55165pt too wide) in paragraph at lines 289--303
+Underfull \hbox (badness 10000) in paragraph at lines 348--356
+
+ []
+
+
+Overfull \hbox (13.55165pt too wide) in paragraph at lines 358--372
 \OT1/cmr/m/n/10.95 added out-put red-shifts de-rived from \OT1/cmtt/m/n/10.95 g
 adget[]timer.txt \OT1/cmr/m/n/10.95 as pa-ram-e-ter \OT1/cmtt/m/n/10.95 outputR
 edshifts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 382--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--318
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
-
- []
-
-[7]
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 420--420
  []\OT1/cmtt/m/n/10.95 83492 0.60500 d31c_1_sta harre   r     02/10/2012 15:19:
 56 astro18  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 420--420
  []\OT1/cmtt/m/n/10.95 83493 0.60500 d31c_2_sta harre   r     02/10/2012 15:20:
 37 astro29  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 420--420
  []\OT1/cmtt/m/n/10.95 83494 0.60500 d31c_3_sta harre   r     02/10/2012 15:21:
 17 astro25  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 420--420
  []\OT1/cmtt/m/n/10.95 83495 0.60500 d51c_sl100 harre   r     02/10/2012 15:23:
 21 astro31  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 420--420
  []\OT1/cmtt/m/n/10.95 83496 0.54786 d3+3c_sl50 harre   r     02/10/2012 15:37:
 13 astro12  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 420--420
  []\OT1/cmtt/m/n/10.95 83497 0.60500 d3+3c_sl50 harre   r     02/10/2012 15:39:
 16 astro30  32[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 420--420
  []\OT1/cmtt/m/n/10.95 83498 0.60500 d15+3c_sl5 harre   r     02/10/2012 15:44:
 23 astro30  16[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--357
+Underfull \hbox (badness 10000) in paragraph at lines 423--426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--365
+Underfull \hbox (badness 10000) in paragraph at lines 428--434
 
  []
 
-[8] (./Notes_Single.aux) ) 
+[13] (./Notes_Single.aux) ) 
 Here is how much of TeX's memory you used:
- 6262 strings out of 495061
- 85657 string characters out of 1182622
- 166790 words of memory out of 3000000
- 9280 multiletter control sequences out of 15000+50000
+ 6405 strings out of 495061
+ 92013 string characters out of 1182622
+ 164790 words of memory out of 3000000
+ 9401 multiletter control sequences out of 15000+50000
  12480 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,8n,24p,281b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
-hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts
-/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
-/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Notes_Single.pdf (9 pages, 499782 bytes).
+ 38i,13n,24p,281b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Notes_Single.pdf (14 pages, 4911028 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 37 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 410 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
