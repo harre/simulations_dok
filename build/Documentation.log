@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  12 JUN 2012 15:10
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  13 JUN 2012 14:45
 entering extended mode
  %&-line parsing enabled.
 **Documentation.tex
@@ -765,7 +765,7 @@ File: r256/h100/rst14lg3/plot_mvir_out_197.pdf Graphic file (type pdf)
 File: r256/h100/rst14lg3/Plot_Star_Formation_History.pdf Graphic file (type pdf
 )
  <use r256/h100/rst14lg3/Plot_Star_Formation_History.pdf>
-Overfull \hbox (49.36732pt too wide) in paragraph at lines 54--64
+Overfull \hbox (149.55708pt too wide) in paragraph at lines 54--64
  [][] 
  []
 
@@ -4421,7 +4421,7 @@ fonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
 8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
 /share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texm
 f-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Documentation.pdf (136 pages, 113381243 bytes).
+Output written on Documentation.pdf (136 pages, 114312183 bytes).
 PDF statistics:
  4574 PDF objects out of 5155 (max. 8388607)
  3261 compressed objects within 33 object streams

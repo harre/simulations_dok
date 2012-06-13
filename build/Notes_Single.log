@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  12 JUN 2012 15:10
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  13 JUN 2012 14:45
 entering extended mode
  %&-line parsing enabled.
 **Notes_Single.tex
@@ -762,7 +762,7 @@ File: r256/h100/rst14lg3/plot_mvir_out_197.pdf Graphic file (type pdf)
 File: r256/h100/rst14lg3/Plot_Star_Formation_History.pdf Graphic file (type pdf
 )
  <use r256/h100/rst14lg3/Plot_Star_Formation_History.pdf>
-Overfull \hbox (49.36732pt too wide) in paragraph at lines 82--92
+Overfull \hbox (149.55708pt too wide) in paragraph at lines 82--92
  [][] 
  []
 
@@ -1151,7 +1151,7 @@ s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publ
 ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Notes_Single.pdf (14 pages, 4911028 bytes).
+Output written on Notes_Single.pdf (14 pages, 5148348 bytes).
 PDF statistics:
  410 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
