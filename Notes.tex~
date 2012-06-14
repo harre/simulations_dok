@@ -52,7 +52,7 @@ red\_st14\_log1 & h70 & h100 \\
 \begin{table}[p]
 \centering
 \begin{tabular}{l|c|c}
- rest14lg3 & h70 & h100 \\
+ rst14lg3 & h70 & h100 \\
 \hline 
  & \includegraphics[scale=0.075]{r256/h70/rst14lg3/197.jpg} & being gadgetviewed \\
  & \includegraphics[scale=0.25]{r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf} & \includegraphics[scale=0.25]{r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf} \\

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  13 JUN 2012 14:45
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  14 JUN 2012 14:01
 entering extended mode
  %&-line parsing enabled.
 **Sim_r128_Single.tex
@@ -726,7 +726,7 @@ e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texl
 ive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmtt10.pfb>
-Output written on Sim_r128_Single.pdf (10 pages, 1449529 bytes).
+Output written on Sim_r128_Single.pdf (10 pages, 1449491 bytes).
 PDF statistics:
  158 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
