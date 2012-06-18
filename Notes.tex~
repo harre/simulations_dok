@@ -2,6 +2,12 @@
 \chapter{Notes}
 \begin{itemize}
 
+\item[14.06.2012]
+First test run for a simulation with gas in it \texttt{MUSIC\_cutout\_1} 
+as a rockstar job where the config file was not altered $\rightarrow$ 
+one test how much the gas contributes for halo finder. Next step: 
+set the \texttt{MULTIPLE\_PARTICLES} flag resp. rescale \\
+
 \item[12.06.2012]
 Comparison of different \texttt{linger.dat}s for \texttt{stages\_14} see table: \\
 
