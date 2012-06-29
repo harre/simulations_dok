@@ -1,0 +1,13 @@
+mm_h  
+mu_100h70_8-514200   5.0451e+14
+mu_100h70_8-514200_bbks   5.1618e+14
+mu_100h70_8-711423   3.7223e+14
+MUSIC_1  
+MUSIC_2  
+MUSIC_3  
+MUSIC_4   1.1354e+15
+red_st14_log1   2.4185e+14
+red_st14_log2   9.4052e+13
+rst14lg3   2.1316e+14
+rst14log4   2.4521e+14
+stages_12_h_44  

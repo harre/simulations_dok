@@ -1,0 +1,37 @@
+dr5d5_r256   6.0682e+13
+drd5_r256   7.9593e+14
+drd5_r256_2   3.7185e+14
+drd5r256_2_ling   9.5056e+14
+drdx_3_r256   3.1478e+14
+fuenfincr256_1   2.9852e+14
+fuenfincr256_2   8.4176e+14
+gendrkl1r2_1c_1   2.7373e+14
+mm_h   4.1239e+14
+NGenIC_10629   1.3046e+14
+NGenIC_15039   4.9753e+13
+NGenIC_26214   9.3625e+13
+red_st14_log1   1.6742e+14
+red_st14_log2   2.4455e+14
+rst14lg3   2.4597e+14
+rst14log4   2.4858e+14
+stages_07   7.9321e+13
+stages_12   5.3344e+13
+stages_12_h_44   8.3643e+12
+stages_13   8.9009e+13
+stages_14   2.2644e+14
+stages_14e2   1.1723e+14
+stages14_ling   2.2279e+14
+stages_18   1.9999e+14
+stages_19   1.5724e+14
+stages_20   4.4435e+14
+stages_20_h  
+stages_20+void  
+stages_21   6.0541e+14
+stages_37   6.2999e+13
+stages_46   6.1209e+13
+stages_50   1.3303e+14
+stages_51   5.9693e+13
+stages51_ling   9.9835e+13
+stages_52   9.949e+13
+stages_54dr5d5   4.1403e+14
+stages_56   1.1462e+14

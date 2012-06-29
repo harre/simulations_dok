@@ -30,6 +30,59 @@ PART: Notes }
 \chapter{Notes}
 \begin{itemize}
 
+\item[29.06.2012]
+Oliver Hahn has answered to my question regarding transfer functions - 2DO: answer \\
+Cutout program \texttt{sh cutout.sh} written that identifies heaviest virialized mass 
+from Rockstar outputs, cuts a 20Mpc box around -  this we investigated 
+for the $ \Omega_{\text{matter}}$ evolution \texttt{plot\_omega\_evolution.sh}: 
+
+\begin{table}
+\begin{tabular}{l|c|c}
+ & h70 & h100 \\
+\hline 
+ 128 & \includegraphics[scale=0.2]{analysis/omega_evolution/omega_evolution_128_h70.pdf} & \includegraphics[scale=0.2]{analysis/omega_evolution/omega_evolution_128_h100.pdf} \\
+ 256 & \includegraphics[scale=0.2]{analysis/omega_evolution/omega_evolution_256_h70.pdf} & \includegraphics[scale=0.2]{analysis/omega_evolution/omega_evolution_256_h100.pdf} \\
+ 512 & $\dots$ & \includegraphics[scale=0.2]{analysis/omega_evolution/omega_evolution_512_h100.pdf} \\
+
+ \end{tabular}
+\end{table}
+
+\item[28.06.2012]
+Power spectra analysis with reference model from Stephane Colombi which has to be 
+normalized correctly yet \texttt{sh powmesplots\_combined.sh}! (2DO) 
+
+\begin{table}
+\begin{tabular}{l|c|c}
+ & h70 & h100 \\
+\hline 
+ 128 & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_128_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_128_h100.pdf} \\
+ 256 & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_256_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_256_h100.pdf} \\
+ 512 & $\dots$ & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_512_h100.pdf} \\
+
+ \end{tabular}
+\end{table}
+
+\begin{table}
+\begin{tabular}{l|c|c}
+ & h70 & h100 \\
+\hline 
+ 128 & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_128_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_128_h100.pdf} \\
+ 256 & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_256_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_256_h100.pdf} \\
+ 512 & $\dots$ & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_512_h100.pdf} \\
+
+ \end{tabular}
+\end{table}
+
+\item[25.06.2012]
+Rockstar comparison runs DM/baryons have to be checked + doublechecked with 
+different transfer functions 
+
+\includegraphics[scale=0.25]{r256/h70/mu_100h70_8-514200/plot_mvir_out_197.pdf}
+\includegraphics[scale=0.25]{r256/h70/mu_100h70_8-514200_bbks/plot_mvir_out_197.pdf}
+
+Plots do not suggest a big difference when same seed but Eisenstein / VS BBKS transfer 
+function is used
+
 \item[18.06.2012]
 Gas/DM tests for cutout simulation are partially running - Question: is 
 rescaling done in every time step and how? Markus claims, this is calculated 
@@ -98,7 +151,7 @@ red\_st14\_log1 & h70 & h100 \\
  & \includegraphics[scale=0.075]{r256/h70/rst14lg3/197.jpg} & being gadgetviewed \\
  & \includegraphics[scale=0.25]{r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf} & \includegraphics[scale=0.25]{r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf} \\
  & \includegraphics[scale=0.25]{r256/h70/rst14lg3/plot_mvir_out_197.pdf} & \includegraphics[scale=0.25]{r256/h100/rst14lg3/plot_mvir_out_197.pdf} \\
- & \texttt{merging halos 6037206 \& 6037205 have zero separation} & \includegraphics[scale=0.5]{r256/h100/rst14lg3/Plot_Star_Formation_History.pdf} \\
+ & \texttt{plot not available} & \includegraphics[scale=0.5]{r256/h100/rst14lg3/Plot_Star_Formation_History.pdf} \\
 \end{tabular}
 \caption{Comparison}
 \end{table}

@@ -1,0 +1,31 @@
+600  
+601  
+bbertsch  
+dreikluane1  
+dreikluane1_Gadget2_h70   107130000000.0
+dreikluane2   7632700000.0
+dreikluane3   5179300000.0
+dreikluane5   153200000000.0
+drkl5dx1   1.5359e+12
+drkl5dx2  
+drkl5dx3  
+fourm1delta2  
+fournew  
+foursmall  
+foursmallm1  
+fuffi2  
+fuffzger  
+MUSIC_cutout_1   2.5293e+15
+nahezwei  
+nahezwei2   368000000000.0
+nahezwei3   165870000000.0
+twobigones  
+twobigones2  
+vierkluane  
+zwoakluane   1.0165e+12
+zwoakluane2  
+zwoakluane3   359830000000.0
+zwoakluane4   87230000000.0
+zwoakluane5   494350000000.0
+zwoakluane6  
+zwoakluanebackup  

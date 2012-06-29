@@ -1,0 +1,6 @@
+512er_major_merger  
+graf-unc_100Mpc_512   8.6799e+12
+NGenIC_10936   2.8844e+14
+NGenIC_11410   5.4406e+14
+NGenIC_27036   2.2628e+14
+NGenIC_7755   4.5553e+14
