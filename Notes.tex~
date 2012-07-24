@@ -3,11 +3,17 @@
 \begin{itemize}
 
 
+\item[23.07.2011]
+
+Found normalization for power spectra plots - now puzzling for 
+physical reasons - seem systematically too low; maybe an issue 
+with calculating the Hubble constant which enters with $h^{-2}$
+
 \item[29.06.2012]
 
 Comparison of maximal virialized masses in all simulations \\
 
-\includegraphics[scale=0.25]{analysis/omega_evolution/comparison_mvirmax.pdf}
+\includegraphics[scale=0.45]{analysis/omega_evolution/comparison_mvirmax.pdf}
 
 Oliver Hahn has answered to my question regarding transfer functions - 2DO: answer \\
 Cutout program \texttt{sh cutout.sh} written that identifies heaviest virialized mass 
@@ -35,7 +41,7 @@ normalized correctly yet \texttt{sh powmesplots\_combined.sh}! (2DO)
 \hline 
  128 & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_128_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_128_h100.pdf} \\
  256 & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_256_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_256_h100.pdf} \\
- 512 & $\dots$ & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_512_h100.pdf} \\
+ 512 & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_512_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/IC_powspec_combined_512_h100.pdf} \\
 
  \end{tabular}
 \end{table}
@@ -46,7 +52,7 @@ normalized correctly yet \texttt{sh powmesplots\_combined.sh}! (2DO)
 \hline 
  128 & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_128_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_128_h100.pdf} \\
  256 & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_256_h70.pdf} & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_256_h100.pdf} \\
- 512 & $\dots$ & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_512_h100.pdf} \\
+ 512 &  \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_512_h70.pdf}  & \includegraphics[scale=0.2]{analysis/powerspectra/fin_powspec_combined_512_h100.pdf} \\
 
  \end{tabular}
 \end{table}
