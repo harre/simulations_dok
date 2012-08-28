@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  24 JUL 2012 13:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.6)  28 AUG 2012 16:02
 entering extended mode
  %&-line parsing enabled.
 **Sim_r128_Single.tex
 (./Sim_r128_Single.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, ngerman, german, german-x-2009-06-19, ngerman-x-2009-06-19, loaded.
+
 (/usr/share/texmf-texlive/tex/latex/base/book.cls
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-texlive/tex/latex/base/fleqn.clo
@@ -726,10 +727,10 @@ rkt+3c+sl5_1+r2/plot_powspec_drkt+3c+sl5_1+r2.pdf, page is rotated 90 degrees>
 egrees>] [9 <./r128/h100/gendrkl1_3c_1/plot_powspec_gendrkl1_3c_1.pdf, page is 
 rotated 90 degrees>] (./Sim_r128_Single.aux) ) 
 Here is how much of TeX's memory you used:
- 6344 strings out of 495061
- 88564 string characters out of 1182622
+ 6344 strings out of 495021
+ 88564 string characters out of 1181036
  154790 words of memory out of 3000000
- 9335 multiletter control sequences out of 15000+50000
+ 9350 multiletter control sequences out of 15000+50000
  13693 words of font info for 51 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,6n,36p,284b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -742,7 +743,7 @@ e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texl
 ive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmtt10.pfb>
-Output written on Sim_r128_Single.pdf (10 pages, 1567628 bytes).
+Output written on Sim_r128_Single.pdf (10 pages, 1567858 bytes).
 PDF statistics:
  255 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)

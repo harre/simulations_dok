@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.9)  24 JUL 2012 13:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.6)  28 AUG 2012 16:02
 entering extended mode
  %&-line parsing enabled.
 **Sim_r512_Single.tex
 (./Sim_r512_Single.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, ngerman, german, german-x-2009-06-19, ngerman-x-2009-06-19, loaded.
+
 (/usr/share/texmf-texlive/tex/latex/base/book.cls
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-texlive/tex/latex/base/fleqn.clo
@@ -783,10 +784,10 @@ Overfull \hbox (52.62769pt too wide) in paragraph at lines 120--125
 512/h100/NGenIC_27036/plot_spin_out_198.pdf, page is rotated 90 degrees>]
 (./Sim_r512_Single.aux) ) 
 Here is how much of TeX's memory you used:
- 6364 strings out of 495061
- 90347 string characters out of 1182622
+ 6364 strings out of 495021
+ 90347 string characters out of 1181036
  153790 words of memory out of 3000000
- 9365 multiletter control sequences out of 15000+50000
+ 9380 multiletter control sequences out of 15000+50000
  13224 words of font info for 49 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,6n,36p,284b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -796,7 +797,7 @@ fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-tex
 live/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmsl10.pfb>
-Output written on Sim_r512_Single.pdf (11 pages, 30820782 bytes).
+Output written on Sim_r512_Single.pdf (11 pages, 30821010 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
