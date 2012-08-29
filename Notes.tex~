@@ -8,8 +8,8 @@
 Important: Smoothing lenght of Gadget2 simulation strongly influences 
 the number of nodes Galacticus identifies and also the physical properties 
 of the runs. \\
-\includegraphics[scale=1]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12_5Mpc_0003.png} \\
-\includegraphics[scale=1]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12SLtest_5Mpc_0003.png} \\
+\includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12_5Mpc_0003.png} \\
+\includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12SLtest_5Mpc_0003.png} \\
 \includegraphics[scale=1]{r256/h70/nestages12/Plot_Star_Formation_History.pdf} \\
 \includegraphics[scale=1]{r256/h70/nestages12_SLtest/Plot_Star_Formation_History.pdf} \\
 Power Spectra update: Comparison of NGenIC, Cosmic and MUSIC IC generators 

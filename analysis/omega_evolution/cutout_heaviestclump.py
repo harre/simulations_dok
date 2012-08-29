@@ -25,12 +25,12 @@ clumpy = lineofmvirmax[0][9]
 clumpz = lineofmvirmax[0][10]
 snapname='snapshot_'
 
-for i in range(startnum,endnum+1,10):
+for i in range(startnum,endnum+1):
     #print i
     inputName = inputpath+snapname+str(i).zfill(3)
     outputName = outputpath+'cutout/'+'snapshot_cut_'+str(i).zfill(3)
     print ' Converting '+inputName+' to '+ outputName
     print ' ---------------------------------------------------'
-    os.system('/home/harre/code/analysis/gadget_tools/cutout '+inputName+' '+outputName+' '+str(clumpx)+' '+str(clumpy)+' '+str(clumpz))
+    os.system('/home/harre/code/analysis/gadget_tools_harre/cutout '+inputName+' '+outputName+' '+str(clumpx)+' '+str(clumpy)+' '+str(clumpz))
 
 

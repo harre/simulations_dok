@@ -31,6 +31,6 @@ for i in range(startnum,endnum+1,10):
     outputName = outputpath+'cutout/'+'snapshot_cut_'+str(i).zfill(3)
     print ' Converting '+inputName+' to '+ outputName
     print ' ---------------------------------------------------'
-    os.system('/home/harre/code/analysis/gadget_tools/cutout '+inputName+' '+outputName+' '+clumpx+' '+clumpy+' '+clumpz)
+    os.system('/home/harre/code/analysis/gadget_tools_harre/cutout '+inputName+' '+outputName+' '+str(clumpx)+' '+str(clumpy)+' '+str(clumpz))
 
 
