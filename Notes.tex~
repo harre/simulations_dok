@@ -3,6 +3,10 @@
 \begin{itemize}
 
 
+\item[29.08.2012]
+New Best Practice (???): Unconstrained sim $\rightarrow$ Rockstar $\rightarrow$ cutout around heaviest 
+clump $\rightarrow$ Rockstar $\rightarrow$ Galacticus
+
 \item[28.08.2012]
 
 Important: Smoothing lenght of Gadget2 simulation strongly influences 
@@ -10,8 +14,13 @@ the number of nodes Galacticus identifies and also the physical properties
 of the runs. \\
 \includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12_5Mpc_0003.png} \\
 \includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12SLtest_5Mpc_0003.png} \\
-\includegraphics[scale=1]{r256/h70/nestages12/Plot_Star_Formation_History.pdf} \\
-\includegraphics[scale=1]{r256/h70/nestages12_SLtest/Plot_Star_Formation_History.pdf} \\
+\includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages_SLtest2_5Mpc_0003.png} \\
+\includegraphics[scale=0.5]{analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nestages12_0000.png} \\
+\includegraphics[scale=0.5]{analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nestages12SLtest_0000.png} \\
+\includegraphics[scale=0.5]{analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nestages_SLtest2_0000.png} \\
+\includegraphics[scale=0.75]{r256/h70/nestages12/Plot_Star_Formation_History.pdf} \\
+\includegraphics[scale=0.75]{r256/h70/nestages12_SLtest/Plot_Star_Formation_History.pdf} \\
+\includegraphics[scale=0.75]{r256/h70/nestages12_SL2/Plot_Star_Formation_History.pdf} \\
 Power Spectra update: Comparison of NGenIC, Cosmic and MUSIC IC generators 
 for 100Mpc unconstrained simulations shows good agreement. 
 The differences with the IC are due to different starting redshifts, the 

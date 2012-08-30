@@ -1,59 +1,59 @@
 \select@language {english}
 \contentsline {chapter}{\numberline {1}Notes}{3}{chapter.1}
-\contentsline {chapter}{\numberline {2}Simulations}{21}{chapter.2}
-\contentsline {section}{\numberline {2.1}r128}{21}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}h70}{21}{subsection.2.1.1}
-\contentsline {subsubsection}{600}{21}{section*.2}
-\contentsline {subsubsection}{601}{22}{section*.3}
-\contentsline {subsection}{\numberline {2.1.2}h100}{22}{subsection.2.1.2}
-\contentsline {subsubsection}{drdx\_3}{22}{section*.4}
-\contentsline {subsubsection}{drdx\_h100\_r128\_1}{23}{section*.5}
-\contentsline {subsubsection}{drdx\_h100\_r128\_2}{24}{section*.6}
-\contentsline {subsubsection}{drkltest+3c+sl50\_1}{25}{section*.7}
-\contentsline {section}{\numberline {2.2}r256}{28}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}h70}{28}{subsection.2.2.1}
-\contentsline {subsubsection}{mm\_h (major merger H comparison)}{28}{section*.8}
-\contentsline {subsubsection}{red\_st14\_log1}{31}{section*.9}
-\contentsline {subsubsection}{red\_st14\_log2}{33}{section*.10}
-\contentsline {subsubsection}{rst14lg3}{35}{section*.11}
-\contentsline {subsubsection}{stages\_12\_h\_44}{37}{section*.12}
-\contentsline {subsubsection}{stages\_20\_h}{39}{section*.13}
-\contentsline {subsection}{\numberline {2.2.2}h100}{39}{subsection.2.2.2}
-\contentsline {subsubsection}{dr5d5\_r256}{39}{section*.14}
-\contentsline {subsubsection}{drd5\_r256 ($\sim $)}{41}{section*.15}
-\contentsline {subsubsection}{drd5\_r256\_2 (+ major merger in progress)}{44}{section*.16}
-\contentsline {subsubsection}{drdx\_3\_r256}{48}{section*.17}
-\contentsline {subsubsection}{fuenfincr256\_1}{51}{section*.18}
-\contentsline {subsubsection}{fuenfincr256\_2 $\rightarrow $ dump!}{54}{section*.19}
-\contentsline {subsubsection}{gendrkl1r2\_1c\_1}{57}{section*.20}
-\contentsline {subsubsection}{mm\_h (major merger H comparison)}{62}{section*.21}
-\contentsline {subsubsection}{NGenIC\_10629}{64}{section*.22}
-\contentsline {subsubsection}{NGenIC\_15039}{67}{section*.23}
-\contentsline {subsubsection}{NGenIC\_26214}{70}{section*.24}
-\contentsline {subsubsection}{red\_st14\_log1}{73}{section*.25}
-\contentsline {subsubsection}{red\_st14\_log2}{75}{section*.26}
-\contentsline {subsubsection}{rst14lg3}{77}{section*.27}
-\contentsline {subsubsection}{stages\_07}{79}{section*.28}
-\contentsline {subsubsection}{stages\_12}{83}{section*.29}
-\contentsline {subsubsection}{stages\_13}{87}{section*.30}
-\contentsline {subsubsection}{stages14\_ling}{91}{section*.31}
-\contentsline {subsubsection}{stages\_14}{95}{section*.32}
-\contentsline {subsubsection}{stages\_14e}{99}{section*.33}
-\contentsline {subsubsection}{stages\_18}{100}{section*.34}
-\contentsline {subsubsection}{stages\_19}{104}{section*.35}
-\contentsline {subsubsection}{stages\_20}{107}{section*.36}
-\contentsline {subsubsection}{stages\_21}{111}{section*.37}
-\contentsline {subsubsection}{stages\_37}{115}{section*.38}
-\contentsline {subsubsection}{stages\_46}{119}{section*.39}
-\contentsline {subsubsection}{stages\_50}{120}{section*.40}
-\contentsline {subsubsection}{stages51\_ling}{124}{section*.41}
-\contentsline {subsubsection}{stages\_51}{126}{section*.42}
-\contentsline {subsubsection}{stages\_52}{129}{section*.43}
-\contentsline {subsubsection}{stages\_54dr5d5}{132}{section*.44}
-\contentsline {subsubsection}{stages\_56}{133}{section*.45}
-\contentsline {section}{\numberline {2.3}r512}{134}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}512er\_major\_merger}{134}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}NGenIC\_7755}{136}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}NGenIC\_10939}{138}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}NGenIC\_11410}{140}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}NGenIC\_27036}{141}{subsection.2.3.5}
+\contentsline {chapter}{\numberline {2}Simulations}{24}{chapter.2}
+\contentsline {section}{\numberline {2.1}r128}{24}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}h70}{24}{subsection.2.1.1}
+\contentsline {subsubsection}{600}{24}{section*.2}
+\contentsline {subsubsection}{601}{25}{section*.3}
+\contentsline {subsection}{\numberline {2.1.2}h100}{25}{subsection.2.1.2}
+\contentsline {subsubsection}{drdx\_3}{25}{section*.4}
+\contentsline {subsubsection}{drdx\_h100\_r128\_1}{26}{section*.5}
+\contentsline {subsubsection}{drdx\_h100\_r128\_2}{27}{section*.6}
+\contentsline {subsubsection}{drkltest+3c+sl50\_1}{28}{section*.7}
+\contentsline {section}{\numberline {2.2}r256}{31}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}h70}{31}{subsection.2.2.1}
+\contentsline {subsubsection}{mm\_h (major merger H comparison)}{31}{section*.8}
+\contentsline {subsubsection}{red\_st14\_log1}{34}{section*.9}
+\contentsline {subsubsection}{red\_st14\_log2}{36}{section*.10}
+\contentsline {subsubsection}{rst14lg3}{38}{section*.11}
+\contentsline {subsubsection}{stages\_12\_h\_44}{40}{section*.12}
+\contentsline {subsubsection}{stages\_20\_h}{42}{section*.13}
+\contentsline {subsection}{\numberline {2.2.2}h100}{42}{subsection.2.2.2}
+\contentsline {subsubsection}{dr5d5\_r256}{42}{section*.14}
+\contentsline {subsubsection}{drd5\_r256 ($\sim $)}{44}{section*.15}
+\contentsline {subsubsection}{drd5\_r256\_2 (+ major merger in progress)}{47}{section*.16}
+\contentsline {subsubsection}{drdx\_3\_r256}{51}{section*.17}
+\contentsline {subsubsection}{fuenfincr256\_1}{54}{section*.18}
+\contentsline {subsubsection}{fuenfincr256\_2 $\rightarrow $ dump!}{57}{section*.19}
+\contentsline {subsubsection}{gendrkl1r2\_1c\_1}{60}{section*.20}
+\contentsline {subsubsection}{mm\_h (major merger H comparison)}{65}{section*.21}
+\contentsline {subsubsection}{NGenIC\_10629}{67}{section*.22}
+\contentsline {subsubsection}{NGenIC\_15039}{70}{section*.23}
+\contentsline {subsubsection}{NGenIC\_26214}{73}{section*.24}
+\contentsline {subsubsection}{red\_st14\_log1}{76}{section*.25}
+\contentsline {subsubsection}{red\_st14\_log2}{78}{section*.26}
+\contentsline {subsubsection}{rst14lg3}{80}{section*.27}
+\contentsline {subsubsection}{stages\_07}{82}{section*.28}
+\contentsline {subsubsection}{stages\_12}{86}{section*.29}
+\contentsline {subsubsection}{stages\_13}{90}{section*.30}
+\contentsline {subsubsection}{stages14\_ling}{94}{section*.31}
+\contentsline {subsubsection}{stages\_14}{98}{section*.32}
+\contentsline {subsubsection}{stages\_14e}{102}{section*.33}
+\contentsline {subsubsection}{stages\_18}{103}{section*.34}
+\contentsline {subsubsection}{stages\_19}{107}{section*.35}
+\contentsline {subsubsection}{stages\_20}{110}{section*.36}
+\contentsline {subsubsection}{stages\_21}{114}{section*.37}
+\contentsline {subsubsection}{stages\_37}{118}{section*.38}
+\contentsline {subsubsection}{stages\_46}{122}{section*.39}
+\contentsline {subsubsection}{stages\_50}{123}{section*.40}
+\contentsline {subsubsection}{stages51\_ling}{127}{section*.41}
+\contentsline {subsubsection}{stages\_51}{129}{section*.42}
+\contentsline {subsubsection}{stages\_52}{132}{section*.43}
+\contentsline {subsubsection}{stages\_54dr5d5}{135}{section*.44}
+\contentsline {subsubsection}{stages\_56}{136}{section*.45}
+\contentsline {section}{\numberline {2.3}r512}{137}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}512er\_major\_merger}{137}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}NGenIC\_7755}{139}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}NGenIC\_10939}{141}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}NGenIC\_11410}{143}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}NGenIC\_27036}{144}{subsection.2.3.5}
