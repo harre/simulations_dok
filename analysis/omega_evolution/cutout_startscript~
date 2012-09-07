@@ -1,0 +1,10 @@
+#$ -q intel.q
+#$ -o cutout.out
+#$ -j yes
+#$ -cwd
+#$ -pe openmp 1
+#$ -M harald.hoeller@uibk.ac.at
+
+date >> time_$NSLOTS
+/home/harre/code/analysis/gadget_tools_harre/cutout infiletemp cutout/outfile clumpcoords
+date >> time_$NSLOTS

@@ -30,6 +30,78 @@ PART: Notes }
 \chapter{Notes}
 \begin{itemize}
 
+\item[11.09.2012]
+Update on unconstrained 80Mpc runs and cutout: 
+
+
+\item[09.09.2012]
+IMF Tests for \texttt{NGenIC\_20905} and the cutout \texttt{2.3827E14-88-13-85} cluster - see tables: 
+Stellar mass functions, global star formation rates etc. are influenced by the choice 
+of the IMF. Parameters for Galacticus XML file: 
+\begin{verbatim}
+  <parameter>
+    <name>imfSelectionMethod</name>
+    <value>fixed</value>
+  </parameter>
+  
+  <parameter>
+    <name>imfKennicuttYieldInstantaneous</name>
+    <value>true</value>
+  </parameter>
+  
+  <parameter>
+    <name>imfKennicuttRecycledInstantaneous</name>
+    <value>true</value>
+  </parameter>
+\end{verbatim}
+
+\begin{table}
+\caption {IMF Comparison Test Global Parameters}
+\begin{tabular}{l|c|c|c}
+& SF & Stellar Masses & Tully Fisher \\
+\hline 
+Std Galacticus & 
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_std/Plot_Star_Formation_History.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_std/Plot_Stellar_Mass_Function.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_std/Plot_SDSS_Tully_Fisher.pdf} \\
+Kennicutt & 
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Kennicutt/Plot_Star_Formation_History.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Kennicutt/Plot_Stellar_Mass_Function.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Kennicutt/Plot_SDSS_Tully_Fisher.pdf} \\
+\hline 
+Salpeter & 
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Salpeter/Plot_Star_Formation_History.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Salpeter/Plot_Stellar_Mass_Function.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Salpeter/Plot_SDSS_Tully_Fisher.pdf} \\
+\hline 
+Scalo & 
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Scalo/Plot_Star_Formation_History.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Scalo/Plot_Stellar_Mass_Function.pdf} &
+\includegraphics[scale=0.35]{r512/h70/NGenIC_20905_2_Scalo/Plot_SDSS_Tully_Fisher.pdf}
+ \end{tabular}
+\end{table}
+\begin{table}
+\caption {IMF Comparison Test Halos, Color Coding: SFR}
+ \begin{tabular}{l|c}
+ & z=0 \\
+\hline 
+Std Galacticus & 
+\includegraphics[scale=0.45]{r512/h70/NGenIC_20905_2_std/Halo_Positions_with_SFR_5Mpc_0006.png} \\
+\hline 
+Kennicutt & 
+\includegraphics[scale=0.45]{r512/h70/NGenIC_20905_2_Kennicutt/Halo_Positions_with_SFR_5Mpc_0006.png} \\
+\hline 
+Salpeter & 
+\includegraphics[scale=0.45]{r512/h70/NGenIC_20905_2_Salpeter/Halo_Positions_with_SFR_5Mpc_0006.png} \\
+\hline 
+Scalo & 
+\includegraphics[scale=0.45]{r512/h70/NGenIC_20905_2_Scalo/Halo_Positions_with_SFR_5Mpc_0006.png}
+ \end{tabular}
+\end{table}
+
+\item[06.09.2012]
+Galacticus jobs on \texttt{astro-cluster1} did not run because of memory limit in 
+submit scripts
 
 \item[29.08.2012]
 New Best Practice (???): Unconstrained sim $\rightarrow$ Rockstar $\rightarrow$ cutout around heaviest 
@@ -39,7 +111,9 @@ clump $\rightarrow$ Rockstar $\rightarrow$ Galacticus
 
 Important: Smoothing lenght of Gadget2 simulation strongly influences 
 the number of nodes Galacticus identifies and also the physical properties 
-of the runs. \\
+of the runs. the smoothing lenght that seems not to change the number and (hopefully) 
+the physical properties of the halos is about 0.7\% of the initial distance between to DM-bodies. 
+\\
 \includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12_5Mpc_0003.png} \\
 \includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12SLtest_5Mpc_0003.png} \\
 \includegraphics[scale=0.75]{analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages_SLtest2_5Mpc_0003.png} \\
