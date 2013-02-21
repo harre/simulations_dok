@@ -1,0 +1,127 @@
+#!/usr/bin/python
+
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+import math 
+import os, sys, time, getopt, math, random
+import matplotlib.pyplot as plt
+import numpy as np
+import scipy as sp      
+import matplotlib as mpl
+import pyfits
+from scipy import special
+from matplotlib import rc
+import os, sys, time, getopt, math, random
+from matplotlib.ticker import MaxNLocator
+
+inputfile = 'out_101.list'    
+    
+# load table (resp. array) from file - here 
+# Rockstar Out-list 
+Outlist = np.loadtxt(inputfile, delimiter=' ')
+
+NumHalos = len(Outlist[:,0])
+
+# Radius and masses we are interested in 
+RadiusAroundCenter = 10.0 			# Mpc 
+MinimalMassConsidered = 1E12 			# solar masses 
+MaximalMassConsidered = 1E14 			# solar masses 
+BoxSize = 20.0 					# Mpc
+
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+
+pmask=np.zeros(NumHalos)
+pmask=pmask.astype(bool)
+mask=np.zeros(NumHalos)
+mask=mask.astype(bool)
+
+for i in range(NumHalos):
+	pmask[i] = (np.abs(Outlist[i, 8]-BoxSize/2.0) < RadiusAroundCenter and
+		np.abs(Outlist[i, 9]-BoxSize/2.0) < RadiusAroundCenter and
+		np.abs(Outlist[i, 10]-BoxSize/2.0) < RadiusAroundCenter )
+
+for i in range(NumHalos):
+	mask[i] = False
+	if(MinimalMassConsidered < Outlist[i, 2] < MaximalMassConsidered):
+		mask[i] = True & pmask[i]
+
+#draw a vector
+from matplotlib.patches import FancyArrowPatch
+from mpl_toolkits.mplot3d import proj3d
+
+class Arrow3D(FancyArrowPatch):
+    def __init__(self, xs, ys, zs, *args, **kwargs):
+        FancyArrowPatch.__init__(self, (0,0), (0,0), *args, **kwargs)
+        self._verts3d = xs, ys, zs
+
+    def draw(self, renderer):
+        xs3d, ys3d, zs3d = self._verts3d
+        xs, ys, zs = proj3d.proj_transform(xs3d, ys3d, zs3d, renderer.M)
+        self.set_positions((xs[0],ys[0]),(xs[1],ys[1]))
+        FancyArrowPatch.draw(self, renderer)
+
+
+if len(Outlist[mask, 8]) > 0:
+	    ax.scatter(Outlist[mask, 8]-BoxSize/2.0, Outlist[mask, 9]-BoxSize/2.0, Outlist[mask, 10]-BoxSize/2.0, c='#DF0174', s=35, edgecolors='none')
+	    
+	    for i in range(NumHalos): 
+		    if(MinimalMassConsidered < Outlist[i, 2] < MaximalMassConsidered):
+			    x = Outlist[i, 8]-BoxSize/2.0
+			    dx = Outlist[i, 8]-BoxSize/2.0 + Outlist[i, 11]/500.0
+			    y = Outlist[i, 9]-BoxSize/2.0
+			    dy = Outlist[i, 9]-BoxSize/2.0 + Outlist[i, 12]/500.0
+			    z = Outlist[i, 10]-BoxSize/2.0
+			    dz = Outlist[i, 10]-BoxSize/2.0 + Outlist[i, 13]/500.0
+			    a = Arrow3D([x,dx],[y,dy],[z,dz], mutation_scale=20, lw=1, arrowstyle="-|>", color="k")
+			    ax.add_artist(a)	    
+	    #x[mask] = Outlist[mask, 8]-BoxSize/2.0
+	    #dx[mask] = Outlist[mask, 8]-BoxSize/2.0 + Outlist[mask, 11]/1000.0
+	    #y[mask] = Outlist[mask, 9]-BoxSize/2.0
+	    #dy[mask] = Outlist[mask, 9]-BoxSize/2.0 + Outlist[mask, 12]/1000.0
+	    #z[mask] = Outlist[mask, 10]-BoxSize/2.0
+	    #dz[mask] = Outlist[mask, 10]-BoxSize/2.0 + Outlist[mask, 13]/1000.0
+	    
+	    #a = Arrow3D([x[mask],dx[mask]],[y[mask],dy[mask]],[z[mask],dz[mask]], mutation_scale=20, lw=1, arrowstyle="-|>", color="k")
+	    #a = Arrow3D([Outlist[mask, 8]-BoxSize/2.0,Outlist[mask, 8]-BoxSize/2.0+Outlist[mask, 11]/1000.0], [Outlist[mask, 9]-BoxSize/2.0,Outlist[mask, 9]-BoxSize/2.0+Outlist[mask, 12]/1000.0], [ Outlist[mask, 10]-BoxSize/2.0, Outlist[mask, 10]-BoxSize/2.0+Outlist[mask, 13]/1000.0], mutation_scale=20, lw=1, arrowstyle="-|>", color="k")
+	    #ax.add_artist(a)
+
+# Plot all Halos in List in a 3D Volume 		      
+ax.scatter(Outlist[:,8]-BoxSize/2.0, Outlist[:,9]-BoxSize/2.0, Outlist[:,10]-BoxSize/2.0, c='#848484',s=1, edgecolors='none')
+#ax.text2D(Outlist[:, 8]-BoxSize/2.0, Outlist[:, 9]-BoxSize/2.0, np.str(Outlist[:,0]))
+
+pmask=np.zeros(NumHalos)
+pmask=pmask.astype(bool)
+mask=np.zeros(NumHalos) 
+mask=mask.astype(bool)
+
+for i in range(NumHalos):
+	pmask[i] = (np.abs(Outlist[i, 8]-BoxSize/2.0) < 1 and
+		np.abs(Outlist[i, 9]-BoxSize/2.0) < 1 and
+		np.abs(Outlist[i, 10]-BoxSize/2.0) < 1 )
+
+mask [i]=True & pmask[i]
+ax.scatter(Outlist[mask, 8]-BoxSize/2.0, Outlist[mask, 9]-BoxSize/2.0, Outlist[mask, 10]-BoxSize/2.0, c='#2c89a0', s=30, edgecolors='none')
+
+#labels = ['Outlist[i]'.format(i) for i in range(NumHalos)]
+#for label, x, y in zip(labels,Outlist[mask, 8]-BoxSize/2.0, Outlist[mask, 9]-BoxSize/2.0, Outlist[mask, 10]-BoxSize/2.0):
+    #plt.annotate(
+        #label, 
+        #xyz = (x, y, z), xytext = (-20, 20, 20),
+        #textcoords = 'offset points', ha = 'right', va = 'bottom',
+        #bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+        #arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))
+
+
+# Set the axis labels
+ax.set_xlabel('Mpc (comoving)')
+ax.set_ylabel('Mpc')
+ax.set_zlabel('Mpc')
+ax.set_xlim3d(-RadiusAroundCenter/2.0,RadiusAroundCenter/2.0)	 
+ax.set_ylim3d(-RadiusAroundCenter/2.0,RadiusAroundCenter/2.0)
+ax.set_zlim3d(-RadiusAroundCenter/2.0,RadiusAroundCenter/2.0)
+#plt.savefig(inputfile+'Out'+'.'+'png',dpi=250,format='png')
+plt.show()
+
+

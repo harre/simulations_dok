@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.6)  7 SEP 2012 14:28
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.6)  15 JAN 2013 16:27
 entering extended mode
  %&-line parsing enabled.
 **Notes_Single.tex
@@ -611,720 +611,762 @@ Chapter 1.
 ]
 Chapter 2.
 
-<r512/h70/NGenIC_20905_2_std/Plot_Star_Formation_History.pdf, id=31, 328.22626p
+<analysis/galacticus/radialProfilesConsistent/bJ_Luminosity_galacticus_13671_1.
+png, id=31, 578.16pt x 433.62pt>
+File: analysis/galacticus/radialProfilesConsistent/bJ_Luminosity_galacticus_136
+71_1.png Graphic file (type png)
+
+<use analysis/galacticus/radialProfilesConsistent/bJ_Luminosity_galacticus_1367
+1_1.png>
+<analysis/galacticus/radialProfilesConsistent/DGM_Early_13671_1.png, id=33, 578
+.16pt x 433.62pt>
+File: analysis/galacticus/radialProfilesConsistent/DGM_Early_13671_1.png Graphi
+c file (type png)
+
+<use analysis/galacticus/radialProfilesConsistent/DGM_Early_13671_1.png>
+<analysis/galacticus/radialProfilesConsistent/SFR_13671_1.png, id=34, 578.16pt 
+x 433.62pt>
+File: analysis/galacticus/radialProfilesConsistent/SFR_13671_1.png Graphic file
+ (type png)
+ <use analysis/galacticus/radialProfilesConsistent/SFR_13671_1.png>
+Overfull \hbox (65.53687pt too wide) in paragraph at lines 35--38
+[][] []
+ []
+
+
+<analysis/halo_oblateness/5.2944E14-25-49-52/out_187.png, id=35, 578.16pt x 433
+.62pt>
+File: analysis/halo_oblateness/5.2944E14-25-49-52/out_187.png Graphic file (typ
+e png)
+ <use analysis/halo_oblateness/5.2944E14-25-49-52/out_187.png>
+<analysis/halo_oblateness/5.2944E14-25-49-52/halo_oblaxz_00187.png, id=36, 724.
+7075pt x 682.55pt>
+File: analysis/halo_oblateness/5.2944E14-25-49-52/halo_oblaxz_00187.png Graphic
+ file (type png)
+
+<use analysis/halo_oblateness/5.2944E14-25-49-52/halo_oblaxz_00187.png>
+Overfull \hbox (34.20265pt too wide) in paragraph at lines 48--50
+[][]
+ []
+
+[3
+
+ <./analysis/galacticus/radialProfilesConsistent/bJ_Luminosity_galacticus_13671
+_1.png> <./analysis/galacticus/radialProfilesConsistent/DGM_Early_13671_1.png> 
+<./analysis/galacticus/radialProfilesConsistent/SFR_13671_1.png>] [4 <./analysi
+s/halo_oblateness/5.2944E14-25-49-52/out_187.png> <./analysis/halo_oblateness/5
+.2944E14-25-49-52/halo_oblaxz_00187.png (PNG copy)>]
+<r512/h70/NGenIC_20905_2_std/Plot_Star_Formation_History.pdf, id=53, 328.22626p
 t x 239.89626pt>
 File: r512/h70/NGenIC_20905_2_std/Plot_Star_Formation_History.pdf Graphic file 
 (type pdf)
 
 <use r512/h70/NGenIC_20905_2_std/Plot_Star_Formation_History.pdf>
-<r512/h70/NGenIC_20905_2_std/Plot_Stellar_Mass_Function.pdf, id=32, 326.21875pt
+<r512/h70/NGenIC_20905_2_std/Plot_Stellar_Mass_Function.pdf, id=54, 326.21875pt
  x 240.9pt>
 File: r512/h70/NGenIC_20905_2_std/Plot_Stellar_Mass_Function.pdf Graphic file (
 type pdf)
  <use r512/h70/NGenIC_20905_2_std/Plot_Stellar_Mass_Function.pdf>
-<r512/h70/NGenIC_20905_2_std/Plot_SDSS_Tully_Fisher.pdf, id=33, 325.215pt x 240
+<r512/h70/NGenIC_20905_2_std/Plot_SDSS_Tully_Fisher.pdf, id=55, 325.215pt x 240
 .9pt>
 File: r512/h70/NGenIC_20905_2_std/Plot_SDSS_Tully_Fisher.pdf Graphic file (type
  pdf)
  <use r512/h70/NGenIC_20905_2_std/Plot_SDSS_Tully_Fisher.pdf>
-<r512/h70/NGenIC_20905_2_Kennicutt/Plot_Star_Formation_History.pdf, id=34, 328.
+<r512/h70/NGenIC_20905_2_Kennicutt/Plot_Star_Formation_History.pdf, id=56, 328.
 22626pt x 239.89626pt>
 File: r512/h70/NGenIC_20905_2_Kennicutt/Plot_Star_Formation_History.pdf Graphic
  file (type pdf)
 
 <use r512/h70/NGenIC_20905_2_Kennicutt/Plot_Star_Formation_History.pdf>
-<r512/h70/NGenIC_20905_2_Kennicutt/Plot_Stellar_Mass_Function.pdf, id=35, 326.2
+<r512/h70/NGenIC_20905_2_Kennicutt/Plot_Stellar_Mass_Function.pdf, id=57, 326.2
 1875pt x 240.9pt>
 File: r512/h70/NGenIC_20905_2_Kennicutt/Plot_Stellar_Mass_Function.pdf Graphic 
 file (type pdf)
 
 <use r512/h70/NGenIC_20905_2_Kennicutt/Plot_Stellar_Mass_Function.pdf>
-<r512/h70/NGenIC_20905_2_Kennicutt/Plot_SDSS_Tully_Fisher.pdf, id=36, 325.215pt
+<r512/h70/NGenIC_20905_2_Kennicutt/Plot_SDSS_Tully_Fisher.pdf, id=58, 325.215pt
  x 240.9pt>
 File: r512/h70/NGenIC_20905_2_Kennicutt/Plot_SDSS_Tully_Fisher.pdf Graphic file
  (type pdf)
  <use r512/h70/NGenIC_20905_2_Kennicutt/Plot_SDSS_Tully_Fisher.pdf>
-<r512/h70/NGenIC_20905_2_Salpeter/Plot_Star_Formation_History.pdf, id=37, 328.2
+<r512/h70/NGenIC_20905_2_Salpeter/Plot_Star_Formation_History.pdf, id=59, 328.2
 2626pt x 239.89626pt>
 File: r512/h70/NGenIC_20905_2_Salpeter/Plot_Star_Formation_History.pdf Graphic 
 file (type pdf)
 
 <use r512/h70/NGenIC_20905_2_Salpeter/Plot_Star_Formation_History.pdf>
-<r512/h70/NGenIC_20905_2_Salpeter/Plot_Stellar_Mass_Function.pdf, id=38, 326.21
+<r512/h70/NGenIC_20905_2_Salpeter/Plot_Stellar_Mass_Function.pdf, id=60, 326.21
 875pt x 240.9pt>
 File: r512/h70/NGenIC_20905_2_Salpeter/Plot_Stellar_Mass_Function.pdf Graphic f
 ile (type pdf)
 
 <use r512/h70/NGenIC_20905_2_Salpeter/Plot_Stellar_Mass_Function.pdf>
-<r512/h70/NGenIC_20905_2_Salpeter/Plot_SDSS_Tully_Fisher.pdf, id=39, 325.215pt 
+<r512/h70/NGenIC_20905_2_Salpeter/Plot_SDSS_Tully_Fisher.pdf, id=61, 325.215pt 
 x 240.9pt>
 File: r512/h70/NGenIC_20905_2_Salpeter/Plot_SDSS_Tully_Fisher.pdf Graphic file 
 (type pdf)
  <use r512/h70/NGenIC_20905_2_Salpeter/Plot_SDSS_Tully_Fisher.pdf>
-<r512/h70/NGenIC_20905_2_Scalo/Plot_Star_Formation_History.pdf, id=40, 328.2262
+<r512/h70/NGenIC_20905_2_Scalo/Plot_Star_Formation_History.pdf, id=62, 328.2262
 6pt x 239.89626pt>
 File: r512/h70/NGenIC_20905_2_Scalo/Plot_Star_Formation_History.pdf Graphic fil
 e (type pdf)
 
 <use r512/h70/NGenIC_20905_2_Scalo/Plot_Star_Formation_History.pdf>
-<r512/h70/NGenIC_20905_2_Scalo/Plot_Stellar_Mass_Function.pdf, id=41, 326.21875
+<r512/h70/NGenIC_20905_2_Scalo/Plot_Stellar_Mass_Function.pdf, id=63, 326.21875
 pt x 240.9pt>
 File: r512/h70/NGenIC_20905_2_Scalo/Plot_Stellar_Mass_Function.pdf Graphic file
  (type pdf)
 
 <use r512/h70/NGenIC_20905_2_Scalo/Plot_Stellar_Mass_Function.pdf>
-<r512/h70/NGenIC_20905_2_Scalo/Plot_SDSS_Tully_Fisher.pdf, id=42, 325.215pt x 2
+<r512/h70/NGenIC_20905_2_Scalo/Plot_SDSS_Tully_Fisher.pdf, id=64, 325.215pt x 2
 40.9pt>
 File: r512/h70/NGenIC_20905_2_Scalo/Plot_SDSS_Tully_Fisher.pdf Graphic file (ty
 pe pdf)
  <use r512/h70/NGenIC_20905_2_Scalo/Plot_SDSS_Tully_Fisher.pdf>
-Overfull \hbox (34.19011pt too wide) in paragraph at lines 60--83
+Overfull \hbox (34.19011pt too wide) in paragraph at lines 78--101
 [][] 
  []
 
 
-<r512/h70/NGenIC_20905_2_std/Halo_Positions_with_SFR_5Mpc_0006.png, id=43, 578.
+<r512/h70/NGenIC_20905_2_std/Halo_Positions_with_SFR_5Mpc_0006.png, id=65, 578.
 16pt x 433.62pt>
 File: r512/h70/NGenIC_20905_2_std/Halo_Positions_with_SFR_5Mpc_0006.png Graphic
  file (type png)
 
 <use r512/h70/NGenIC_20905_2_std/Halo_Positions_with_SFR_5Mpc_0006.png>
-<r512/h70/NGenIC_20905_2_Kennicutt/Halo_Positions_with_SFR_5Mpc_0006.png, id=45
+<r512/h70/NGenIC_20905_2_Kennicutt/Halo_Positions_with_SFR_5Mpc_0006.png, id=66
 , 578.16pt x 433.62pt>
 File: r512/h70/NGenIC_20905_2_Kennicutt/Halo_Positions_with_SFR_5Mpc_0006.png G
 raphic file (type png)
 
 <use r512/h70/NGenIC_20905_2_Kennicutt/Halo_Positions_with_SFR_5Mpc_0006.png>
-<r512/h70/NGenIC_20905_2_Salpeter/Halo_Positions_with_SFR_5Mpc_0006.png, id=46,
+<r512/h70/NGenIC_20905_2_Salpeter/Halo_Positions_with_SFR_5Mpc_0006.png, id=67,
  578.16pt x 433.62pt>
 File: r512/h70/NGenIC_20905_2_Salpeter/Halo_Positions_with_SFR_5Mpc_0006.png Gr
 aphic file (type png)
 
 <use r512/h70/NGenIC_20905_2_Salpeter/Halo_Positions_with_SFR_5Mpc_0006.png>
-<r512/h70/NGenIC_20905_2_Scalo/Halo_Positions_with_SFR_5Mpc_0006.png, id=47, 57
+<r512/h70/NGenIC_20905_2_Scalo/Halo_Positions_with_SFR_5Mpc_0006.png, id=68, 57
 8.16pt x 433.62pt>
 File: r512/h70/NGenIC_20905_2_Scalo/Halo_Positions_with_SFR_5Mpc_0006.png Graph
 ic file (type png)
 
 <use r512/h70/NGenIC_20905_2_Scalo/Halo_Positions_with_SFR_5Mpc_0006.png>
 
-LaTeX Warning: Float too large for page by 121.44331pt on input line 101.
+LaTeX Warning: Float too large for page by 121.44331pt on input line 119.
 
-
+[5 <./r512/h70/NGenIC_20905_2_std/Plot_Star_Formation_History.pdf> <./r512/h70/
+NGenIC_20905_2_std/Plot_Stellar_Mass_Function.pdf> <./r512/h70/NGenIC_20905_2_s
+td/Plot_SDSS_Tully_Fisher.pdf> <./r512/h70/NGenIC_20905_2_Kennicutt/Plot_Star_F
+ormation_History.pdf> <./r512/h70/NGenIC_20905_2_Kennicutt/Plot_Stellar_Mass_Fu
+nction.pdf> <./r512/h70/NGenIC_20905_2_Kennicutt/Plot_SDSS_Tully_Fisher.pdf> <.
+/r512/h70/NGenIC_20905_2_Salpeter/Plot_Star_Formation_History.pdf> <./r512/h70/
+NGenIC_20905_2_Salpeter/Plot_Stellar_Mass_Function.pdf> <./r512/h70/NGenIC_2090
+5_2_Salpeter/Plot_SDSS_Tully_Fisher.pdf> <./r512/h70/NGenIC_20905_2_Scalo/Plot_
+Star_Formation_History.pdf> <./r512/h70/NGenIC_20905_2_Scalo/Plot_Stellar_Mass_
+Function.pdf> <./r512/h70/NGenIC_20905_2_Scalo/Plot_SDSS_Tully_Fisher.pdf>]
+[6 <./r512/h70/NGenIC_20905_2_std/Halo_Positions_with_SFR_5Mpc_0006.png> <./r51
+2/h70/NGenIC_20905_2_Kennicutt/Halo_Positions_with_SFR_5Mpc_0006.png> <./r512/h
+70/NGenIC_20905_2_Salpeter/Halo_Positions_with_SFR_5Mpc_0006.png> <./r512/h70/N
+GenIC_20905_2_Scalo/Halo_Positions_with_SFR_5Mpc_0006.png>]
 <analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_
-nestages12_5Mpc_0003.png, id=48, 578.16pt x 433.62pt>
+nestages12_5Mpc_0003.png, id=361, 578.16pt x 433.62pt>
 File: analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galact
 icus_nestages12_5Mpc_0003.png Graphic file (type png)
 
 <use analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacti
 cus_nestages12_5Mpc_0003.png>
 <analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_
-nestages12SLtest_5Mpc_0003.png, id=49, 578.16pt x 433.62pt>
+nestages12SLtest_5Mpc_0003.png, id=362, 578.16pt x 433.62pt>
 File: analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galact
 icus_nestages12SLtest_5Mpc_0003.png Graphic file (type png)
 
 <use analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacti
 cus_nestages12SLtest_5Mpc_0003.png>
 <analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_
-nestages_SLtest2_5Mpc_0003.png, id=50, 578.16pt x 433.62pt>
+nestages_SLtest2_5Mpc_0003.png, id=363, 578.16pt x 433.62pt>
 File: analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galact
 icus_nestages_SLtest2_5Mpc_0003.png Graphic file (type png)
 
 <use analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacti
 cus_nestages_SLtest2_5Mpc_0003.png>
 <analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_nestag
-es12_0000.png, id=51, 578.16pt x 433.62pt>
+es12_0000.png, id=364, 578.16pt x 433.62pt>
 File: analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_n
 estages12_0000.png Graphic file (type png)
 
 <use analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_ne
 stages12_0000.png>
 <analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_nestag
-es12SLtest_0000.png, id=52, 578.16pt x 433.62pt>
+es12SLtest_0000.png, id=365, 578.16pt x 433.62pt>
 File: analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_n
 estages12SLtest_0000.png Graphic file (type png)
 
 <use analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_ne
 stages12SLtest_0000.png>
 <analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_nestag
-es_SLtest2_0000.png, id=53, 578.16pt x 433.62pt>
+es_SLtest2_0000.png, id=366, 578.16pt x 433.62pt>
 File: analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_n
 estages_SLtest2_0000.png Graphic file (type png)
 
 <use analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_ne
 stages_SLtest2_0000.png>
 <analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nestage
-s12_0000.png, id=54, 578.16pt x 433.62pt>
+s12_0000.png, id=367, 578.16pt x 433.62pt>
 File: analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_ne
 stages12_0000.png Graphic file (type png)
 
 <use analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nes
 tages12_0000.png>
 <analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nestage
-s12SLtest_0000.png, id=55, 578.16pt x 433.62pt>
+s12SLtest_0000.png, id=368, 578.16pt x 433.62pt>
 File: analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_ne
 stages12SLtest_0000.png Graphic file (type png)
 
 <use analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nes
 tages12SLtest_0000.png>
 <analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nestage
-s_SLtest2_0000.png, id=56, 578.16pt x 433.62pt>
+s_SLtest2_0000.png, id=369, 578.16pt x 433.62pt>
 File: analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_ne
 stages_SLtest2_0000.png Graphic file (type png)
 
 <use analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nes
 tages_SLtest2_0000.png>
-<r256/h70/nestages12/Plot_Star_Formation_History.pdf, id=57, 328.22626pt x 239.
-89626pt>
+<r256/h70/nestages12/Plot_Star_Formation_History.pdf, id=370, 328.22626pt x 239
+.89626pt>
 File: r256/h70/nestages12/Plot_Star_Formation_History.pdf Graphic file (type pd
 f)
  <use r256/h70/nestages12/Plot_Star_Formation_History.pdf>
-<r256/h70/nestages12_SLtest/Plot_Star_Formation_History.pdf, id=58, 328.22626pt
- x 239.89626pt>
+<r256/h70/nestages12_SLtest/Plot_Star_Formation_History.pdf, id=371, 328.22626p
+t x 239.89626pt>
 File: r256/h70/nestages12_SLtest/Plot_Star_Formation_History.pdf Graphic file (
 type pdf)
 
 <use r256/h70/nestages12_SLtest/Plot_Star_Formation_History.pdf>
-<r256/h70/nestages12_SL2/Plot_Star_Formation_History.pdf, id=59, 328.22626pt x 
-239.89626pt>
+<r256/h70/nestages12_SL2/Plot_Star_Formation_History.pdf, id=372, 328.22626pt x
+ 239.89626pt>
 File: r256/h70/nestages12_SL2/Plot_Star_Formation_History.pdf Graphic file (typ
 e pdf)
  <use r256/h70/nestages12_SL2/Plot_Star_Formation_History.pdf>
 <analysis/powerspectra/100MPcSimsComparison/fin_powspec_combined_256_h70.pdf, i
-d=60, 794.97pt x 614.295pt>
+d=373, 794.97pt x 614.295pt>
 File: analysis/powerspectra/100MPcSimsComparison/fin_powspec_combined_256_h70.p
 df Graphic file (type pdf)
 
 <use analysis/powerspectra/100MPcSimsComparison/fin_powspec_combined_256_h70.pd
 f>
 <analysis/powerspectra/100MPcSimsComparison/IC_powspec_combined_256_h70.pdf, id
-=61, 794.97pt x 614.295pt>
+=374, 794.97pt x 614.295pt>
 File: analysis/powerspectra/100MPcSimsComparison/IC_powspec_combined_256_h70.pd
 f Graphic file (type pdf)
 
 <use analysis/powerspectra/100MPcSimsComparison/IC_powspec_combined_256_h70.pdf
 >
-Overfull \hbox (34.20265pt too wide) in paragraph at lines 113--138
+Overfull \hbox (34.20265pt too wide) in paragraph at lines 131--156
 [] 
  []
 
 
-Overfull \hbox (34.20265pt too wide) in paragraph at lines 113--138
+Overfull \hbox (34.20265pt too wide) in paragraph at lines 131--156
 [] 
  []
 
 
-Overfull \hbox (34.20265pt too wide) in paragraph at lines 113--138
+Overfull \hbox (34.20265pt too wide) in paragraph at lines 131--156
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--138
+Underfull \hbox (badness 10000) in paragraph at lines 131--156
 
  []
 
-[3
-
-] [4 <./r512/h70/NGenIC_20905_2_std/Plot_Star_Formation_History.pdf> <./r512/h7
-0/NGenIC_20905_2_std/Plot_Stellar_Mass_Function.pdf> <./r512/h70/NGenIC_20905_2
-_std/Plot_SDSS_Tully_Fisher.pdf> <./r512/h70/NGenIC_20905_2_Kennicutt/Plot_Star
-_Formation_History.pdf> <./r512/h70/NGenIC_20905_2_Kennicutt/Plot_Stellar_Mass_
-Function.pdf> <./r512/h70/NGenIC_20905_2_Kennicutt/Plot_SDSS_Tully_Fisher.pdf> 
-<./r512/h70/NGenIC_20905_2_Salpeter/Plot_Star_Formation_History.pdf> <./r512/h7
-0/NGenIC_20905_2_Salpeter/Plot_Stellar_Mass_Function.pdf> <./r512/h70/NGenIC_20
-905_2_Salpeter/Plot_SDSS_Tully_Fisher.pdf> <./r512/h70/NGenIC_20905_2_Scalo/Plo
-t_Star_Formation_History.pdf> <./r512/h70/NGenIC_20905_2_Scalo/Plot_Stellar_Mas
-s_Function.pdf> <./r512/h70/NGenIC_20905_2_Scalo/Plot_SDSS_Tully_Fisher.pdf>] [
-5 <./r512/h70/NGenIC_20905_2_std/Halo_Positions_with_SFR_5Mpc_0006.png> <./r512
-/h70/NGenIC_20905_2_Kennicutt/Halo_Positions_with_SFR_5Mpc_0006.png> <./r512/h7
-0/NGenIC_20905_2_Salpeter/Halo_Positions_with_SFR_5Mpc_0006.png> <./r512/h70/NG
-enIC_20905_2_Scalo/Halo_Positions_with_SFR_5Mpc_0006.png>] [6 <./analysis/galac
-ticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages12_5Mpc
-_0003.png> <./analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masse
-s_galacticus_nestages12SLtest_5Mpc_0003.png>] [7 <./analysis/galacticus/positio
-nPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages_SLtest2_5Mpc_0003.p
-ng> <./analysis/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_
-nestages12_0000.png>] [8 <./analysis/galacticus/histograms/Histogram_of_Disk_St
-ellar_Massgalacticus_nestages12SLtest_0000.png> <./analysis/galacticus/histogra
-ms/Histogram_of_Disk_Stellar_Massgalacticus_nestages_SLtest2_0000.png> <./analy
-sis/galacticus/histograms/Histogram_of_Outflowed_Metalsgalacticus_nestages12_00
-00.png>] [9 <./analysis/galacticus/histograms/Histogram_of_Outflowed_Metalsgala
-cticus_nestages12SLtest_0000.png> <./analysis/galacticus/histograms/Histogram_o
-f_Outflowed_Metalsgalacticus_nestages_SLtest2_0000.png> <./r256/h70/nestages12/
-Plot_Star_Formation_History.pdf>] [10 <./r256/h70/nestages12_SLtest/Plot_Star_F
-ormation_History.pdf> <./r256/h70/nestages12_SL2/Plot_Star_Formation_History.pd
-f> <./analysis/powerspectra/100MPcSimsComparison/fin_powspec_combined_256_h70.p
-df, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 141--144
+[7 <./analysis/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galact
+icus_nestages12_5Mpc_0003.png>] [8 <./analysis/galacticus/positionPlotsMasses/H
+alo_Positions_with_Masses_galacticus_nestages12SLtest_5Mpc_0003.png> <./analysi
+s/galacticus/positionPlotsMasses/Halo_Positions_with_Masses_galacticus_nestages
+_SLtest2_5Mpc_0003.png>] [9 <./analysis/galacticus/histograms/Histogram_of_Disk
+_Stellar_Massgalacticus_nestages12_0000.png> <./analysis/galacticus/histograms/
+Histogram_of_Disk_Stellar_Massgalacticus_nestages12SLtest_0000.png> <./analysis
+/galacticus/histograms/Histogram_of_Disk_Stellar_Massgalacticus_nestages_SLtest
+2_0000.png>] [10 <./analysis/galacticus/histograms/Histogram_of_Outflowed_Metal
+sgalacticus_nestages12_0000.png> <./analysis/galacticus/histograms/Histogram_of
+_Outflowed_Metalsgalacticus_nestages12SLtest_0000.png> <./analysis/galacticus/h
+istograms/Histogram_of_Outflowed_Metalsgalacticus_nestages_SLtest2_0000.png>]
+[11 <./r256/h70/nestages12/Plot_Star_Formation_History.pdf> <./r256/h70/nestage
+s12_SLtest/Plot_Star_Formation_History.pdf> <./r256/h70/nestages12_SL2/Plot_Sta
+r_Formation_History.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
 
-<analysis/omega_evolution/comparison_mvirmax.pdf, id=462, 794.97pt x 614.295pt>
+<analysis/omega_evolution/comparison_mvirmax.pdf, id=473, 794.97pt x 614.295pt>
 File: analysis/omega_evolution/comparison_mvirmax.pdf Graphic file (type pdf)
-<use analysis/omega_evolution/comparison_mvirmax.pdf> [11 <./analysis/powerspec
-tra/100MPcSimsComparison/IC_powspec_combined_256_h70.pdf, page is rotated 90 de
-grees> <./analysis/omega_evolution/comparison_mvirmax.pdf, page is rotated 90 d
-egrees>]
-<analysis/omega_evolution/omega_evolution_128_h70.pdf, id=475, 794.97pt x 614.2
+<use analysis/omega_evolution/comparison_mvirmax.pdf> [12 <./analysis/powerspec
+tra/100MPcSimsComparison/fin_powspec_combined_256_h70.pdf, page is rotated 90 d
+egrees> <./analysis/powerspectra/100MPcSimsComparison/IC_powspec_combined_256_h
+70.pdf, page is rotated 90 degrees>]
+<analysis/omega_evolution/omega_evolution_128_h70.pdf, id=486, 794.97pt x 614.2
 95pt>
 File: analysis/omega_evolution/omega_evolution_128_h70.pdf Graphic file (type p
 df)
  <use analysis/omega_evolution/omega_evolution_128_h70.pdf>
-<analysis/omega_evolution/omega_evolution_128_h100.pdf, id=476, 794.97pt x 614.
+<analysis/omega_evolution/omega_evolution_128_h100.pdf, id=487, 794.97pt x 614.
 295pt>
 File: analysis/omega_evolution/omega_evolution_128_h100.pdf Graphic file (type 
 pdf)
  <use analysis/omega_evolution/omega_evolution_128_h100.pdf>
-<analysis/omega_evolution/omega_evolution_256_h70.pdf, id=477, 794.97pt x 614.2
+<analysis/omega_evolution/omega_evolution_256_h70.pdf, id=488, 794.97pt x 614.2
 95pt>
 File: analysis/omega_evolution/omega_evolution_256_h70.pdf Graphic file (type p
 df)
  <use analysis/omega_evolution/omega_evolution_256_h70.pdf>
-<analysis/omega_evolution/omega_evolution_256_h100.pdf, id=478, 794.97pt x 614.
+<analysis/omega_evolution/omega_evolution_256_h100.pdf, id=489, 794.97pt x 614.
 295pt>
 File: analysis/omega_evolution/omega_evolution_256_h100.pdf Graphic file (type 
 pdf)
  <use analysis/omega_evolution/omega_evolution_256_h100.pdf>
-<analysis/omega_evolution/omega_evolution_512_h100.pdf, id=479, 794.97pt x 614.
+<analysis/omega_evolution/omega_evolution_512_h100.pdf, id=490, 794.97pt x 614.
 295pt>
 File: analysis/omega_evolution/omega_evolution_512_h100.pdf Graphic file (type 
 pdf)
  <use analysis/omega_evolution/omega_evolution_512_h100.pdf>
-<analysis/powerspectra/IC_powspec_combined_128_h70.pdf, id=480, 794.97pt x 614.
+<analysis/powerspectra/IC_powspec_combined_128_h70.pdf, id=491, 794.97pt x 614.
 295pt>
 File: analysis/powerspectra/IC_powspec_combined_128_h70.pdf Graphic file (type 
 pdf)
  <use analysis/powerspectra/IC_powspec_combined_128_h70.pdf>
-<analysis/powerspectra/IC_powspec_combined_128_h100.pdf, id=481, 794.97pt x 614
+<analysis/powerspectra/IC_powspec_combined_128_h100.pdf, id=492, 794.97pt x 614
 .295pt>
 File: analysis/powerspectra/IC_powspec_combined_128_h100.pdf Graphic file (type
  pdf)
  <use analysis/powerspectra/IC_powspec_combined_128_h100.pdf>
-<analysis/powerspectra/IC_powspec_combined_256_h70.pdf, id=482, 794.97pt x 614.
+<analysis/powerspectra/IC_powspec_combined_256_h70.pdf, id=493, 794.97pt x 614.
 295pt>
 File: analysis/powerspectra/IC_powspec_combined_256_h70.pdf Graphic file (type 
 pdf)
  <use analysis/powerspectra/IC_powspec_combined_256_h70.pdf>
-<analysis/powerspectra/IC_powspec_combined_256_h100.pdf, id=483, 794.97pt x 614
+<analysis/powerspectra/IC_powspec_combined_256_h100.pdf, id=494, 794.97pt x 614
 .295pt>
 File: analysis/powerspectra/IC_powspec_combined_256_h100.pdf Graphic file (type
  pdf)
  <use analysis/powerspectra/IC_powspec_combined_256_h100.pdf>
-<analysis/powerspectra/IC_powspec_combined_512_h70.pdf, id=484, 794.97pt x 614.
+<analysis/powerspectra/IC_powspec_combined_512_h70.pdf, id=495, 794.97pt x 614.
 295pt>
 File: analysis/powerspectra/IC_powspec_combined_512_h70.pdf Graphic file (type 
 pdf)
  <use analysis/powerspectra/IC_powspec_combined_512_h70.pdf>
-<analysis/powerspectra/IC_powspec_combined_512_h100.pdf, id=485, 794.97pt x 614
+<analysis/powerspectra/IC_powspec_combined_512_h100.pdf, id=496, 794.97pt x 614
 .295pt>
 File: analysis/powerspectra/IC_powspec_combined_512_h100.pdf Graphic file (type
  pdf)
  <use analysis/powerspectra/IC_powspec_combined_512_h100.pdf>
-<analysis/powerspectra/fin_powspec_combined_128_h70.pdf, id=486, 794.97pt x 614
+<analysis/powerspectra/fin_powspec_combined_128_h70.pdf, id=497, 794.97pt x 614
 .295pt>
 File: analysis/powerspectra/fin_powspec_combined_128_h70.pdf Graphic file (type
  pdf)
  <use analysis/powerspectra/fin_powspec_combined_128_h70.pdf>
-<analysis/powerspectra/fin_powspec_combined_128_h100.pdf, id=487, 794.97pt x 61
+<analysis/powerspectra/fin_powspec_combined_128_h100.pdf, id=498, 794.97pt x 61
 4.295pt>
 File: analysis/powerspectra/fin_powspec_combined_128_h100.pdf Graphic file (typ
 e pdf)
  <use analysis/powerspectra/fin_powspec_combined_128_h100.pdf>
-<analysis/powerspectra/fin_powspec_combined_256_h70.pdf, id=488, 794.97pt x 614
+<analysis/powerspectra/fin_powspec_combined_256_h70.pdf, id=499, 794.97pt x 614
 .295pt>
 File: analysis/powerspectra/fin_powspec_combined_256_h70.pdf Graphic file (type
  pdf)
  <use analysis/powerspectra/fin_powspec_combined_256_h70.pdf>
-<analysis/powerspectra/fin_powspec_combined_256_h100.pdf, id=489, 794.97pt x 61
+<analysis/powerspectra/fin_powspec_combined_256_h100.pdf, id=500, 794.97pt x 61
 4.295pt>
 File: analysis/powerspectra/fin_powspec_combined_256_h100.pdf Graphic file (typ
 e pdf)
  <use analysis/powerspectra/fin_powspec_combined_256_h100.pdf>
-<analysis/powerspectra/fin_powspec_combined_512_h70.pdf, id=490, 794.97pt x 614
+<analysis/powerspectra/fin_powspec_combined_512_h70.pdf, id=501, 794.97pt x 614
 .295pt>
 File: analysis/powerspectra/fin_powspec_combined_512_h70.pdf Graphic file (type
  pdf)
  <use analysis/powerspectra/fin_powspec_combined_512_h70.pdf>
-<analysis/powerspectra/fin_powspec_combined_512_h100.pdf, id=491, 794.97pt x 61
+<analysis/powerspectra/fin_powspec_combined_512_h100.pdf, id=502, 794.97pt x 61
 4.295pt>
 File: analysis/powerspectra/fin_powspec_combined_512_h100.pdf Graphic file (typ
 e pdf)
  <use analysis/powerspectra/fin_powspec_combined_512_h100.pdf>
-<r256/h70/mu_100h70_8-514200/plot_mvir_out_197.pdf, id=492, 794.97pt x 614.295p
+<r256/h70/mu_100h70_8-514200/plot_mvir_out_197.pdf, id=503, 794.97pt x 614.295p
 t>
 File: r256/h70/mu_100h70_8-514200/plot_mvir_out_197.pdf Graphic file (type pdf)
 
  <use r256/h70/mu_100h70_8-514200/plot_mvir_out_197.pdf>
-<r256/h70/mu_100h70_8-514200_bbks/plot_mvir_out_197.pdf, id=493, 794.97pt x 614
+<r256/h70/mu_100h70_8-514200_bbks/plot_mvir_out_197.pdf, id=504, 794.97pt x 614
 .295pt>
 File: r256/h70/mu_100h70_8-514200_bbks/plot_mvir_out_197.pdf Graphic file (type
  pdf)
  <use r256/h70/mu_100h70_8-514200_bbks/plot_mvir_out_197.pdf>
-Overfull \hbox (0.50107pt too wide) in paragraph at lines 197--199
+Overfull \hbox (0.50107pt too wide) in paragraph at lines 215--217
 [][] [] 
  []
 
-[12 <./analysis/omega_evolution/omega_evolution_128_h70.pdf, page is rotated 90
- degrees> <./analysis/omega_evolution/omega_evolution_128_h100.pdf, page is rot
-ated 90 degrees> <./analysis/omega_evolution/omega_evolution_256_h70.pdf, page 
-is rotated 90 degrees> <./analysis/omega_evolution/omega_evolution_256_h100.pdf
-, page is rotated 90 degrees> <./analysis/omega_evolution/omega_evolution_512_h
-100.pdf, page is rotated 90 degrees> <./r256/h70/mu_100h70_8-514200/plot_mvir_o
-ut_197.pdf, page is rotated 90 degrees> <./r256/h70/mu_100h70_8-514200_bbks/plo
-t_mvir_out_197.pdf, page is rotated 90 degrees>] [13 <./analysis/powerspectra/I
-C_powspec_combined_128_h70.pdf, page is rotated 90 degrees> <./analysis/powersp
-ectra/IC_powspec_combined_128_h100.pdf, page is rotated 90 degrees> <./analysis
-/powerspectra/IC_powspec_combined_256_h70.pdf, page is rotated 90 degrees> <./a
-nalysis/powerspectra/IC_powspec_combined_256_h100.pdf, page is rotated 90 degre
-es> <./analysis/powerspectra/IC_powspec_combined_512_h70.pdf, page is rotated 9
-0 degrees> <./analysis/powerspectra/IC_powspec_combined_512_h100.pdf, page is r
-otated 90 degrees>] [14 <./analysis/powerspectra/fin_powspec_combined_128_h70.p
-df, page is rotated 90 degrees> <./analysis/powerspectra/fin_powspec_combined_1
-28_h100.pdf, page is rotated 90 degrees> <./analysis/powerspectra/fin_powspec_c
-ombined_256_h70.pdf, page is rotated 90 degrees> <./analysis/powerspectra/fin_p
-owspec_combined_256_h100.pdf, page is rotated 90 degrees> <./analysis/powerspec
-tra/fin_powspec_combined_512_h70.pdf, page is rotated 90 degrees> <./analysis/p
-owerspectra/fin_powspec_combined_512_h100.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 211--215
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
-<r256/h100/stages_14/197.jpg, id=564, 1927.2pt x 1445.4pt>
+[13 <./analysis/omega_evolution/comparison_mvirmax.pdf, page is rotated 90 degr
+ees> <./r256/h70/mu_100h70_8-514200/plot_mvir_out_197.pdf, page is rotated 90 d
+egrees> <./r256/h70/mu_100h70_8-514200_bbks/plot_mvir_out_197.pdf, page is rota
+ted 90 degrees>] [14 <./analysis/omega_evolution/omega_evolution_128_h70.pdf, p
+age is rotated 90 degrees> <./analysis/omega_evolution/omega_evolution_128_h100
+.pdf, page is rotated 90 degrees> <./analysis/omega_evolution/omega_evolution_2
+56_h70.pdf, page is rotated 90 degrees> <./analysis/omega_evolution/omega_evolu
+tion_256_h100.pdf, page is rotated 90 degrees> <./analysis/omega_evolution/omeg
+a_evolution_512_h100.pdf, page is rotated 90 degrees>] [15 <./analysis/powerspe
+ctra/IC_powspec_combined_128_h70.pdf, page is rotated 90 degrees> <./analysis/p
+owerspectra/IC_powspec_combined_128_h100.pdf, page is rotated 90 degrees> <./an
+alysis/powerspectra/IC_powspec_combined_256_h70.pdf, page is rotated 90 degrees
+> <./analysis/powerspectra/IC_powspec_combined_256_h100.pdf, page is rotated 90
+ degrees> <./analysis/powerspectra/IC_powspec_combined_512_h70.pdf, page is rot
+ated 90 degrees> <./analysis/powerspectra/IC_powspec_combined_512_h100.pdf, pag
+e is rotated 90 degrees>] [16 <./analysis/powerspectra/fin_powspec_combined_128
+_h70.pdf, page is rotated 90 degrees> <./analysis/powerspectra/fin_powspec_comb
+ined_128_h100.pdf, page is rotated 90 degrees> <./analysis/powerspectra/fin_pow
+spec_combined_256_h70.pdf, page is rotated 90 degrees> <./analysis/powerspectra
+/fin_powspec_combined_256_h100.pdf, page is rotated 90 degrees> <./analysis/pow
+erspectra/fin_powspec_combined_512_h70.pdf, page is rotated 90 degrees> <./anal
+ysis/powerspectra/fin_powspec_combined_512_h100.pdf, page is rotated 90 degrees
+>] <r256/h100/stages_14/197.jpg, id=581, 1927.2pt x 1445.4pt>
 File: r256/h100/stages_14/197.jpg Graphic file (type jpg)
 
 <use r256/h100/stages_14/197.jpg>
 File: r256/h100/stages_14/197.jpg Graphic file (type jpg)
  <use r256/h100/stages_14/197.jpg>
-<r256/h100/stages_14/plot_powspec_stages_14.pdf, id=565, 794.97pt x 614.295pt>
+<r256/h100/stages_14/plot_powspec_stages_14.pdf, id=582, 794.97pt x 614.295pt>
 File: r256/h100/stages_14/plot_powspec_stages_14.pdf Graphic file (type pdf)
 
 <use r256/h100/stages_14/plot_powspec_stages_14.pdf>
-<r256/h100/stages_14/plot_mvir_out_197.pdf, id=566, 794.97pt x 614.295pt>
+<r256/h100/stages_14/plot_mvir_out_197.pdf, id=583, 794.97pt x 614.295pt>
 File: r256/h100/stages_14/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h100/stages_14/plot_mvir_out_197.pdf>
-<r256/h100/stages_14/Plot_Star_Formation_History.pdf, id=567, 328.22626pt x 239
+<r256/h100/stages_14/Plot_Star_Formation_History.pdf, id=584, 328.22626pt x 239
 .89626pt>
 File: r256/h100/stages_14/Plot_Star_Formation_History.pdf Graphic file (type pd
 f)
  <use r256/h100/stages_14/Plot_Star_Formation_History.pdf>
-<r256/h100/stages14_ling/197.jpg, id=568, 1927.2pt x 1445.4pt>
+<r256/h100/stages14_ling/197.jpg, id=585, 1927.2pt x 1445.4pt>
 File: r256/h100/stages14_ling/197.jpg Graphic file (type jpg)
 
 <use r256/h100/stages14_ling/197.jpg>
 File: r256/h100/stages14_ling/197.jpg Graphic file (type jpg)
  <use r256/h100/stages14_ling/197.jpg>
-<r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf, id=569, 794.97pt x 614
+<r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf, id=586, 794.97pt x 614
 .295pt>
 File: r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf Graphic file (type
  pdf)
  <use r256/h100/stages14_ling/plot_powspec_stages14_ling.pdf>
-<r256/h100/stages14_ling/plot_mvir_out_197.pdf, id=570, 794.97pt x 614.295pt>
+<r256/h100/stages14_ling/plot_mvir_out_197.pdf, id=587, 794.97pt x 614.295pt>
 File: r256/h100/stages14_ling/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h100/stages14_ling/plot_mvir_out_197.pdf>
-<r256/h100/stages14_ling/Plot_Star_Formation_History.pdf, id=571, 328.22626pt x
+<r256/h100/stages14_ling/Plot_Star_Formation_History.pdf, id=588, 328.22626pt x
  239.89626pt>
 File: r256/h100/stages14_ling/Plot_Star_Formation_History.pdf Graphic file (typ
 e pdf)
  <use r256/h100/stages14_ling/Plot_Star_Formation_History.pdf>
-Overfull \hbox (13.73152pt too wide) in paragraph at lines 232--240
+Overfull \hbox (13.73152pt too wide) in paragraph at lines 250--258
  [][] 
  []
 
-<r256/h70/red_st14_log1/197.jpg, id=572, 1927.2pt x 1445.4pt>
+<r256/h70/red_st14_log1/197.jpg, id=589, 1927.2pt x 1445.4pt>
 File: r256/h70/red_st14_log1/197.jpg Graphic file (type jpg)
 
 <use r256/h70/red_st14_log1/197.jpg>
-<r256/h100/red_st14_log1/197.jpg, id=573, 1927.2pt x 1445.4pt>
+<r256/h100/red_st14_log1/197.jpg, id=590, 1927.2pt x 1445.4pt>
 File: r256/h100/red_st14_log1/197.jpg Graphic file (type jpg)
 
 <use r256/h100/red_st14_log1/197.jpg>
-<r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf, id=574, 794.97pt x 614.
+<r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf, id=591, 794.97pt x 614.
 295pt>
 File: r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf Graphic file (type 
 pdf)
  <use r256/h70/red_st14_log1/plot_powspec_red_st14_log1.pdf>
-<r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf, id=575, 794.97pt x 614
+<r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf, id=592, 794.97pt x 614
 .295pt>
 File: r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf Graphic file (type
  pdf)
  <use r256/h100/red_st14_log1/plot_powspec_red_st14_log1.pdf>
-<r256/h70/red_st14_log1/plot_mvir_out_197.pdf, id=576, 794.97pt x 614.295pt>
+<r256/h70/red_st14_log1/plot_mvir_out_197.pdf, id=593, 794.97pt x 614.295pt>
 File: r256/h70/red_st14_log1/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h70/red_st14_log1/plot_mvir_out_197.pdf>
-<r256/h100/red_st14_log1/plot_mvir_out_197.pdf, id=577, 794.97pt x 614.295pt>
+<r256/h100/red_st14_log1/plot_mvir_out_197.pdf, id=594, 794.97pt x 614.295pt>
 File: r256/h100/red_st14_log1/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h100/red_st14_log1/plot_mvir_out_197.pdf>
-<r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf, id=578, 328.22626pt x 
+<r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf, id=595, 328.22626pt x 
 239.89626pt>
 File: r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf Graphic file (type
  pdf)
  <use r256/h70/red_st14_log1/Plot_Star_Formation_History.pdf>
-<r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf, id=579, 328.22626pt x
+<r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf, id=596, 328.22626pt x
  239.89626pt>
 File: r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf Graphic file (typ
 e pdf)
  <use r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf>
-Overfull \hbox (68.80968pt too wide) in paragraph at lines 243--251
+Overfull \hbox (68.80968pt too wide) in paragraph at lines 261--269
  [][] 
  []
 
-<r256/h70/red_st14_log2/197.jpg, id=580, 1927.2pt x 1445.4pt>
+<r256/h70/red_st14_log2/197.jpg, id=597, 1927.2pt x 1445.4pt>
 File: r256/h70/red_st14_log2/197.jpg Graphic file (type jpg)
 
 <use r256/h70/red_st14_log2/197.jpg>
-<r256/h100/red_st14_log2/197.jpg, id=581, 1927.2pt x 1445.4pt>
+<r256/h100/red_st14_log2/197.jpg, id=598, 1927.2pt x 1445.4pt>
 File: r256/h100/red_st14_log2/197.jpg Graphic file (type jpg)
 
 <use r256/h100/red_st14_log2/197.jpg>
-<r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf, id=582, 794.97pt x 614.
+<r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf, id=599, 794.97pt x 614.
 295pt>
 File: r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf Graphic file (type 
 pdf)
  <use r256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf>
-<r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf, id=583, 794.97pt x 614
+<r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf, id=600, 794.97pt x 614
 .295pt>
 File: r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf Graphic file (type
  pdf)
  <use r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf>
-<r256/h70/red_st14_log2/plot_mvir_out_197.pdf, id=584, 794.97pt x 614.295pt>
+<r256/h70/red_st14_log2/plot_mvir_out_197.pdf, id=601, 794.97pt x 614.295pt>
 File: r256/h70/red_st14_log2/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h70/red_st14_log2/plot_mvir_out_197.pdf>
-<r256/h100/red_st14_log2/plot_mvir_out_197.pdf, id=585, 794.97pt x 614.295pt>
+<r256/h100/red_st14_log2/plot_mvir_out_197.pdf, id=602, 794.97pt x 614.295pt>
 File: r256/h100/red_st14_log2/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h100/red_st14_log2/plot_mvir_out_197.pdf>
-<r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf, id=586, 328.22626pt x 
+<r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf, id=603, 328.22626pt x 
 239.89626pt>
 File: r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf Graphic file (type
  pdf)
  <use r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf>
-<r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf, id=587, 328.22626pt x
+<r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf, id=604, 328.22626pt x
  239.89626pt>
 File: r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf Graphic file (typ
 e pdf)
  <use r256/h100/red_st14_log2/Plot_Star_Formation_History.pdf>
-Overfull \hbox (68.80968pt too wide) in paragraph at lines 254--262
+Overfull \hbox (68.80968pt too wide) in paragraph at lines 272--280
  [][] 
  []
 
-<r256/h70/rst14lg3/197.jpg, id=588, 1927.2pt x 1445.4pt>
+<r256/h70/rst14lg3/197.jpg, id=605, 1927.2pt x 1445.4pt>
 File: r256/h70/rst14lg3/197.jpg Graphic file (type jpg)
 
 <use r256/h70/rst14lg3/197.jpg>
-<r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf, id=589, 794.97pt x 614.295pt>
+<r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf, id=606, 794.97pt x 614.295pt>
 File: r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf Graphic file (type pdf)
 
 <use r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf>
-<r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf, id=590, 794.97pt x 614.295pt>
+<r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf, id=607, 794.97pt x 614.295pt>
 File: r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf Graphic file (type pdf)
 
 <use r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf>
-<r256/h70/rst14lg3/plot_mvir_out_197.pdf, id=591, 794.97pt x 614.295pt>
+<r256/h70/rst14lg3/plot_mvir_out_197.pdf, id=608, 794.97pt x 614.295pt>
 File: r256/h70/rst14lg3/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h70/rst14lg3/plot_mvir_out_197.pdf>
-<r256/h100/rst14lg3/plot_mvir_out_197.pdf, id=592, 794.97pt x 614.295pt>
+<r256/h100/rst14lg3/plot_mvir_out_197.pdf, id=609, 794.97pt x 614.295pt>
 File: r256/h100/rst14lg3/plot_mvir_out_197.pdf Graphic file (type pdf)
 
 <use r256/h100/rst14lg3/plot_mvir_out_197.pdf>
-<r256/h100/rst14lg3/Plot_Star_Formation_History.pdf, id=593, 328.22626pt x 239.
+<r256/h100/rst14lg3/Plot_Star_Formation_History.pdf, id=610, 328.22626pt x 239.
 89626pt>
 File: r256/h100/rst14lg3/Plot_Star_Formation_History.pdf Graphic file (type pdf
 )
  <use r256/h100/rst14lg3/Plot_Star_Formation_History.pdf>
-Overfull \hbox (44.50066pt too wide) in paragraph at lines 265--273
+Overfull \hbox (44.50066pt too wide) in paragraph at lines 283--291
  [][] 
  []
 
 
-Overfull \hbox (5.89134pt too wide) in paragraph at lines 276--280
+Overfull \hbox (5.89134pt too wide) in paragraph at lines 294--298
 \OT1/cmr/m/n/10.95 Galacticus: "merg-ing ha-los [...] have zero separation"-err
 or re-ported to Pe-ter Behroozi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--280
+Underfull \hbox (badness 10000) in paragraph at lines 294--298
 
  []
 
 
-Overfull \hbox (102.2083pt too wide) in paragraph at lines 282--287
+Overfull \hbox (102.2083pt too wide) in paragraph at lines 300--305
 []\OT1/cmr/m/n/10.95 Galacticus bug in stel-lar spe-tra cal-cu-la-tion re-porte
 d; Link: \OT1/cmtt/m/n/10.95 https://bugs.launchpad.net/bugs/1011471
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--287
+Underfull \hbox (badness 10000) in paragraph at lines 300--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--291
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
 
  []
 
 
-<r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf, id=594, 328.22626pt x 
+<r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf, id=611, 328.22626pt x 
 239.89626pt>
 File: r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf Graphic file (type
  pdf)
  <use r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf>
-[15 <./r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf>] [16 <./r256/h10
+Underfull \hbox (badness 10000) in paragraph at lines 345--349
+
+ []
+
+[17 <./r256/h100/NGenIC_10629/Plot_Star_Formation_History.pdf>] [18 <./r256/h10
 0/stages_14/197.jpg> <./r256/h100/stages_14/plot_powspec_stages_14.pdf, page is
  rotated 90 degrees> <./r256/h100/stages_14/plot_mvir_out_197.pdf, page is rota
 ted 90 degrees> <./r256/h100/stages_14/Plot_Star_Formation_History.pdf>]
-[17 <./r256/h100/stages14_ling/197.jpg> <./r256/h100/stages14_ling/plot_powspec
+[19 <./r256/h100/stages14_ling/197.jpg> <./r256/h100/stages14_ling/plot_powspec
 _stages14_ling.pdf, page is rotated 90 degrees> <./r256/h100/stages14_ling/plot
 _mvir_out_197.pdf, page is rotated 90 degrees> <./r256/h100/stages14_ling/Plot_
-Star_Formation_History.pdf>] [18 <./r256/h70/red_st14_log1/197.jpg> <./r256/h10
+Star_Formation_History.pdf>] [20 <./r256/h70/red_st14_log1/197.jpg> <./r256/h10
 0/red_st14_log1/197.jpg> <./r256/h70/red_st14_log1/plot_powspec_red_st14_log1.p
 df, page is rotated 90 degrees> <./r256/h100/red_st14_log1/plot_powspec_red_st1
 4_log1.pdf, page is rotated 90 degrees> <./r256/h70/red_st14_log1/plot_mvir_out
 _197.pdf, page is rotated 90 degrees> <./r256/h100/red_st14_log1/plot_mvir_out_
 197.pdf, page is rotated 90 degrees> <./r256/h70/red_st14_log1/Plot_Star_Format
 ion_History.pdf> <./r256/h100/red_st14_log1/Plot_Star_Formation_History.pdf>]
-[19 <./r256/h70/red_st14_log2/197.jpg> <./r256/h100/red_st14_log2/197.jpg> <./r
+[21 <./r256/h70/red_st14_log2/197.jpg> <./r256/h100/red_st14_log2/197.jpg> <./r
 256/h70/red_st14_log2/plot_powspec_red_st14_log2.pdf, page is rotated 90 degree
 s> <./r256/h100/red_st14_log2/plot_powspec_red_st14_log2.pdf, page is rotated 9
 0 degrees> <./r256/h70/red_st14_log2/plot_mvir_out_197.pdf, page is rotated 90 
 degrees> <./r256/h100/red_st14_log2/plot_mvir_out_197.pdf, page is rotated 90 d
 egrees> <./r256/h70/red_st14_log2/Plot_Star_Formation_History.pdf> <./r256/h100
-/red_st14_log2/Plot_Star_Formation_History.pdf>] [20 <./r256/h70/rst14lg3/197.j
+/red_st14_log2/Plot_Star_Formation_History.pdf>] [22 <./r256/h70/rst14lg3/197.j
 pg> <./r256/h70/rst14lg3/plot_powspec_rst14lg3.pdf, page is rotated 90 degrees>
  <./r256/h100/rst14lg3/plot_powspec_rst14lg3.pdf, page is rotated 90 degrees> <
 ./r256/h70/rst14lg3/plot_mvir_out_197.pdf, page is rotated 90 degrees> <./r256/
 h100/rst14lg3/plot_mvir_out_197.pdf, page is rotated 90 degrees> <./r256/h100/r
 st14lg3/Plot_Star_Formation_History.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 327--331
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--346
+Underfull \hbox (badness 10000) in paragraph at lines 366--370
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--352
+Underfull \hbox (badness 10000) in paragraph at lines 373--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--362
-
- []
-
-
-<r256/h100/stages_52/Plot_Star_Formation_History_small.pdf, id=853, 328.22626pt
+<r256/h100/stages_52/Plot_Star_Formation_History_small.pdf, id=870, 328.22626pt
  x 239.89626pt>
 File: r256/h100/stages_52/Plot_Star_Formation_History_small.pdf Graphic file (t
 ype pdf)
 
 <use r256/h100/stages_52/Plot_Star_Formation_History_small.pdf>
-Underfull \hbox (badness 10000) in paragraph at lines 364--372
+Underfull \hbox (badness 10000) in paragraph at lines 382--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--378
-
- []
-
-[21 <./r256/h100/stages_52/Plot_Star_Formation_History_small.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 380--383
+Underfull \hbox (badness 10000) in paragraph at lines 392--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--388
+Underfull \hbox (badness 10000) in paragraph at lines 398--401
 
  []
 
-<r256/h100/nonperiodictest/drd5nonperiodic.png, id=881, 614.295pt x 385.44pt>
+[23 <./r256/h100/stages_52/Plot_Star_Formation_History_small.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 403--406
+
+ []
+
+<r256/h100/nonperiodictest/drd5nonperiodic.png, id=898, 614.295pt x 385.44pt>
 File: r256/h100/nonperiodictest/drd5nonperiodic.png Graphic file (type png)
 
 <use r256/h100/nonperiodictest/drd5nonperiodic.png>
-<r256/h100/nonperiodictest/stages20nonperiodic.png, id=882, 1191.45125pt x 740.
+<r256/h100/nonperiodictest/stages20nonperiodic.png, id=899, 1191.45125pt x 740.
 7675pt>
 File: r256/h100/nonperiodictest/stages20nonperiodic.png Graphic file (type png)
 
  <use r256/h100/nonperiodictest/stages20nonperiodic.png>
-Overfull \hbox (25.593pt too wide) in paragraph at lines 390--394
+Overfull \hbox (25.593pt too wide) in paragraph at lines 408--412
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--394
+Underfull \hbox (badness 10000) in paragraph at lines 408--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--409
+Underfull \hbox (badness 10000) in paragraph at lines 420--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--415
+Underfull \hbox (badness 10000) in paragraph at lines 429--433
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--420
+Underfull \hbox (badness 10000) in paragraph at lines 435--438
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--439
+Underfull \hbox (badness 10000) in paragraph at lines 449--457
 
  []
 
-[22 <./r256/h100/nonperiodictest/drd5nonperiodic.png (PNG copy)> <./r256/h100/n
+[24 <./r256/h100/nonperiodictest/drd5nonperiodic.png (PNG copy)> <./r256/h100/n
 onperiodictest/stages20nonperiodic.png (PNG copy)>]
-Overfull \hbox (100.71956pt too wide) in paragraph at lines 468--468
+Overfull \hbox (100.71956pt too wide) in paragraph at lines 486--486
  []\OT1/cmtt/m/n/10.95 Useless use of private variable in void context at ../..
 /perl//XMP/MetaData.pm line 16.[] 
  []
 
 
-Overfull \hbox (8.74055pt too wide) in paragraph at lines 468--468
+Overfull \hbox (8.74055pt too wide) in paragraph at lines 486--486
  []\OT1/cmtt/m/n/10.95 Error Calling PDL::IO::HDF5::Dataset::get: Can't get HDF
 5 Dataset type.[] 
  []
 
 
-Overfull \hbox (8.74055pt too wide) in paragraph at lines 468--468
+Overfull \hbox (8.74055pt too wide) in paragraph at lines 486--486
  []\OT1/cmtt/m/n/10.95 Error Calling PDL::IO::HDF5::Dataset::get: Can't get HDF
 5 Dataset type.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--479
+Underfull \hbox (badness 10000) in paragraph at lines 489--497
 
  []
 
 
-Overfull \hbox (56.3483pt too wide) in paragraph at lines 481--484
+Overfull \hbox (56.3483pt too wide) in paragraph at lines 499--502
 []\OT1/cmr/m/n/10.95 add \OT1/cmtt/m/n/10.95 nohup \OT1/cmr/m/n/10.95 to \OT1/c
 mtt/m/n/10.95 ./rockstar server[]ib.cfg \OT1/cmr/m/n/10.95 in \OT1/cmtt/m/n/10.
 95 qsubrockstar.sh \OT1/cmr/m/n/10.95 and re-name \OT1/cmtt/m/n/10.95 rocky[]st
@@ -1332,199 +1374,199 @@ artscript
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83973 0.60500 wcon1Gy.st jan     r     11:01:23 astro14.
 astro-beowulf.      64[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83974 0.50500 rocky_star harre   r     13:14:22 astro-x4
 600-04.astro-beo     1[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83976 0.55421 stages_28_ harre   r     13:52:36 astro22.
 astro-beowulf.      32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83977 0.55421 stages_29_ harre   r     13:56:35 astro25.
 astro-beowulf.      32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83980 0.55421 stages_30_ harre   r     14:07:12 astro28.
 astro-beowulf.      32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83984 0.55421 stages_31_ harre   r     14:14:23 astro31.
 astro-beowulf.      32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83988 0.51611 rocky_star harre   r     14:49:20 astro-x4
 600-04.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83989 0.51611 rocky_star harre   r     14:50:54 astro-x4
 600-03.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83993 0.51611 rocky_star harre   r     15:12:52 astro-x4
 600-04.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83995 0.51611 rocky_star harre   r     15:16:43 astro-x4
 600-03.astro-beo     8[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83992 0.58278 c803_test_ markus  qw    14:54:54         
                     50[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83985 0.55421 stages_32_ harre   qw    14:14:31         
                     32[] 
  []
 
 
-Overfull \hbox (48.98137pt too wide) in paragraph at lines 498--498
+Overfull \hbox (48.98137pt too wide) in paragraph at lines 516--516
  []\OT1/cmtt/m/n/10.95 83986 0.55421 stages_33_ harre   qw    14:14:41         
                     32[] 
  []
 
 
-Overfull \hbox (11.42815pt too wide) in paragraph at lines 499--509
+Overfull \hbox (11.42815pt too wide) in paragraph at lines 517--527
 \OT1/cmr/bx/n/10.95 Rockstar \OT1/cmr/m/n/10.95 works if in-fini-band is forced
  with \OT1/cmtt/m/n/10.95 PARALLEL[]IO[]SERVER[]INTERFACE = "ib0"\OT1/cmr/m/n/1
 0.95 ,
  []
 
 
-Overfull \hbox (50.68646pt too wide) in paragraph at lines 499--509
+Overfull \hbox (50.68646pt too wide) in paragraph at lines 517--527
 \OT1/cmr/m/n/10.95 the client IP ad-dress is in-deed NOT nec-es-sary, client pr
 o-cess is started with \OT1/cmtt/m/n/10.95 auto-rockstar.cfg 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--509
-
- []
-
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 511--517
+Underfull \hbox (badness 10000) in paragraph at lines 517--527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--526
+Underfull \hbox (badness 10000) in paragraph at lines 529--535
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 537--544
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--537
+Underfull \hbox (badness 10000) in paragraph at lines 547--555
 
  []
 
 
-Overfull \hbox (13.55165pt too wide) in paragraph at lines 539--553
+Overfull \hbox (13.55165pt too wide) in paragraph at lines 557--571
 \OT1/cmr/m/n/10.95 added out-put red-shifts de-rived from \OT1/cmtt/m/n/10.95 g
 adget[]timer.txt \OT1/cmr/m/n/10.95 as pa-ram-e-ter \OT1/cmtt/m/n/10.95 outputR
 edshifts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--557
+Underfull \hbox (badness 10000) in paragraph at lines 574--575
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--568
+Underfull \hbox (badness 10000) in paragraph at lines 581--586
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
+Underfull \hbox (badness 10000) in paragraph at lines 588--589
 
  []
 
-[24]
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 601--601
+[26]
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 619--619
  []\OT1/cmtt/m/n/10.95 83492 0.60500 d31c_1_sta harre   r     02/10/2012 15:19:
 56 astro18  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 601--601
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 619--619
  []\OT1/cmtt/m/n/10.95 83493 0.60500 d31c_2_sta harre   r     02/10/2012 15:20:
 37 astro29  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 601--601
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 619--619
  []\OT1/cmtt/m/n/10.95 83494 0.60500 d31c_3_sta harre   r     02/10/2012 15:21:
 17 astro25  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 601--601
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 619--619
  []\OT1/cmtt/m/n/10.95 83495 0.60500 d51c_sl100 harre   r     02/10/2012 15:23:
 21 astro31  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 601--601
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 619--619
  []\OT1/cmtt/m/n/10.95 83496 0.54786 d3+3c_sl50 harre   r     02/10/2012 15:37:
 13 astro12  16[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 601--601
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 619--619
  []\OT1/cmtt/m/n/10.95 83497 0.60500 d3+3c_sl50 harre   r     02/10/2012 15:39:
 16 astro30  32[] 
  []
 
 
-Overfull \hbox (2.99187pt too wide) in paragraph at lines 601--601
+Overfull \hbox (2.99187pt too wide) in paragraph at lines 619--619
  []\OT1/cmtt/m/n/10.95 83498 0.60500 d15+3c_sl5 harre   r     02/10/2012 15:44:
 23 astro30  16[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 604--607
+Underfull \hbox (badness 10000) in paragraph at lines 622--625
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 609--615
+Underfull \hbox (badness 10000) in paragraph at lines 627--633
 
  []
 
-[25] (./Notes_Single.aux) ) 
+[27] (./Notes_Single.aux) ) 
 Here is how much of TeX's memory you used:
- 6663 strings out of 495021
- 107799 string characters out of 1181036
+ 6692 strings out of 495021
+ 109409 string characters out of 1181036
  166790 words of memory out of 3000000
- 9616 multiletter control sequences out of 15000+50000
+ 9636 multiletter control sequences out of 15000+50000
  12480 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,13n,24p,281b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,13n,24p,281b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfont
 s/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
@@ -1535,9 +1577,9 @@ ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Notes_Single.pdf (26 pages, 8750417 bytes).
+Output written on Notes_Single.pdf (28 pages, 9576969 bytes).
 PDF statistics:
- 944 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 437 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 961 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 462 words of extra memory for PDF output out of 10000 (max. 10000000)
 

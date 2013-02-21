@@ -1,58 +1,7 @@
 \BOOKMARK [0][-]{chapter.1}{Notes}{}
-\BOOKMARK [0][-]{chapter.2}{Simulations}{}
-\BOOKMARK [1][-]{section.2.1}{r128}{chapter.2}
-\BOOKMARK [2][-]{subsection.2.1.1}{h70}{section.2.1}
-\BOOKMARK [3][-]{section*.2}{600}{subsection.2.1.1}
-\BOOKMARK [3][-]{section*.3}{601}{subsection.2.1.1}
-\BOOKMARK [2][-]{subsection.2.1.2}{h100}{section.2.1}
-\BOOKMARK [3][-]{section*.4}{drdx\1373}{subsection.2.1.2}
-\BOOKMARK [3][-]{section*.5}{drdx\137h100\137r128\1371}{subsection.2.1.2}
-\BOOKMARK [3][-]{section*.6}{drdx\137h100\137r128\1372}{subsection.2.1.2}
-\BOOKMARK [3][-]{section*.7}{drkltest+3c+sl50\1371}{subsection.2.1.2}
-\BOOKMARK [1][-]{section.2.2}{r256}{chapter.2}
-\BOOKMARK [2][-]{subsection.2.2.1}{h70}{section.2.2}
-\BOOKMARK [3][-]{section*.8}{mm\137h \(major merger H comparison\)}{subsection.2.2.1}
-\BOOKMARK [3][-]{section*.9}{red\137st14\137log1}{subsection.2.2.1}
-\BOOKMARK [3][-]{section*.10}{red\137st14\137log2}{subsection.2.2.1}
-\BOOKMARK [3][-]{section*.11}{rst14lg3}{subsection.2.2.1}
-\BOOKMARK [3][-]{section*.12}{stages\13712\137h\13744}{subsection.2.2.1}
-\BOOKMARK [3][-]{section*.13}{stages\13720\137h}{subsection.2.2.1}
-\BOOKMARK [2][-]{subsection.2.2.2}{h100}{section.2.2}
-\BOOKMARK [3][-]{section*.14}{dr5d5\137r256}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.15}{drd5\137r256 \(\)}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.16}{drd5\137r256\1372 \(+ major merger in progress\)}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.17}{drdx\1373\137r256}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.18}{fuenfincr256\1371}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.19}{fuenfincr256\1372 \040dump!}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.20}{gendrkl1r2\1371c\1371}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.21}{mm\137h \(major merger H comparison\)}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.22}{NGenIC\13710629}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.23}{NGenIC\13715039}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.24}{NGenIC\13726214}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.25}{red\137st14\137log1}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.26}{red\137st14\137log2}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.27}{rst14lg3}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.28}{stages\13707}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.29}{stages\13712}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.30}{stages\13713}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.31}{stages14\137ling}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.32}{stages\13714}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.33}{stages\13714e}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.34}{stages\13718}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.35}{stages\13719}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.36}{stages\13720}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.37}{stages\13721}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.38}{stages\13737}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.39}{stages\13746}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.40}{stages\13750}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.41}{stages51\137ling}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.42}{stages\13751}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.43}{stages\13752}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.44}{stages\13754dr5d5}{subsection.2.2.2}
-\BOOKMARK [3][-]{section*.45}{stages\13756}{subsection.2.2.2}
-\BOOKMARK [1][-]{section.2.3}{r512}{chapter.2}
-\BOOKMARK [2][-]{subsection.2.3.1}{512er\137major\137merger}{section.2.3}
-\BOOKMARK [2][-]{subsection.2.3.2}{NGenIC\1377755}{section.2.3}
-\BOOKMARK [2][-]{subsection.2.3.3}{NGenIC\13710939}{section.2.3}
-\BOOKMARK [2][-]{subsection.2.3.4}{NGenIC\13711410}{section.2.3}
-\BOOKMARK [2][-]{subsection.2.3.5}{NGenIC\13727036}{section.2.3}
+\BOOKMARK [1][-]{section.1.1}{r512}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.1.1}{512er\137major\137merger}{section.1.1}
+\BOOKMARK [2][-]{subsection.1.1.2}{NGenIC\1377755}{section.1.1}
+\BOOKMARK [2][-]{subsection.1.1.3}{NGenIC\13710939}{section.1.1}
+\BOOKMARK [2][-]{subsection.1.1.4}{NGenIC\13711410}{section.1.1}
+\BOOKMARK [2][-]{subsection.1.1.5}{NGenIC\13727036}{section.1.1}
